@@ -1,0 +1,26 @@
+<li class="my-8 flex items-start">
+  <img class="mr-4 bg-gray-100" width="75" height="75" src="{{ article.image_urls.square }}" alt="{{ article.header }}">
+  <div>
+    <p class="slash-separated text-sm font-semibold text-gray-800">
+      <span>{{ article.article_type | formatArticleType }}</span>
+      <span>{{ article.publish_date | date }}</span>
+    </p>
+    {% if article.article_type == 'review'%}
+    <p>
+      <span class="font-semibold text-purple-800">{{ article.artist }}</span> - {{ article.title }}
+      <span title="{{article.rating}} / 5 stjærner" class="text-gray-800 align-text-bottom whitespace-nowrap">
+      {% for x in range(0, article.rating) %}
+        <svg class="inline-block" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+      {% endfor %}
+      {% for x in range(article.rating, 5) %}
+        <svg class="inline-block" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+      {% endfor %}
+      </span>
+    </p>
+    {% else %}
+    <p>{{ article.title }}</p>
+    {% endif %}
+    <h2 class="text-lg font-bold"><a class="clear-link hover:underline" href="https://gaffa.dk{{ article.url }}">{{ article.header }}</a></h2>
+  </div>
+</li>

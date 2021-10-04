@@ -1,0 +1,12 @@
+---
+layout: base.njk
+title: Artikler
+---
+
+{% include "partials/feed-header.njk" %}
+
+<ul>
+  {% for article in gaffa | filterArticles %}
+    {% include "partials/feed-item.njk" %}
+  {% endfor %}
+</ul>

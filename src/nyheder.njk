@@ -1,0 +1,12 @@
+---
+layout: base.njk
+title: Nyheder
+---
+
+{% include "partials/feed-header.njk" %}
+
+<ul>
+  {% for article in gaffa | filterNews %}
+    {% include "partials/feed-item.njk" %}
+  {% endfor %}
+</ul>

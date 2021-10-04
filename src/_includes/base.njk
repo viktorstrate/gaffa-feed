@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="da">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - gaffa feed</title>
+    <link rel="stylesheet" href="{{ '/style.css' | url }}">
+  </head>
+  <body>
+    <main class="mb-8 mt-16 px-4 max-w-[900px] mx-auto">
+      {{ content | safe }}
+      <footer>
+        <hr />
+        <i>Feed sidst opdateret: {{ page.date | date }}</i>
+      </footer>
+    </main>
+  </body>
+</html>

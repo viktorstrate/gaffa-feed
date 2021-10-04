@@ -1,0 +1,12 @@
+---
+layout: base.njk
+title: Anmeldelser
+---
+
+{% include "partials/feed-header.njk" %}
+
+<ul>
+  {% for article in gaffa | filterReviews %}
+    {% include "partials/feed-item.njk" %}
+  {% endfor %}
+</ul>
