@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve --input=./src",
-    "build": "NODE_ENV=production eleventy --input=./src",
+    "build": "NODE_ENV=production eleventy --input=./src --pathprefix 'gaffa-feed'",
     "test": "NODE_ENV=production eleventy --input=./src --dryrun"
   },
   "keywords": [],
