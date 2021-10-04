@@ -32,7 +32,7 @@
       {% else %}
         <p><b>{{ article.article_type | formatArticleType }}</b></p>
       {% endif %}
-      <img src="{{ article.image_urls.original_w1000 }}" alt="{{ article.header }}">
+      <img src="{{ article.image_urls.original_w1000 }}" alt="{{ article.header }}" />
     </content>
   </entry>
   {%- endfor %}
