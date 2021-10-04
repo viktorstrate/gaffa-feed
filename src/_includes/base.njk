@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="/feed.xml" />
     <title>{{ title }} - gaffa feed</title>
     <link rel="stylesheet" href="{{ '/style.css' | url }}">
   </head>
@@ -11,7 +12,7 @@
       {{ content | safe }}
       <footer>
         <hr />
-        <i>Feed sidst opdateret: {{ page.date | date }}</i>
+        <i>Feed sidst opdateret: {{ page.date | formatDate }}</i>
       </footer>
     </main>
   </body>

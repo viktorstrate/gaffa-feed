@@ -23,7 +23,7 @@ module.exports = function (eleventyConfig) {
     },
   })
 
-  eleventyConfig.addFilter('date', (value) => {
+  eleventyConfig.addFilter('formatDate', (value) => {
     const date = new Date(value)
     return date.toLocaleDateString('da', { dateStyle: 'medium' })
   })

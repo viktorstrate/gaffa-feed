@@ -3,7 +3,7 @@
   <div>
     <p class="slash-separated text-sm font-semibold text-gray-800">
       <span>{{ article.article_type | formatArticleType }}</span>
-      <span>{{ article.publish_date | date }}</span>
+      <span>{{ article.publish_date | formatDate }}</span>
     </p>
     {% if article.article_type == 'review'%}
     <p>

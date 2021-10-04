@@ -26,7 +26,13 @@
     <updated>{{ article.publish_date | date | dateToRfc3339 }}</updated>
     <id>{{ article.id }}</id>
     <content type="html">
-      POST CONTENT
+      {% if article.article_type == 'review' %}
+        <p><b>{{ article.article_type | formatArticleType }}</b> - <span>{{article.rating}} / 5 stjærner</span></p>
+        <p>{{ article.artist }} - {{ article.title }}</p>
+      {% else %}
+        <p><b>{{ article.article_type | formatArticleType }}<b/></p>
+      {% endif %}
+      <img src="{{ article.image_urls.original_w1000 }}" alt="{{ article.header }}">
     </content>
   </entry>
   {%- endfor %}
