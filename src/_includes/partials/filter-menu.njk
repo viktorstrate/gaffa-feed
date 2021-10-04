@@ -1,17 +1,17 @@
 <nav aria-label="Navigation">
   <ul class="inline-block">
     <li class="inline mr-2 {{ 'font-bold' if page.url == '/' else '' }}" {{ 'aria-current="page"' | safe if page.url == '/' else '' }}>
-      <a href="/">Hele feed</a>
+      <a href="{{ '/' | url }}">Hele feed</a>
     </li>
     <li class="inline mr-2 {{ 'font-bold' if page.url == '/anmeldelser/' else '' }}" {{ 'aria-current="page"' | safe if page.url == '/anmeldelser/' else '' }}>
-      <a href="/anmeldelser">Anmeldelser</a>
+      <a href="{{ '/anmeldelser' | url }}">Anmeldelser</a>
     </li>
     <li class="inline mr-2 {{ 'font-bold' if page.url == '/nyheder/' else '' }}" {{ 'aria-current="page"' | safe if page.url == '/nyheder/' else '' }}>
-      <a href="/nyheder">Nyheder</a>
+      <a href="{{ '/nyheder' | url }}">Nyheder</a>
     </li>
     <li class="inline mr-2 {{ 'font-bold' if page.url == '/artikler/' else '' }}" {{ 'aria-current="page"' | safe if page.url == '/artikler/' else '' }}>
-      <a href="/artikler">Artikler</a>
+      <a href="{{ '/artikler' | url }}">Artikler</a>
     </li>
   </ul>
-  <a class="clear-link text-gray-800 underline hover:text-black" href="/feed.xml">RSS Feed</a>
+  <a class="clear-link text-gray-800 underline hover:text-black" href="{{ '/feed.xml' | url }}">RSS Feed</a>
 </nav>
