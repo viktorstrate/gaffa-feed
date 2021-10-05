@@ -6,7 +6,7 @@ title: Nyheder
 {% include "partials/feed-header.njk" %}
 
 <ul>
-  {% for article in gaffa | filterNews %}
+  {% for article in gaffa | filterNews | limit(100) %}
     {% include "partials/feed-item.njk" %}
   {% endfor %}
 </ul>

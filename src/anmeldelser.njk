@@ -6,7 +6,7 @@ title: Anmeldelser
 {% include "partials/feed-header.njk" %}
 
 <ul>
-  {% for article in gaffa | filterReviews %}
+  {% for article in gaffa | filterReviews | limit(100) %}
     {% include "partials/feed-item.njk" %}
   {% endfor %}
 </ul>

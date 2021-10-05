@@ -76,4 +76,6 @@ module.exports = function (eleventyConfig) {
     'getNewestGaffaArticleDate',
     (articles) => new Date(articles[0].publish_date)
   )
+
+  eleventyConfig.addFilter('limit', (arr, limit) => arr.slice(0, limit))
 }

@@ -6,7 +6,7 @@ title: Alle artikler
 {% include "partials/feed-header.njk" %}
 
 <ul>
-  {% for article in gaffa %}
+  {% for article in gaffa | limit(100) %}
     {% include "partials/feed-item.njk" %}
   {% endfor %}
 </ul>
