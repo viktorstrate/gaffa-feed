@@ -26,15 +26,18 @@
     <link href="{{ absolutePostUrl }}"/>
     <updated>{{ article.publish_date | date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
+    <category term="{{ article.article_type }}" label="{{ article.article_type | formatArticleType }}"/>
     <content type="html" xml:base="{{ absolutePostUrl }}">
     <![CDATA[
-      {%- if article.article_type == 'review' -%}
-        <p><b>{{ article.article_type | formatArticleType }}:</b> {{article.rating}} / 5 stjærner.</p>
-        <p>{{ article.artist }} - {{ article.title }}</p>
-      {%- else -%}
-        <p>{{ article.article_type | formatArticleType }}</p>
-      {%- endif -%}
-      <img src="{{ article.image_urls.original_w1000 }}" alt="{{ article.header }}" />
+      <div>
+        {%- if article.article_type == 'review' -%}
+          <p><b>{{ article.article_type | formatArticleType }}:</b> {{article.rating}} / 5 stjærner.</p>
+          <p>{{ article.artist }} - {{ article.title }}</p>
+        {%- else -%}
+          <p>{{ article.article_type | formatArticleType }}</p>
+        {%- endif -%}
+        <img src="{{ article.image_urls.original_w1000 }}" alt="{{ article.header }}" />
+      </div>
     ]]>
     </content>
   </entry>
