@@ -1,5 +1,7 @@
 <li class="my-8 flex items-start">
-  <img class="mr-4 bg-gray-100" width="75" height="75" src="{{ article.image_urls.square }}" alt="{{ article.header }}">
+  <a class="clear-link mr-4 flex-shrink-0" href="https://gaffa.dk{{ article.url }}">
+    <img class="bg-gray-100" width="75" height="75" src="{{ article.image_urls.square }}" alt="{{ article.header }}">
+  </a>
   <div>
     <p class="slash-separated text-sm font-semibold text-gray-800">
       <span>{{ article.article_type | formatArticleType }}</span>

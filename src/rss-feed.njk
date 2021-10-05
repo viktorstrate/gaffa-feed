@@ -25,7 +25,7 @@
     <title>{{ article.header }}</title>
     <link href="{{ absolutePostUrl }}"/>
     <updated>{{ article.publish_date | date | dateToRfc3339 }}</updated>
-    <id>{{ article.id }}</id>
+    <id>{{ absolutePostUrl }}</id>
     <summary>
       {%- if article.article_type == 'review' -%}
         {{ article.article_type | formatArticleType }}: {{article.rating}} / 5 stjærner. {{ article.artist }} - {{ article.title }}
@@ -34,7 +34,7 @@
       {%- endif -%}
     </summary>
     <content type="html">
-      <img src="{{ article.image_urls.original_w1000 }}" alt="{{ article.header }}" />
+    <![CDATA[<img src="{{ article.image_urls.original_w1000 }}" alt="{{ article.header }}" />]]>
     </content>
   </entry>
   {%- endfor %}
