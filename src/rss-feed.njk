@@ -25,6 +25,7 @@
     <title>{{ article.header }}</title>
     <link href="{{ absolutePostUrl }}"/>
     <updated>{{ article.publish_date | date | dateToRfc3339 }}</updated>
+    <published>{{ article.publish_date | date | dateToRfc3339 }}</published>
     <id>{{ absolutePostUrl }}</id>
     <category term="{{ article.article_type }}" label="{{ article.article_type | formatArticleType }}"/>
     <content type="html" xml:base="{{ absolutePostUrl }}">
