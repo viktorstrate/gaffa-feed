@@ -16,22 +16,24 @@
   <subtitle>{{ metadata.subtitle }}</subtitle>
   <link href="{{ metadata.feedUrl }}" rel="self"/>
   <link href="{{ metadata.url }}"/>
+  <rights>Copyright Gaffa.dk - all rights reserved</rights>
   <updated>{{ gaffa | getNewestGaffaArticleDate | dateToRfc3339 }}</updated>
   <id>{{ metadata.url }}</id>
   {%- for article in gaffa %}
-  {% set absolutePostUrl %}{{ article.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  {% set absolutePostUrl %}{{ article.url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
     <title>{{ article.header }}</title>
     <link href="{{ absolutePostUrl }}"/>
     <updated>{{ article.publish_date | date | dateToRfc3339 }}</updated>
     <id>{{ article.id }}</id>
+    <summary>
+      {%- if article.article_type == 'review' -%}
+        {{ article.article_type | formatArticleType }}: {{article.rating}} / 5 stjærner. {{ article.artist }} - {{ article.title }}
+      {%- else -%}
+        {{ article.article_type | formatArticleType }}
+      {%- endif -%}
+    </summary>
     <content type="html">
-      {% if article.article_type == 'review' %}
-        <p><b>{{ article.article_type | formatArticleType }}</b> - <span>{{article.rating}} / 5 stjærner</span></p>
-        <p>{{ article.artist }} - {{ article.title }}</p>
-      {% else %}
-        <p><b>{{ article.article_type | formatArticleType }}</b></p>
-      {% endif %}
       <img src="{{ article.image_urls.original_w1000 }}" alt="{{ article.header }}" />
     </content>
   </entry>

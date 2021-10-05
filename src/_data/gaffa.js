@@ -15,7 +15,7 @@ module.exports = async () => {
     const { data } = await Cache(
       `https://api.gaffa.dk/feeds/stream?limit=50&page=${i + 1}`,
       {
-        duration: '1d', // 1 day
+        duration: '1h', // 1 hour
         type: 'json',
       }
     )

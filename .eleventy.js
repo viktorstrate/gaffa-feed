@@ -1,5 +1,6 @@
 const pluginTailwindCSS = require('eleventy-plugin-tailwindcss')
 const pluginRss = require('@11ty/eleventy-plugin-rss')
+const htmlmin = require('html-minifier')
 
 module.exports = function (eleventyConfig) {
   const isProduction = process.env.NODE_ENV == 'production'
@@ -23,9 +24,30 @@ module.exports = function (eleventyConfig) {
     },
   })
 
+  // Minify HTML in production
+  eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
+    if (isProduction && outputPath.endsWith('.html')) {
+      let minified = htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+      })
+      return minified
+    }
+
+    return content
+  })
+
   eleventyConfig.addFilter('formatDate', (value) => {
     const date = new Date(value)
-    return date.toLocaleDateString('da', { dateStyle: 'medium' })
+
+    const hour =
+      date.getHours() < 10 ? `0${date.getHours()}` : `${date.getHours()}`
+    const minute =
+      date.getMinutes() < 10 ? `0${date.getMinutes()}` : `${date.getMinutes()}`
+    const day = date.toLocaleDateString('da', { dateStyle: 'medium' })
+
+    return `${day}, ${hour}:${minute}`
   })
 
   eleventyConfig.addFilter('filterArticles', (feed) =>

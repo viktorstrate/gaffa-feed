@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="da">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Et simpelt og tilgængeligt nyhedsfeed med anmeldelser, musiknyheder og artikler fra musikbladet Gaffa. Med et RSS-feed så indholdet kan læses flere steder." />
     <link rel="alternate" type="application/rss+xml" title="RSS feed" href="/feed.xml" />
     <title>{{ title }} - gaffa feed</title>
     <link rel="stylesheet" href="{{ '/style.css' | url }}">
@@ -12,7 +13,7 @@
       {{ content | safe }}
       <footer>
         <hr />
-        <i>Feed sidst opdateret: {{ page.date | formatDate }}</i>
+        <i>Feed sidst opdateret: {{ build_date | formatDate }}</i>
       </footer>
     </main>
   </body>
