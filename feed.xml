@@ -5,8 +5,24 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-08T13:41:00Z</updated>
+  <updated>2021-10-09T07:20:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDELSE: Levende band under fine forhold</title>
+    <link href="https://gaffa.dk/anmeldelse/151958/anmeldelse-levende-band-under-fine-forhold/"/>
+    <updated>2021-10-09T07:20:00Z</updated>
+    <published>2021-10-09T07:20:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/151958/anmeldelse-levende-band-under-fine-forhold/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/151958/anmeldelse-levende-band-under-fine-forhold/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Love Shop - Paletten, Viborg</p><img src="https://static.gaffa.dk/images/2020/12/04/1ce3a/350209-w1000.jpg" alt="ANMELDELSE: Levende band under fine forhold" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Nik &amp; Jay udskyder arenakoncerter til 2022</title>
@@ -99,6 +115,21 @@
   </entry>
   
   <entry>
+    <title>Jens Unmack: Her er seks sange, som betyder noget særligt for mig</title>
+    <link href="https://gaffa.dk/artikel/151956/jens-unmack-her-er-seks-sange-som-betyder-noget-saerligt-for-mig/"/>
+    <updated>2021-10-08T16:30:00Z</updated>
+    <published>2021-10-08T16:30:00Z</published>
+    <id>https://gaffa.dk/artikel/151956/jens-unmack-her-er-seks-sange-som-betyder-noget-saerligt-for-mig/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/151956/jens-unmack-her-er-seks-sange-som-betyder-noget-saerligt-for-mig/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/01/177de/361044-w1000.png" alt="Jens Unmack: Her er seks sange, som betyder noget særligt for mig" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
     <title>Deep Purple annoncerer nyt coveralbum</title>
     <link href="https://gaffa.dk/nyhed/151950/deep-purple-annoncerer-nyt-coveralbum/"/>
     <updated>2021-10-08T15:30:00Z</updated>
@@ -145,6 +176,22 @@
   </entry>
   
   <entry>
+    <title>ANMELDELSE: En højttaler til mange formål</title>
+    <link href="https://gaffa.dk/anmeldelse/151955/anmeldelse-en-hojttaler-til-mange-formal/"/>
+    <updated>2021-10-08T17:00:00Z</updated>
+    <published>2021-10-08T17:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/151955/anmeldelse-en-hojttaler-til-mange-formal/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/151955/anmeldelse-en-hojttaler-til-mange-formal/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>TECH - Poly Sync 20</p><img src="https://static.gaffa.dk/images/2021/10/08/170d9/361585-w1000.jpg" alt="ANMELDELSE: En højttaler til mange formål" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
     <title>Stem din guitar med Google</title>
     <link href="https://gaffa.dk/nyhed/151952/stem-din-guitar-med-google/"/>
     <updated>2021-10-08T15:30:00Z</updated>
@@ -154,21 +201,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151952/stem-din-guitar-med-google/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/08/93175/361581-w1000.jpg" alt="Stem din guitar med Google" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Efterklang inviterer til releasekoncert </title>
-    <link href="https://gaffa.dk/nyhed/151949/efterklang-inviterer-til-releasekoncert/"/>
-    <updated>2021-10-08T14:45:00Z</updated>
-    <published>2021-10-08T14:45:00Z</published>
-    <id>https://gaffa.dk/nyhed/151949/efterklang-inviterer-til-releasekoncert/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151949/efterklang-inviterer-til-releasekoncert/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/05/19/c8690/354230-w1000.jpg" alt="Efterklang inviterer til releasekoncert " />
       </div>
     ]]>
     </content>
@@ -260,6 +292,22 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151935/video-se-go-go-berlins-nye-musikvideo-til-better-off-alone/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/05/07/8c1e3/353644-w1000.jpeg" alt="VIDEO: Se Go Go Berlins nye musikvideo til ”Better Off Alone”" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Godt nyt fra to generationer</title>
+    <link href="https://gaffa.dk/anmeldelse/151957/anmeldelse-godt-nyt-fra-to-generationer/"/>
+    <updated>2021-10-08T00:08:00Z</updated>
+    <published>2021-10-08T00:08:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/151957/anmeldelse-godt-nyt-fra-to-generationer/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/151957/anmeldelse-godt-nyt-fra-to-generationer/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Tony Bennett &amp; Lady Gaga - Love for Sale</p><img src="https://static.gaffa.dk/images/2021/10/08/11ad1/361587-w1000.jpg" alt="ANMELDELSE: Godt nyt fra to generationer" />
       </div>
     ]]>
     </content>
@@ -2998,51 +3046,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151562/bts-og-coldplay-udgiver-sang-sammen-hor-den-nu/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/24/8162b/360757-w1000.jpg" alt="BTS og Coldplay udgiver sang sammen – hør den nu " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>The William Blakes annoncerer nyt album og koncerter – hør single</title>
-    <link href="https://gaffa.dk/nyhed/151559/the-william-blakes-annoncerer-nyt-album-og-koncerter-hor-single/"/>
-    <updated>2021-09-24T11:00:00Z</updated>
-    <published>2021-09-24T11:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/151559/the-william-blakes-annoncerer-nyt-album-og-koncerter-hor-single/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151559/the-william-blakes-annoncerer-nyt-album-og-koncerter-hor-single/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/24/17bce/360756-w1000.jpeg" alt="The William Blakes annoncerer nyt album og koncerter – hør single" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Guns N’ Roses udgiver ny, gammel sang </title>
-    <link href="https://gaffa.dk/nyhed/151554/guns-n-roses-udgiver-ny-gammel-sang/"/>
-    <updated>2021-09-24T10:00:00Z</updated>
-    <published>2021-09-24T10:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/151554/guns-n-roses-udgiver-ny-gammel-sang/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151554/guns-n-roses-udgiver-ny-gammel-sang/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/04/06/b230b/352524-w1000.png" alt="Guns N’ Roses udgiver ny, gammel sang " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Carpark North to første album udkommer for første gang på vinyl</title>
-    <link href="https://gaffa.dk/nyhed/151540/carpark-north-to-forste-album-udkommer-for-forste-gang-pa-vinyl/"/>
-    <updated>2021-09-24T08:30:00Z</updated>
-    <published>2021-09-24T08:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/151540/carpark-north-to-forste-album-udkommer-for-forste-gang-pa-vinyl/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151540/carpark-north-to-forste-album-udkommer-for-forste-gang-pa-vinyl/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/09/20/20a36/334041-w1000.jpg" alt="Carpark North to første album udkommer for første gang på vinyl" />
       </div>
     ]]>
     </content>
