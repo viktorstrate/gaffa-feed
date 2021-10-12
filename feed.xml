@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-11T10:20:00Z</updated>
+  <updated>2021-10-12T00:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>IBEN HJEJLE OM SIN MUSIKSMAG: &quot;Rammstein er noget ork-musik, det er fem minutter i rollespil&quot;</title>
+    <link href="https://gaffa.dk/artikel/151989/iben-hjejle-om-sin-musiksmag-rammstein-er-noget-ork-musik-det-er-fem-minutter-i-rollespil/"/>
+    <updated>2021-10-12T00:00:00Z</updated>
+    <published>2021-10-12T00:00:00Z</published>
+    <id>https://gaffa.dk/artikel/151989/iben-hjejle-om-sin-musiksmag-rammstein-er-noget-ork-musik-det-er-fem-minutter-i-rollespil/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/151989/iben-hjejle-om-sin-musiksmag-rammstein-er-noget-ork-musik-det-er-fem-minutter-i-rollespil/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/10/0b845/361951-w1000.jpg" alt="IBEN HJEJLE OM SIN MUSIKSMAG: &quot;Rammstein er noget ork-musik, det er fem minutter i rollespil&quot;" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Meister i sit eget liv</title>
@@ -63,6 +78,21 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/152004/bedst-lige-nu-12-nye-og-handplukkede-tracks/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/09/16/0dcca/359598-w1000.jpg" alt="BEDST LIGE NU: 12 nye og håndplukkede tracks" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Headsettet ligner et stetoskop</title>
+    <link href="https://gaffa.dk/nyhed/152018/anmeldelse-headsettet-ligner-et-stetoskop/"/>
+    <updated>2021-10-11T17:30:00Z</updated>
+    <published>2021-10-11T17:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/152018/anmeldelse-headsettet-ligner-et-stetoskop/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152018/anmeldelse-headsettet-ligner-et-stetoskop/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/11/b3208/361965-w1000.jpg" alt="ANMELDELSE: Headsettet ligner et stetoskop" />
       </div>
     ]]>
     </content>
@@ -3021,36 +3051,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151631/grammy-vindende-gary-clark-jr-giver-koncert-i-kobenhavn/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/27/c3b81/360841-w1000.jpg" alt="Grammy-vindende Gary Clark Jr. giver koncert i København" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>X Factors nye dommer: Livet handler om at udfordre sig selv</title>
-    <link href="https://gaffa.dk/nyhed/151625/x-factors-nye-dommer-livet-handler-om-at-udfordre-sig-selv/"/>
-    <updated>2021-09-27T10:56:00Z</updated>
-    <published>2021-09-27T10:56:00Z</published>
-    <id>https://gaffa.dk/nyhed/151625/x-factors-nye-dommer-livet-handler-om-at-udfordre-sig-selv/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151625/x-factors-nye-dommer-livet-handler-om-at-udfordre-sig-selv/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/11/09/8124b/310727-w1000.jpeg" alt="X Factors nye dommer: Livet handler om at udfordre sig selv" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Status Quo-bassisten Alan Lancaster er død </title>
-    <link href="https://gaffa.dk/nyhed/151615/status-quo-bassisten-alan-lancaster-er-dod/"/>
-    <updated>2021-09-27T07:16:00Z</updated>
-    <published>2021-09-27T07:16:00Z</published>
-    <id>https://gaffa.dk/nyhed/151615/status-quo-bassisten-alan-lancaster-er-dod/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151615/status-quo-bassisten-alan-lancaster-er-dod/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/27/ca686/360830-w1000.jpg" alt="Status Quo-bassisten Alan Lancaster er død " />
       </div>
     ]]>
     </content>
