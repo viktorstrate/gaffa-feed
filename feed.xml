@@ -5,19 +5,49 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-13T09:20:00Z</updated>
+  <updated>2021-10-14T07:30:00Z</updated>
   <id>https://gaffa.dk/</id>
   
   <entry>
-    <title>Meister i sit eget liv</title>
-    <link href="https://gaffa.dk/nyhed/151863/meister-i-sit-eget-liv/"/>
-    <updated>2021-10-13T09:20:00Z</updated>
-    <published>2021-10-13T09:20:00Z</published>
-    <id>https://gaffa.dk/nyhed/151863/meister-i-sit-eget-liv/</id>
+    <title>Johnny Marr annoncerer kommende dobbeltalbum og livestream</title>
+    <link href="https://gaffa.dk/nyhed/152073/johnny-marr-annoncerer-kommende-dobbeltalbum-og-livestream/"/>
+    <updated>2021-10-14T07:30:00Z</updated>
+    <published>2021-10-14T07:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/152073/johnny-marr-annoncerer-kommende-dobbeltalbum-og-livestream/</id>
     <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151863/meister-i-sit-eget-liv/">
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152073/johnny-marr-annoncerer-kommende-dobbeltalbum-og-livestream/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/06/3c64f/361455-w1000.jpg" alt="Meister i sit eget liv" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/07/08/e30d5/328259-w1000.jpg" alt="Johnny Marr annoncerer kommende dobbeltalbum og livestream" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Adele annoncerer dato for kommende album</title>
+    <link href="https://gaffa.dk/nyhed/152077/adele-annoncerer-dato-for-kommende-album/"/>
+    <updated>2021-10-13T20:30:00Z</updated>
+    <published>2021-10-13T20:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/152077/adele-annoncerer-dato-for-kommende-album/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152077/adele-annoncerer-dato-for-kommende-album/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/13/50bf6/362038-w1000.jpg" alt="Adele annoncerer dato for kommende album" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Døden følger i lægens fodspor</title>
+    <link href="https://gaffa.dk/nyhed/152076/doden-folger-i-laegens-fodspor/"/>
+    <updated>2021-10-13T17:05:00Z</updated>
+    <published>2021-10-13T17:05:00Z</published>
+    <id>https://gaffa.dk/nyhed/152076/doden-folger-i-laegens-fodspor/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152076/doden-folger-i-laegens-fodspor/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/13/0a9d5/362037-w1000.jpg" alt="Døden følger i lægens fodspor" />
       </div>
     ]]>
     </content>
@@ -33,6 +63,22 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152067/brian-eno-vil-have-en-klimarevolution-i-musikbranchen/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2016/04/29/394b4/219857-w1000.jpg" alt="Brian Eno vil have en klimarevolution i musikbranchen" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Flot tracker holder styr på din aktivitet</title>
+    <link href="https://gaffa.dk/anmeldelse/152070/anmeldelse-flot-tracker-holder-styr-pa-din-aktivitet/"/>
+    <updated>2021-10-13T16:30:00Z</updated>
+    <published>2021-10-13T16:30:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152070/anmeldelse-flot-tracker-holder-styr-pa-din-aktivitet/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152070/anmeldelse-flot-tracker-holder-styr-pa-din-aktivitet/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
+          <p>TECH - Fitbit Luxe</p><img src="https://static.gaffa.dk/images/2021/10/13/6fdad/362030-w1000.jpg" alt="ANMELDELSE: Flot tracker holder styr på din aktivitet" />
       </div>
     ]]>
     </content>
@@ -138,6 +184,21 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152057/mangel-pa-mikrochips-far-apple-til-at-producere-faerre-iphones/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/15/4fb81/359573-w1000.jpg" alt="Mangel på mikrochips får Apple til at producere færre iPhones" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Meister i sit eget liv</title>
+    <link href="https://gaffa.dk/nyhed/151863/meister-i-sit-eget-liv/"/>
+    <updated>2021-10-13T09:20:00Z</updated>
+    <published>2021-10-13T09:20:00Z</published>
+    <id>https://gaffa.dk/nyhed/151863/meister-i-sit-eget-liv/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/151863/meister-i-sit-eget-liv/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/06/3c64f/361455-w1000.jpg" alt="Meister i sit eget liv" />
       </div>
     ]]>
     </content>
@@ -2993,66 +3054,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151681/when-saints-go-machine-lofter-sloret-for-turne-og-varsler-ny-musik-i-2022/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/29/46b30/360886-w1000.jpeg" alt="When Saints Go Machine løfter sløret for turné – og varsler ny musik i 2022" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>R. Kelly efter dom: &quot;Jeg vil kæmpe for min frihed&quot;</title>
-    <link href="https://gaffa.dk/nyhed/151667/r-kelly-efter-dom-jeg-vil-kaempe-for-min-frihed/"/>
-    <updated>2021-09-28T16:14:00Z</updated>
-    <published>2021-09-28T16:14:00Z</published>
-    <id>https://gaffa.dk/nyhed/151667/r-kelly-efter-dom-jeg-vil-kaempe-for-min-frihed/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151667/r-kelly-efter-dom-jeg-vil-kaempe-for-min-frihed/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/11/5e393/357525-w1000.png" alt="R. Kelly efter dom: &quot;Jeg vil kæmpe for min frihed&quot;" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>R. Kelly kendt skyldig i alle anklager i sag om menneskehandel</title>
-    <link href="https://gaffa.dk/nyhed/151642/r-kelly-kendt-skyldig-i-alle-anklager-i-sag-om-menneskehandel/"/>
-    <updated>2021-09-28T06:54:00Z</updated>
-    <published>2021-09-28T06:54:00Z</published>
-    <id>https://gaffa.dk/nyhed/151642/r-kelly-kendt-skyldig-i-alle-anklager-i-sag-om-menneskehandel/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151642/r-kelly-kendt-skyldig-i-alle-anklager-i-sag-om-menneskehandel/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2013/11/28/ad8b3/140830-w1000.jpeg" alt="R. Kelly kendt skyldig i alle anklager i sag om menneskehandel" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>White Lies klar med ny single og video</title>
-    <link href="https://gaffa.dk/nyhed/151660/white-lies-klar-med-ny-single-og-video/"/>
-    <updated>2021-09-28T14:04:00Z</updated>
-    <published>2021-09-28T14:04:00Z</published>
-    <id>https://gaffa.dk/nyhed/151660/white-lies-klar-med-ny-single-og-video/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151660/white-lies-klar-med-ny-single-og-video/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/28/3372f/360864-w1000.jpg" alt="White Lies klar med ny single og video" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Lars H.U.G. om 40 års jubilaren &quot;City Slang&quot; af Søren Ulrik Thomsen – en poetisk protest</title>
-    <link href="https://gaffa.dk/artikel/151663/lars-hug-om-40-ars-jubilaren-city-slang-af-soren-ulrik-thomsen-en-poetisk-protest/"/>
-    <updated>2021-09-28T14:00:00Z</updated>
-    <published>2021-09-28T14:00:00Z</published>
-    <id>https://gaffa.dk/artikel/151663/lars-hug-om-40-ars-jubilaren-city-slang-af-soren-ulrik-thomsen-en-poetisk-protest/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/151663/lars-hug-om-40-ars-jubilaren-city-slang-af-soren-ulrik-thomsen-en-poetisk-protest/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/05/04/d9251/353482-w1000.jpg" alt="Lars H.U.G. om 40 års jubilaren &quot;City Slang&quot; af Søren Ulrik Thomsen – en poetisk protest" />
       </div>
     ]]>
     </content>
