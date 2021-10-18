@@ -5,8 +5,24 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-16T15:12:00Z</updated>
+  <updated>2021-10-17T12:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDELSE: En sand triumf på Dexter</title>
+    <link href="https://gaffa.dk/anmeldelse/152132/anmeldelse-en-sand-triumf-pa-dexter/"/>
+    <updated>2021-10-17T12:00:00Z</updated>
+    <published>2021-10-17T12:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152132/anmeldelse-en-sand-triumf-pa-dexter/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152132/anmeldelse-en-sand-triumf-pa-dexter/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
+          <p>Skammens Vogn - Dexter, Odense</p><img src="https://static.gaffa.dk/images/2018/09/22/f26ea/307632-w1000.jpg" alt="ANMELDELSE: En sand triumf på Dexter" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>ANMELDELSE: Bevidsthedsstrøm-lederen og hele den pukkelryggede kom, så og sejrede</title>
@@ -3045,22 +3061,6 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/151717/love-shops-nye-album-levende-maend-i-dode-forhold-sang-for-sang-ifolge-jens-unmack/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/01/177de/361044-w1000.png" alt="Love Shops nye album &quot;Levende Mænd I Døde Forhold&quot; – sang for sang ifølge Jens Unmack" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDELSE: Generations-terrorister med melankolsk kig i bakspejlet </title>
-    <link href="https://gaffa.dk/anmeldelse/151706/anmeldelse-generations-terrorister-med-melankolsk-kig-i-bakspejlet/"/>
-    <updated>2021-10-01T07:30:00Z</updated>
-    <published>2021-10-01T07:30:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/151706/anmeldelse-generations-terrorister-med-melankolsk-kig-i-bakspejlet/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/151706/anmeldelse-generations-terrorister-med-melankolsk-kig-i-bakspejlet/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Manic Street Preachers - The Ultra Vivid Lament</p><img src="https://static.gaffa.dk/images/2021/09/28/89baa/360859-w1000.jpeg" alt="ANMELDELSE: Generations-terrorister med melankolsk kig i bakspejlet " />
       </div>
     ]]>
     </content>
