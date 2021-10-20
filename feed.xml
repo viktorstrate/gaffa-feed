@@ -5,8 +5,38 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-19T11:46:00Z</updated>
+  <updated>2021-10-20T08:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Bastille på vej med nyt album – hør ny single</title>
+    <link href="https://gaffa.dk/nyhed/152191/bastille-pa-vej-med-nyt-album-hor-ny-single/"/>
+    <updated>2021-10-20T08:00:00Z</updated>
+    <published>2021-10-20T08:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/152191/bastille-pa-vej-med-nyt-album-hor-ny-single/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152191/bastille-pa-vej-med-nyt-album-hor-ny-single/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/10/01/bfaf1/307961-w1000.jpg" alt="Bastille på vej med nyt album – hør ny single" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Tessas triumftog: Banker alle af banen for andet år i træk</title>
+    <link href="https://gaffa.dk/nyhed/152190/tessas-triumftog-banker-alle-af-banen-for-andet-ar-i-traek/"/>
+    <updated>2021-10-20T07:04:00Z</updated>
+    <published>2021-10-20T07:04:00Z</published>
+    <id>https://gaffa.dk/nyhed/152190/tessas-triumftog-banker-alle-af-banen-for-andet-ar-i-traek/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152190/tessas-triumftog-banker-alle-af-banen-for-andet-ar-i-traek/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/10/6cc54/361779-w1000.jpg" alt="Tessas triumftog: Banker alle af banen for andet år i træk" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Kæmpenavn annoncerer bæredygtig verdensturné</title>
@@ -54,7 +84,22 @@
   </entry>
   
   <entry>
-    <title>Adeles nye sange får premiere i TV-special</title>
+    <title>Big Thief giver endnu en dansk koncert – album på vej</title>
+    <link href="https://gaffa.dk/nyhed/152187/big-thief-giver-endnu-en-dansk-koncert-album-pa-vej/"/>
+    <updated>2021-10-19T18:18:00Z</updated>
+    <published>2021-10-19T18:18:00Z</published>
+    <id>https://gaffa.dk/nyhed/152187/big-thief-giver-endnu-en-dansk-koncert-album-pa-vej/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152187/big-thief-giver-endnu-en-dansk-koncert-album-pa-vej/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/06/08/1d74e/354913-w1000.jpg" alt="Big Thief giver endnu en dansk koncert – album på vej" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Adeles nye sange får premiere i tv-special</title>
     <link href="https://gaffa.dk/nyhed/152182/adeles-nye-sange-far-premiere-i-tv-special/"/>
     <updated>2021-10-19T14:57:00Z</updated>
     <published>2021-10-19T14:57:00Z</published>
@@ -62,7 +107,7 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/152182/adeles-nye-sange-far-premiere-i-tv-special/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/06/54d4a/361452-w1000.jpg" alt="Adeles nye sange får premiere i TV-special" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/06/54d4a/361452-w1000.jpg" alt="Adeles nye sange får premiere i tv-special" />
       </div>
     ]]>
     </content>
@@ -144,6 +189,21 @@
   </entry>
   
   <entry>
+    <title>Public Enemy-rapper sigtet for hustruvold</title>
+    <link href="https://gaffa.dk/nyhed/152185/public-enemy-rapper-sigtet-for-hustruvold/"/>
+    <updated>2021-10-19T16:03:00Z</updated>
+    <published>2021-10-19T16:03:00Z</published>
+    <id>https://gaffa.dk/nyhed/152185/public-enemy-rapper-sigtet-for-hustruvold/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152185/public-enemy-rapper-sigtet-for-hustruvold/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2009/10/05/3d7f5/46936-w1000.jpg" alt="Public Enemy-rapper sigtet for hustruvold" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
     <title>TROELS GUSTAVSEN-INTERVIEW: Skåret ud i pop</title>
     <link href="https://gaffa.dk/artikel/152174/troels-gustavsen-interview-skaret-ud-i-pop/"/>
     <updated>2021-10-19T13:30:00Z</updated>
@@ -168,6 +228,36 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152159/pandemien-gjorde-stort-indhug-i-den-britiske-musikbranche/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/05/13/45492/319969-w1000.jpg" alt="Pandemien gjorde stort indhug i den britiske musikbranche" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Lil Tecca giver dansk koncert</title>
+    <link href="https://gaffa.dk/nyhed/152183/lil-tecca-giver-dansk-koncert/"/>
+    <updated>2021-10-19T18:00:00Z</updated>
+    <published>2021-10-19T18:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/152183/lil-tecca-giver-dansk-koncert/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152183/lil-tecca-giver-dansk-koncert/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/19/dd91b/362220-w1000.jpg" alt="Lil Tecca giver dansk koncert" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Jon Nørgaard hitter i Tyskland under nyt navn</title>
+    <link href="https://gaffa.dk/nyhed/152184/jon-norgaard-hitter-i-tyskland-under-nyt-navn/"/>
+    <updated>2021-10-19T15:48:00Z</updated>
+    <published>2021-10-19T15:48:00Z</published>
+    <id>https://gaffa.dk/nyhed/152184/jon-norgaard-hitter-i-tyskland-under-nyt-navn/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152184/jon-norgaard-hitter-i-tyskland-under-nyt-navn/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2017/11/25/1ff91/283105-w1000.jpg" alt="Jon Nørgaard hitter i Tyskland under nyt navn" />
       </div>
     ]]>
     </content>
@@ -312,7 +402,7 @@
   </entry>
   
   <entry>
-    <title>De to nominerede til P3 Prisen er på plads – og de breakede nyheden til hinanden</title>
+    <title>De to nominerede til P3-Prisen er på plads – og de breakede nyheden til hinanden</title>
     <link href="https://gaffa.dk/nyhed/152154/de-to-nominerede-til-p3-prisen-er-pa-plads-og-de-breakede-nyheden-til-hinanden/"/>
     <updated>2021-10-18T16:00:00Z</updated>
     <published>2021-10-18T16:00:00Z</published>
@@ -320,7 +410,7 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/152154/de-to-nominerede-til-p3-prisen-er-pa-plads-og-de-breakede-nyheden-til-hinanden/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/18/992e6/362204-w1000.jpg" alt="De to nominerede til P3 Prisen er på plads – og de breakede nyheden til hinanden" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/18/992e6/362204-w1000.jpg" alt="De to nominerede til P3-Prisen er på plads – og de breakede nyheden til hinanden" />
       </div>
     ]]>
     </content>
@@ -493,16 +583,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: En sand triumf på Dexter</title>
-    <link href="https://gaffa.dk/anmeldelse/152132/anmeldelse-en-sand-triumf-pa-dexter/"/>
+    <title>En sand triumf på Dexter</title>
+    <link href="https://gaffa.dk/anmeldelse/152132/en-sand-triumf-pa-dexter/"/>
     <updated>2021-10-17T12:00:00Z</updated>
     <published>2021-10-17T12:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152132/anmeldelse-en-sand-triumf-pa-dexter/</id>
+    <id>https://gaffa.dk/anmeldelse/152132/en-sand-triumf-pa-dexter/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152132/anmeldelse-en-sand-triumf-pa-dexter/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152132/en-sand-triumf-pa-dexter/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
-          <p>Skammens Vogn - Dexter, Odense</p><img src="https://static.gaffa.dk/images/2018/09/22/f26ea/307632-w1000.jpg" alt="ANMELDELSE: En sand triumf på Dexter" />
+          <p>Skammens Vogn - Dexter, Odense</p><img src="https://static.gaffa.dk/images/2018/09/22/f26ea/307632-w1000.jpg" alt="En sand triumf på Dexter" />
       </div>
     ]]>
     </content>
@@ -586,7 +676,7 @@
   </entry>
   
   <entry>
-    <title>Albert fra Benal udgiver debutsingle - og annoncerer album</title>
+    <title>Albert fra Benal udgiver debutsingle – og annoncerer album</title>
     <link href="https://gaffa.dk/nyhed/152094/albert-fra-benal-udgiver-debutsingle-og-annoncerer-album/"/>
     <updated>2021-10-15T07:30:00Z</updated>
     <published>2021-10-15T07:30:00Z</published>
@@ -594,7 +684,7 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/152094/albert-fra-benal-udgiver-debutsingle-og-annoncerer-album/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/14/6ceb8/362054-w1000.jpg" alt="Albert fra Benal udgiver debutsingle - og annoncerer album" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/14/6ceb8/362054-w1000.jpg" alt="Albert fra Benal udgiver debutsingle – og annoncerer album" />
       </div>
     ]]>
     </content>
@@ -631,16 +721,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: Glohede ICEKIID rammer kogepunktet</title>
-    <link href="https://gaffa.dk/anmeldelse/152103/anmeldelse-glohede-icekiid-rammer-kogepunktet/"/>
+    <title>Glohede ICEKIID rammer kogepunktet</title>
+    <link href="https://gaffa.dk/anmeldelse/152103/glohede-icekiid-rammer-kogepunktet/"/>
     <updated>2021-10-15T08:00:00Z</updated>
     <published>2021-10-15T08:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152103/anmeldelse-glohede-icekiid-rammer-kogepunktet/</id>
+    <id>https://gaffa.dk/anmeldelse/152103/glohede-icekiid-rammer-kogepunktet/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152103/anmeldelse-glohede-icekiid-rammer-kogepunktet/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152103/glohede-icekiid-rammer-kogepunktet/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p> - </p><img src="https://static.gaffa.dk/images/2021/08/13/17ddf/357608-w1000.jpg" alt="ANMELDELSE: Glohede ICEKIID rammer kogepunktet" />
+          <p>ICEKIID - Posten, Odense</p><img src="https://static.gaffa.dk/images/2021/08/13/17ddf/357608-w1000.jpg" alt="Glohede ICEKIID rammer kogepunktet" />
       </div>
     ]]>
     </content>
@@ -663,7 +753,7 @@
   </entry>
   
   <entry>
-    <title>KLASSIKEREN: Beatles’ ufuldendte - set fra andre vinkler</title>
+    <title>KLASSIKEREN: Beatles’ ufuldendte – set fra andre vinkler</title>
     <link href="https://gaffa.dk/anmeldelse/152101/klassikeren-beatles-ufuldendte-set-fra-andre-vinkler/"/>
     <updated>2021-10-15T00:10:00Z</updated>
     <published>2021-10-15T00:10:00Z</published>
@@ -672,7 +762,7 @@
     <content type="html" xml:base="https://gaffa.dk/anmeldelse/152101/klassikeren-beatles-ufuldendte-set-fra-andre-vinkler/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>The Beatles - Let It Be, 50th Anniversary Super Deluxe edition, 5 x cd, Blu-ray, bog</p><img src="https://static.gaffa.dk/images/2021/10/14/ced92/362058-w1000.jpg" alt="KLASSIKEREN: Beatles’ ufuldendte - set fra andre vinkler" />
+          <p>The Beatles - Let It Be, 50th Anniversary Super Deluxe edition, 5 x cd, Blu-ray, bog</p><img src="https://static.gaffa.dk/images/2021/10/14/ced92/362058-w1000.jpg" alt="KLASSIKEREN: Beatles’ ufuldendte – set fra andre vinkler" />
       </div>
     ]]>
     </content>
@@ -695,16 +785,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: Talentets 2. album er mesterligt</title>
-    <link href="https://gaffa.dk/anmeldelse/152017/anmeldelse-talentets-2-album-er-mesterligt/"/>
+    <title>ANMELDELSE: Talentets andet album er mesterligt</title>
+    <link href="https://gaffa.dk/anmeldelse/152017/anmeldelse-talentets-andet-album-er-mesterligt/"/>
     <updated>2021-10-15T00:00:00Z</updated>
     <published>2021-10-15T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152017/anmeldelse-talentets-2-album-er-mesterligt/</id>
+    <id>https://gaffa.dk/anmeldelse/152017/anmeldelse-talentets-andet-album-er-mesterligt/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152017/anmeldelse-talentets-2-album-er-mesterligt/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152017/anmeldelse-talentets-andet-album-er-mesterligt/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
-          <p>Ginne Marker - Ulteria</p><img src="https://static.gaffa.dk/images/2021/10/11/dd710/361963-w1000.jpg" alt="ANMELDELSE: Talentets 2. album er mesterligt" />
+          <p>Ginne Marker - Ulteria</p><img src="https://static.gaffa.dk/images/2021/10/11/dd710/361963-w1000.jpg" alt="ANMELDELSE: Talentets andet album er mesterligt" />
       </div>
     ]]>
     </content>
@@ -1076,15 +1166,15 @@
   </entry>
   
   <entry>
-    <title>Smash Mouth-frontmand Steve Harwell pensionerer efter kaotisk koncert</title>
-    <link href="https://gaffa.dk/nyhed/152068/smash-mouth-frontmand-steve-harwell-pensionerer-efter-kaotisk-koncert/"/>
+    <title>Smash Mouth-frontmand Steve Harwell pensionerer sig selv efter kaotisk koncert</title>
+    <link href="https://gaffa.dk/nyhed/152068/smash-mouth-frontmand-steve-harwell-pensionerer-sig-selv-efter-kaotisk-koncert/"/>
     <updated>2021-10-13T13:45:00Z</updated>
     <published>2021-10-13T13:45:00Z</published>
-    <id>https://gaffa.dk/nyhed/152068/smash-mouth-frontmand-steve-harwell-pensionerer-efter-kaotisk-koncert/</id>
+    <id>https://gaffa.dk/nyhed/152068/smash-mouth-frontmand-steve-harwell-pensionerer-sig-selv-efter-kaotisk-koncert/</id>
     <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152068/smash-mouth-frontmand-steve-harwell-pensionerer-efter-kaotisk-koncert/">
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152068/smash-mouth-frontmand-steve-harwell-pensionerer-sig-selv-efter-kaotisk-koncert/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/13/8a0b2/362028-w1000.jpg" alt="Smash Mouth-frontmand Steve Harwell pensionerer efter kaotisk koncert" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/13/8a0b2/362028-w1000.jpg" alt="Smash Mouth-frontmand Steve Harwell pensionerer sig selv efter kaotisk koncert" />
       </div>
     ]]>
     </content>
@@ -1166,7 +1256,7 @@
   </entry>
   
   <entry>
-    <title>DR-kulturdirektør: P6 Beat og P8 Jazz lukker hvis pengene ikke findes politisk </title>
+    <title>DR-kulturdirektør: P6 Beat og P8 Jazz lukker, hvis pengene ikke findes politisk </title>
     <link href="https://gaffa.dk/nyhed/152043/dr-kulturdirektor-p6-beat-og-p8-jazz-lukker-hvis-pengene-ikke-findes-politisk/"/>
     <updated>2021-10-12T15:30:00Z</updated>
     <published>2021-10-12T15:30:00Z</published>
@@ -1174,7 +1264,7 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/152043/dr-kulturdirektor-p6-beat-og-p8-jazz-lukker-hvis-pengene-ikke-findes-politisk/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/12/30ea1/361997-w1000.jpg" alt="DR-kulturdirektør: P6 Beat og P8 Jazz lukker hvis pengene ikke findes politisk " />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/12/30ea1/361997-w1000.jpg" alt="DR-kulturdirektør: P6 Beat og P8 Jazz lukker, hvis pengene ikke findes politisk " />
       </div>
     ]]>
     </content>
@@ -1341,7 +1431,7 @@
     <content type="html" xml:base="https://gaffa.dk/anmeldelse/152021/anmeldelse-kunsten-at-fremkalde-et-angstanfald/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Hôy La - There’s a Girl Inside My Brain Who Want to Die</p><img src="https://static.gaffa.dk/images/2021/10/11/e9f1a/361970-w1000.png" alt="ANMELDELSE: Kunsten at fremkalde et angstanfald " />
+          <p>Hôy La - There’s a Girl Inside My Brain Who Wants to Die</p><img src="https://static.gaffa.dk/images/2021/10/11/e9f1a/361970-w1000.png" alt="ANMELDELSE: Kunsten at fremkalde et angstanfald " />
       </div>
     ]]>
     </content>
@@ -1484,15 +1574,15 @@
   </entry>
   
   <entry>
-    <title>The Rolling Stones fjerner kendt sang fra setliste</title>
-    <link href="https://gaffa.dk/nyhed/152001/the-rolling-stones-fjerner-kendt-sang-fra-setliste/"/>
+    <title>The Rolling Stones fjerner kendt sang fra sætliste</title>
+    <link href="https://gaffa.dk/nyhed/152001/the-rolling-stones-fjerner-kendt-sang-fra-saetliste/"/>
     <updated>2021-10-11T11:45:00Z</updated>
     <published>2021-10-11T11:45:00Z</published>
-    <id>https://gaffa.dk/nyhed/152001/the-rolling-stones-fjerner-kendt-sang-fra-setliste/</id>
+    <id>https://gaffa.dk/nyhed/152001/the-rolling-stones-fjerner-kendt-sang-fra-saetliste/</id>
     <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152001/the-rolling-stones-fjerner-kendt-sang-fra-setliste/">
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152001/the-rolling-stones-fjerner-kendt-sang-fra-saetliste/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2017/10/04/34461/278841-w1000.jpg" alt="The Rolling Stones fjerner kendt sang fra setliste" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2017/10/04/34461/278841-w1000.jpg" alt="The Rolling Stones fjerner kendt sang fra sætliste" />
       </div>
     ]]>
     </content>
@@ -2960,96 +3050,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151795/billie-eilish-udskaelder-texas-abortlov-under-koncert/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/05/03/9fc7d/353470-w1000.jpg" alt="Billie Eilish udskælder Texas’ abortlov under koncert" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Counting Crows kommer til København </title>
-    <link href="https://gaffa.dk/nyhed/151797/counting-crows-kommer-til-kobenhavn/"/>
-    <updated>2021-10-04T11:01:00Z</updated>
-    <published>2021-10-04T11:01:00Z</published>
-    <id>https://gaffa.dk/nyhed/151797/counting-crows-kommer-til-kobenhavn/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151797/counting-crows-kommer-til-kobenhavn/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/04/99c23/361409-w1000.jpg" alt="Counting Crows kommer til København " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>GUIDE fra by:Larm Festival: Vores største opdagelser</title>
-    <link href="https://gaffa.dk/artikel/151793/guide-fra-bylarm-festival-vores-storste-opdagelser/"/>
-    <updated>2021-10-04T11:00:00Z</updated>
-    <published>2021-10-04T11:00:00Z</published>
-    <id>https://gaffa.dk/artikel/151793/guide-fra-bylarm-festival-vores-storste-opdagelser/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/151793/guide-fra-bylarm-festival-vores-storste-opdagelser/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/02/54da2/361103-w1000.jpg" alt="GUIDE fra by:Larm Festival: Vores største opdagelser" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Måske årets bedste hemmelige koncert-tip</title>
-    <link href="https://gaffa.dk/nyhed/151809/maske-arets-bedste-hemmelige-koncert-tip/"/>
-    <updated>2021-10-04T15:51:00Z</updated>
-    <published>2021-10-04T15:51:00Z</published>
-    <id>https://gaffa.dk/nyhed/151809/maske-arets-bedste-hemmelige-koncert-tip/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151809/maske-arets-bedste-hemmelige-koncert-tip/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/05/11f7e/361442-w1000.jpg" alt="Måske årets bedste hemmelige koncert-tip" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Mick Jagger taler om at fortsætte uden Charlie Watts – hør ny Stones-sang</title>
-    <link href="https://gaffa.dk/nyhed/151804/mick-jagger-taler-om-at-fortsaette-uden-charlie-watts-hor-ny-stones-sang/"/>
-    <updated>2021-10-04T14:39:00Z</updated>
-    <published>2021-10-04T14:39:00Z</published>
-    <id>https://gaffa.dk/nyhed/151804/mick-jagger-taler-om-at-fortsaette-uden-charlie-watts-hor-ny-stones-sang/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151804/mick-jagger-taler-om-at-fortsaette-uden-charlie-watts-hor-ny-stones-sang/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2017/10/13/3ed0e/279512-w1000.jpg" alt="Mick Jagger taler om at fortsætte uden Charlie Watts – hør ny Stones-sang" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Eksklusiv fest – Eksklusiv forpremiere</title>
-    <link href="https://gaffa.dk/nyhed/151682/eksklusiv-fest-eksklusiv-forpremiere/"/>
-    <updated>2021-10-04T14:26:00Z</updated>
-    <published>2021-10-04T14:26:00Z</published>
-    <id>https://gaffa.dk/nyhed/151682/eksklusiv-fest-eksklusiv-forpremiere/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151682/eksklusiv-fest-eksklusiv-forpremiere/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/29/c5324/360896-w1000.jpg" alt="Eksklusiv fest – Eksklusiv forpremiere" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Dave Grohl antyder ændring af Nirvanas &quot;Nevermind&quot;-albumcover</title>
-    <link href="https://gaffa.dk/nyhed/151798/dave-grohl-antyder-aendring-af-nirvanas-nevermind-albumcover/"/>
-    <updated>2021-10-04T13:00:00Z</updated>
-    <published>2021-10-04T13:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/151798/dave-grohl-antyder-aendring-af-nirvanas-nevermind-albumcover/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151798/dave-grohl-antyder-aendring-af-nirvanas-nevermind-albumcover/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/06/06/039e2/295250-w1000.jpg" alt="Dave Grohl antyder ændring af Nirvanas &quot;Nevermind&quot;-albumcover" />
       </div>
     ]]>
     </content>
