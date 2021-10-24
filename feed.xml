@@ -5,8 +5,24 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-23T08:00:00Z</updated>
+  <updated>2021-10-24T08:04:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDELSE: Rick rullede Royal Arena</title>
+    <link href="https://gaffa.dk/anmeldelse/152308/anmeldelse-rick-rullede-royal-arena/"/>
+    <updated>2021-10-24T08:04:00Z</updated>
+    <published>2021-10-24T08:04:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152308/anmeldelse-rick-rullede-royal-arena/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152308/anmeldelse-rick-rullede-royal-arena/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Rick Astley - Royal Arena, København</p><img src="https://static.gaffa.dk/images/2018/09/24/f1aa7/307649-w1000.jpg" alt="ANMELDELSE: Rick rullede Royal Arena" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Fælles gensynsglæde til overlegent comeback</title>
@@ -3035,21 +3051,6 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/151956/jens-unmack-her-er-seks-sange-som-betyder-noget-saerligt-for-mig/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/01/177de/361044-w1000.png" alt="Jens Unmack: Her er seks sange, som betyder noget særligt for mig" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Deep Purple annoncerer nyt coveralbum</title>
-    <link href="https://gaffa.dk/nyhed/151950/deep-purple-annoncerer-nyt-coveralbum/"/>
-    <updated>2021-10-08T15:30:00Z</updated>
-    <published>2021-10-08T15:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/151950/deep-purple-annoncerer-nyt-coveralbum/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151950/deep-purple-annoncerer-nyt-coveralbum/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/01/28/5126a/339376-w1000.jpg" alt="Deep Purple annoncerer nyt coveralbum" />
       </div>
     ]]>
     </content>
