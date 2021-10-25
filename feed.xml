@@ -5,8 +5,38 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-24T08:04:00Z</updated>
+  <updated>2021-10-25T08:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Ed Sheeran tester positiv for corona </title>
+    <link href="https://gaffa.dk/nyhed/152321/ed-sheeran-tester-positiv-for-corona/"/>
+    <updated>2021-10-25T08:00:00Z</updated>
+    <published>2021-10-25T08:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/152321/ed-sheeran-tester-positiv-for-corona/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152321/ed-sheeran-tester-positiv-for-corona/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/08/19/e6d10/332097-w1000.jpg" alt="Ed Sheeran tester positiv for corona " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>POLITIK: Seks politiske musiker-statements, vi aldrig glemmer</title>
+    <link href="https://gaffa.dk/artikel/152320/politik-seks-politiske-musiker-statements-vi-aldrig-glemmer/"/>
+    <updated>2021-10-25T07:00:00Z</updated>
+    <published>2021-10-25T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/152320/politik-seks-politiske-musiker-statements-vi-aldrig-glemmer/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/152320/politik-seks-politiske-musiker-statements-vi-aldrig-glemmer/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2018/10/09/6d455/308498-w1000.png" alt="POLITIK: Seks politiske musiker-statements, vi aldrig glemmer" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Rick rullede Royal Arena</title>
@@ -3024,36 +3054,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151951/nik-jay-udskyder-arenakoncerter-til-2022/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/12/01/20512/337498-w1000.jpg" alt="Nik &amp; Jay udskyder arenakoncerter til 2022" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Hør uudgiven sang med Nick Cave og symfoniorkester</title>
-    <link href="https://gaffa.dk/nyhed/151944/hor-uudgiven-sang-med-nick-cave-og-symfoniorkester/"/>
-    <updated>2021-10-08T11:58:00Z</updated>
-    <published>2021-10-08T11:58:00Z</published>
-    <id>https://gaffa.dk/nyhed/151944/hor-uudgiven-sang-med-nick-cave-og-symfoniorkester/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151944/hor-uudgiven-sang-med-nick-cave-og-symfoniorkester/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/03/16/247a5/352184-w1000.JPG" alt="Hør uudgiven sang med Nick Cave og symfoniorkester" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Stort BAEST-interview: Det er ikke nogen leg</title>
-    <link href="https://gaffa.dk/artikel/151939/stort-baest-interview-det-er-ikke-nogen-leg/"/>
-    <updated>2021-10-08T09:59:00Z</updated>
-    <published>2021-10-08T09:59:00Z</published>
-    <id>https://gaffa.dk/artikel/151939/stort-baest-interview-det-er-ikke-nogen-leg/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/151939/stort-baest-interview-det-er-ikke-nogen-leg/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/06/28/059de/355926-w1000.jpg" alt="Stort BAEST-interview: Det er ikke nogen leg" />
       </div>
     ]]>
     </content>
