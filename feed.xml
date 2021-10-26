@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-25T11:00:00Z</updated>
+  <updated>2021-10-25T18:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Conan Gray giver dansk koncert</title>
+    <link href="https://gaffa.dk/nyhed/152359/conan-gray-giver-dansk-koncert/"/>
+    <updated>2021-10-25T18:00:00Z</updated>
+    <published>2021-10-25T18:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/152359/conan-gray-giver-dansk-koncert/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152359/conan-gray-giver-dansk-koncert/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/25/0e53e/362717-w1000.jpeg" alt="Conan Gray giver dansk koncert" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Borgmesterkandidat i Aarhus: Hvorfor er det ikke i Aarhus, man kan opleve Coldplay?</title>
@@ -24,6 +39,21 @@
   </entry>
   
   <entry>
+    <title>Midlake giver dansk koncert – hør ny single</title>
+    <link href="https://gaffa.dk/nyhed/152367/midlake-giver-dansk-koncert-hor-ny-single/"/>
+    <updated>2021-10-25T16:08:00Z</updated>
+    <published>2021-10-25T16:08:00Z</published>
+    <id>https://gaffa.dk/nyhed/152367/midlake-giver-dansk-koncert-hor-ny-single/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152367/midlake-giver-dansk-koncert-hor-ny-single/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2014/03/16/c972c/148113-w1000.jpeg" alt="Midlake giver dansk koncert – hør ny single" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
     <title>Helhjertet hyldest til et af rockens vigtigste værker</title>
     <link href="https://gaffa.dk/anmeldelse/152364/helhjertet-hyldest-til-et-af-rockens-vigtigste-vaerker/"/>
     <updated>2021-10-25T15:12:00Z</updated>
@@ -34,6 +64,37 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
           <p>Diverse kunstnere - I’ll Be Your Mirror: A Tribute to the Velvet Underground and Nico </p><img src="https://static.gaffa.dk/images/2021/10/25/4c611/362724-w1000.jpg" alt="Helhjertet hyldest til et af rockens vigtigste værker" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Pæn goth uden grums</title>
+    <link href="https://gaffa.dk/anmeldelse/152370/paen-goth-uden-grums/"/>
+    <updated>2021-10-25T18:56:00Z</updated>
+    <published>2021-10-25T18:56:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152370/paen-goth-uden-grums/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152370/paen-goth-uden-grums/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
+          <p>Twin Tribes - Stengade, København</p><img src="https://static.gaffa.dk/images/2021/10/25/8758f/362732-w1000.jpg" alt="Pæn goth uden grums" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Metallica-fans kan nu eje figuren fra &quot;…And Justice For All&quot;</title>
+    <link href="https://gaffa.dk/nyhed/152366/metallica-fans-kan-nu-eje-figuren-fra-and-justice-for-all/"/>
+    <updated>2021-10-25T15:57:00Z</updated>
+    <published>2021-10-25T15:57:00Z</published>
+    <id>https://gaffa.dk/nyhed/152366/metallica-fans-kan-nu-eje-figuren-fra-and-justice-for-all/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152366/metallica-fans-kan-nu-eje-figuren-fra-and-justice-for-all/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/06/23/42254/355527-w1000.jpg" alt="Metallica-fans kan nu eje figuren fra &quot;…And Justice For All&quot;" />
       </div>
     ]]>
     </content>
@@ -2983,67 +3044,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151990/adele-deler-bid-fra-kommende-single/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2015/12/14/ffec4/208365-w1000.jpeg" alt="Adele deler bid fra kommende single" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Efterklang inviterer til intim releasekoncert </title>
-    <link href="https://gaffa.dk/nyhed/151949/efterklang-inviterer-til-intim-releasekoncert/"/>
-    <updated>2021-10-11T07:00:00Z</updated>
-    <published>2021-10-11T07:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/151949/efterklang-inviterer-til-intim-releasekoncert/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/151949/efterklang-inviterer-til-intim-releasekoncert/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/05/19/c8690/354230-w1000.jpg" alt="Efterklang inviterer til intim releasekoncert " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>GUIDE: Her er Kulturnattens mest interessante koncerter</title>
-    <link href="https://gaffa.dk/artikel/151664/guide-her-er-kulturnattens-mest-interessante-koncerter/"/>
-    <updated>2021-10-11T07:00:00Z</updated>
-    <published>2021-10-11T07:00:00Z</published>
-    <id>https://gaffa.dk/artikel/151664/guide-her-er-kulturnattens-mest-interessante-koncerter/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/151664/guide-her-er-kulturnattens-mest-interessante-koncerter/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/09/18/b0064/359967-w1000.jpg" alt="GUIDE: Her er Kulturnattens mest interessante koncerter" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>McCartney: John Lennon splittede The Beatles</title>
-    <link href="https://gaffa.dk/artikel/151978/mccartney-john-lennon-splittede-the-beatles/"/>
-    <updated>2021-10-10T18:58:00Z</updated>
-    <published>2021-10-10T18:58:00Z</published>
-    <id>https://gaffa.dk/artikel/151978/mccartney-john-lennon-splittede-the-beatles/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/151978/mccartney-john-lennon-splittede-the-beatles/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2019/09/30/d4b50/334320-w1000.jpg" alt="McCartney: John Lennon splittede The Beatles" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Overvældet Tessa lagde KB Hallen ned</title>
-    <link href="https://gaffa.dk/anmeldelse/151972/overvaeldet-tessa-lagde-kb-hallen-ned/"/>
-    <updated>2021-10-10T12:00:00Z</updated>
-    <published>2021-10-10T12:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/151972/overvaeldet-tessa-lagde-kb-hallen-ned/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/151972/overvaeldet-tessa-lagde-kb-hallen-ned/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Tessa - KB Hallen, København </p><img src="https://static.gaffa.dk/images/2021/10/10/6cc54/361779-w1000.jpg" alt="Overvældet Tessa lagde KB Hallen ned" />
       </div>
     ]]>
     </content>
