@@ -5,8 +5,39 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-27T10:00:00Z</updated>
+  <updated>2021-10-28T08:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Rammsteins Till Lindemann tager på Europaturné</title>
+    <link href="https://gaffa.dk/nyhed/152447/rammsteins-till-lindemann-tager-pa-europaturne/"/>
+    <updated>2021-10-28T08:00:00Z</updated>
+    <published>2021-10-28T08:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/152447/rammsteins-till-lindemann-tager-pa-europaturne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152447/rammsteins-till-lindemann-tager-pa-europaturne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/28/e66a3/362890-w1000.png" alt="Rammsteins Till Lindemann tager på Europaturné" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>En flydende identitet klæder Rebecca Lou</title>
+    <link href="https://gaffa.dk/anmeldelse/152446/en-flydende-identitet-klaeder-rebecca-lou/"/>
+    <updated>2021-10-28T07:16:00Z</updated>
+    <published>2021-10-28T07:16:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152446/en-flydende-identitet-klaeder-rebecca-lou/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152446/en-flydende-identitet-klaeder-rebecca-lou/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Rebcca Lou - Lille Vega, København</p><img src="https://static.gaffa.dk/images/2021/09/17/f7122/359731-w1000.jpg" alt="En flydende identitet klæder Rebecca Lou" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>NorthSide klar med de første 15 navne til 2022</title>
@@ -94,6 +125,21 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
           <p>Lana Del Rey - Blue Banisters</p><img src="https://static.gaffa.dk/images/2021/10/22/21e72/362429-w1000.jpg" alt="Lana Del Rey fortsætter ufortrødent med at hælde stærke sange ud af ærmet " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Ny Rammstein-sang får premiere i rummet </title>
+    <link href="https://gaffa.dk/nyhed/152440/ny-rammstein-sang-far-premiere-i-rummet/"/>
+    <updated>2021-10-27T16:30:00Z</updated>
+    <published>2021-10-27T16:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/152440/ny-rammstein-sang-far-premiere-i-rummet/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152440/ny-rammstein-sang-far-premiere-i-rummet/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/08/15/9d00b/331832-w1000.JPG" alt="Ny Rammstein-sang får premiere i rummet " />
       </div>
     ]]>
     </content>
@@ -2998,51 +3044,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152083/djbfa-stotter-p6-beat-og-p8-jazz/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/14/2d737/362044-w1000.png" alt="DJBFA støtter P6 Beat og P8 Jazz" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>INTERVIEW: Ydegirl eksisterer i et limbo mellem liv og død</title>
-    <link href="https://gaffa.dk/artikel/151987/interview-ydegirl-eksisterer-i-et-limbo-mellem-liv-og-dod/"/>
-    <updated>2021-10-14T15:00:00Z</updated>
-    <published>2021-10-14T15:00:00Z</published>
-    <id>https://gaffa.dk/artikel/151987/interview-ydegirl-eksisterer-i-et-limbo-mellem-liv-og-dod/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/151987/interview-ydegirl-eksisterer-i-et-limbo-mellem-liv-og-dod/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/07/02/89876/356150-w1000.png" alt="INTERVIEW: Ydegirl eksisterer i et limbo mellem liv og død" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Ny dokumentarserie kommer med ind i øvelokalet op til The Beatles&#39; brud</title>
-    <link href="https://gaffa.dk/nyhed/152096/ny-dokumentarserie-kommer-med-ind-i-ovelokalet-op-til-the-beatles-brud/"/>
-    <updated>2021-10-14T17:00:00Z</updated>
-    <published>2021-10-14T17:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/152096/ny-dokumentarserie-kommer-med-ind-i-ovelokalet-op-til-the-beatles-brud/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152096/ny-dokumentarserie-kommer-med-ind-i-ovelokalet-op-til-the-beatles-brud/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/09/30/3abbc/334322-w1000.jpg" alt="Ny dokumentarserie kommer med ind i øvelokalet op til The Beatles&#39; brud" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>NorthSide 2022 bliver plantebaseret</title>
-    <link href="https://gaffa.dk/nyhed/152092/northside-2022-bliver-plantebaseret/"/>
-    <updated>2021-10-14T13:30:00Z</updated>
-    <published>2021-10-14T13:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/152092/northside-2022-bliver-plantebaseret/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152092/northside-2022-bliver-plantebaseret/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/02/01/7f081/313565-w1000.jpeg" alt="NorthSide 2022 bliver plantebaseret" />
       </div>
     ]]>
     </content>
