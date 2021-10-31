@@ -5,8 +5,39 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-10-30T11:11:00Z</updated>
+  <updated>2021-10-31T08:30:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>HALLOWEEN-PLAYLISTE: Uhygge og rædsel forklædt som uskyldig popmusik</title>
+    <link href="https://gaffa.dk/artikel/152508/halloween-playliste-uhygge-og-raedsel-forklaedt-som-uskyldig-popmusik/"/>
+    <updated>2021-10-31T08:30:00Z</updated>
+    <published>2021-10-31T08:30:00Z</published>
+    <id>https://gaffa.dk/artikel/152508/halloween-playliste-uhygge-og-raedsel-forklaedt-som-uskyldig-popmusik/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/152508/halloween-playliste-uhygge-og-raedsel-forklaedt-som-uskyldig-popmusik/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2019/10/31/61def/335494-w1000.png" alt="HALLOWEEN-PLAYLISTE: Uhygge og rædsel forklædt som uskyldig popmusik" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Storcharmør guider igennem tyve års hjerteflimmer</title>
+    <link href="https://gaffa.dk/anmeldelse/152527/storcharmor-guider-igennem-tyve-ars-hjerteflimmer/"/>
+    <updated>2021-10-31T12:30:00Z</updated>
+    <published>2021-10-31T12:30:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152527/storcharmor-guider-igennem-tyve-ars-hjerteflimmer/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152527/storcharmor-guider-igennem-tyve-ars-hjerteflimmer/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Rasmus Walter - Posten, Odense</p><img src="https://static.gaffa.dk/images/2021/10/31/8cec8/363107-w1000.jpg" alt="Storcharmør guider igennem tyve års hjerteflimmer" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Ed Sheeran er blevet far, cringe og generisk</title>
@@ -3007,37 +3038,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152176/stort-billede-pa-hjemmebiografen/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/19/c590a/362214-w1000.jpg" alt="Stort billede på hjemmebiografen" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Legendarisk trommeslager er død, 83 år gammel</title>
-    <link href="https://gaffa.dk/nyhed/152179/legendarisk-trommeslager-er-dod-83-ar-gammel/"/>
-    <updated>2021-10-19T14:11:00Z</updated>
-    <published>2021-10-19T14:11:00Z</published>
-    <id>https://gaffa.dk/nyhed/152179/legendarisk-trommeslager-er-dod-83-ar-gammel/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152179/legendarisk-trommeslager-er-dod-83-ar-gammel/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/19/538f8/362219-w1000.png" alt="Legendarisk trommeslager er død, 83 år gammel" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDELSE: Spændende oplevelser i små indpakninger</title>
-    <link href="https://gaffa.dk/anmeldelse/152164/anmeldelse-spaendende-oplevelser-i-sma-indpakninger/"/>
-    <updated>2021-10-19T11:00:00Z</updated>
-    <published>2021-10-19T11:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152164/anmeldelse-spaendende-oplevelser-i-sma-indpakninger/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152164/anmeldelse-spaendende-oplevelser-i-sma-indpakninger/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>TECH - iPad mini og iPad</p><img src="https://static.gaffa.dk/images/2021/10/19/72f0a/362207-w1000.jpg" alt="ANMELDELSE: Spændende oplevelser i små indpakninger" />
       </div>
     ]]>
     </content>
