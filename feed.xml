@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-11-15T10:00:00Z</updated>
+  <updated>2021-11-15T15:04:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Justin Bieber giver tre danske koncerter</title>
+    <link href="https://gaffa.dk/nyhed/152954/justin-bieber-giver-tre-danske-koncerter/"/>
+    <updated>2021-11-15T15:04:00Z</updated>
+    <published>2021-11-15T15:04:00Z</published>
+    <id>https://gaffa.dk/nyhed/152954/justin-bieber-giver-tre-danske-koncerter/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152954/justin-bieber-giver-tre-danske-koncerter/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/03/19/8461e/352251-w1000.png" alt="Justin Bieber giver tre danske koncerter" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Tinderbox 2022 afslører de første 14 navne - inklusive store, internationale rockbands</title>
@@ -24,15 +39,31 @@
   </entry>
   
   <entry>
-    <title>Brad Paisley kommer til Danmark</title>
-    <link href="https://gaffa.dk/nyhed/152950/brad-paisley-kommer-til-danmark/"/>
+    <title>ANMELDELSE: Glemte optagelser i høj kvalitet </title>
+    <link href="https://gaffa.dk/anmeldelse/152956/anmeldelse-glemte-optagelser-i-hoj-kvalitet/"/>
+    <updated>2021-11-15T15:41:00Z</updated>
+    <published>2021-11-15T15:41:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152956/anmeldelse-glemte-optagelser-i-hoj-kvalitet/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152956/anmeldelse-glemte-optagelser-i-hoj-kvalitet/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Emmylou Harris &amp; The Nash Ramblers - Ramble in Music  City: The Lost Concert</p><img src="https://static.gaffa.dk/images/2021/11/15/76cd1/363874-w1000.jpg" alt="ANMELDELSE: Glemte optagelser i høj kvalitet " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Countrystjernen Brad Paisley kommer til Danmark</title>
+    <link href="https://gaffa.dk/nyhed/152950/countrystjernen-brad-paisley-kommer-til-danmark/"/>
     <updated>2021-11-15T13:54:00Z</updated>
     <published>2021-11-15T13:54:00Z</published>
-    <id>https://gaffa.dk/nyhed/152950/brad-paisley-kommer-til-danmark/</id>
+    <id>https://gaffa.dk/nyhed/152950/countrystjernen-brad-paisley-kommer-til-danmark/</id>
     <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152950/brad-paisley-kommer-til-danmark/">
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152950/countrystjernen-brad-paisley-kommer-til-danmark/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/15/21d45/363871-w1000.jpg" alt="Brad Paisley kommer til Danmark" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/15/21d45/363871-w1000.jpg" alt="Countrystjernen Brad Paisley kommer til Danmark" />
       </div>
     ]]>
     </content>
@@ -93,6 +124,37 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/151863/meister-i-sit-eget-liv/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/06/3c64f/361455-w1000.jpg" alt="Meister i sit eget liv" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Fem nye sange fra Kanye West – udgiver Donda i deluxe-udgave</title>
+    <link href="https://gaffa.dk/nyhed/152951/fem-nye-sange-fra-kanye-west-udgiver-donda-i-deluxe-udgave/"/>
+    <updated>2021-11-15T14:40:00Z</updated>
+    <published>2021-11-15T14:40:00Z</published>
+    <id>https://gaffa.dk/nyhed/152951/fem-nye-sange-fra-kanye-west-udgiver-donda-i-deluxe-udgave/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152951/fem-nye-sange-fra-kanye-west-udgiver-donda-i-deluxe-udgave/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/02/a4064/358831-w1000.jpg" alt="Fem nye sange fra Kanye West – udgiver Donda i deluxe-udgave" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: På en øde ø sidder en sangskriver</title>
+    <link href="https://gaffa.dk/anmeldelse/152927/anmeldelse-pa-en-ode-o-sidder-en-sangskriver/"/>
+    <updated>2021-11-15T14:00:00Z</updated>
+    <published>2021-11-15T14:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152927/anmeldelse-pa-en-ode-o-sidder-en-sangskriver/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152927/anmeldelse-pa-en-ode-o-sidder-en-sangskriver/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
+          <p>Tue West - Frihed til at være en fange</p><img src="https://static.gaffa.dk/images/2021/11/14/58afb/363826-w1000.jpg" alt="ANMELDELSE: På en øde ø sidder en sangskriver" />
       </div>
     ]]>
     </content>
@@ -174,16 +236,47 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: RUMLEs debutalbum er din bløde julegave i år</title>
-    <link href="https://gaffa.dk/anmeldelse/152921/anmeldelse-rumles-debutalbum-er-din-blode-julegave-i-ar/"/>
+    <title>RUMLEs debutalbum er din bløde julegave i år</title>
+    <link href="https://gaffa.dk/anmeldelse/152921/rumles-debutalbum-er-din-blode-julegave-i-ar/"/>
     <updated>2021-11-15T09:15:00Z</updated>
     <published>2021-11-15T09:15:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152921/anmeldelse-rumles-debutalbum-er-din-blode-julegave-i-ar/</id>
+    <id>https://gaffa.dk/anmeldelse/152921/rumles-debutalbum-er-din-blode-julegave-i-ar/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152921/anmeldelse-rumles-debutalbum-er-din-blode-julegave-i-ar/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152921/rumles-debutalbum-er-din-blode-julegave-i-ar/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>RUMLE - Cold in the Sun</p><img src="https://static.gaffa.dk/images/2021/11/15/76214/363852-w1000.jpg" alt="ANMELDELSE: RUMLEs debutalbum er din bløde julegave i år" />
+          <p>RUMLE - Cold in the Sun</p><img src="https://static.gaffa.dk/images/2021/11/15/76214/363852-w1000.jpg" alt="RUMLEs debutalbum er din bløde julegave i år" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Ny tablet lover mere, end den kan holde</title>
+    <link href="https://gaffa.dk/anmeldelse/152952/anmeldelse-ny-tablet-lover-mere-end-den-kan-holde/"/>
+    <updated>2021-11-15T16:00:00Z</updated>
+    <published>2021-11-15T16:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/152952/anmeldelse-ny-tablet-lover-mere-end-den-kan-holde/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152952/anmeldelse-ny-tablet-lover-mere-end-den-kan-holde/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>TECH - Nokia T20</p><img src="https://static.gaffa.dk/images/2021/11/15/1682a/363872-w1000.jpg" alt="ANMELDELSE: Ny tablet lover mere, end den kan holde" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Nørdede pommes frites og italienske rullestege</title>
+    <link href="https://gaffa.dk/nyhed/152437/nordede-pommes-frites-og-italienske-rullestege/"/>
+    <updated>2021-11-15T15:09:00Z</updated>
+    <published>2021-11-15T15:09:00Z</published>
+    <id>https://gaffa.dk/nyhed/152437/nordede-pommes-frites-og-italienske-rullestege/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/152437/nordede-pommes-frites-og-italienske-rullestege/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/27/a5ab4/362835-w1000.jpg" alt="Nørdede pommes frites og italienske rullestege" />
       </div>
     ]]>
     </content>
@@ -276,37 +369,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
           <p>Gaye Su Akyol - Resonator Festival, Posten, Odense</p><img src="https://static.gaffa.dk/images/2021/11/14/3a1a9/363819-w1000.JPG" alt="Turkish surfrock delight" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Nørdede pommes frites og italienske rullestege</title>
-    <link href="https://gaffa.dk/nyhed/152437/nordede-pommes-frites-og-italienske-rullestege/"/>
-    <updated>2021-11-14T23:09:00Z</updated>
-    <published>2021-11-14T23:09:00Z</published>
-    <id>https://gaffa.dk/nyhed/152437/nordede-pommes-frites-og-italienske-rullestege/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152437/nordede-pommes-frites-og-italienske-rullestege/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/27/a5ab4/362835-w1000.jpg" alt="Nørdede pommes frites og italienske rullestege" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>På en øde ø sidder en sangskriver</title>
-    <link href="https://gaffa.dk/anmeldelse/152927/pa-en-ode-o-sidder-en-sangskriver/"/>
-    <updated>2021-11-14T13:00:00Z</updated>
-    <published>2021-11-14T13:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152927/pa-en-ode-o-sidder-en-sangskriver/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152927/pa-en-ode-o-sidder-en-sangskriver/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
-          <p>Tue West - Frihed til at være en fange</p><img src="https://static.gaffa.dk/images/2021/11/14/58afb/363826-w1000.jpg" alt="På en øde ø sidder en sangskriver" />
       </div>
     ]]>
     </content>
@@ -765,7 +827,7 @@
     <content type="html" xml:base="https://gaffa.dk/anmeldelse/152814/anmeldelse-power-soul/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Curtis Harding - If Words Were FLowers</p><img src="https://static.gaffa.dk/images/2021/11/11/bc0ac/363632-w1000.jpg" alt="ANMELDELSE: Power-soul" />
+          <p>Curtis Harding - If Words Were FLowers</p><img src="https://static.gaffa.dk/images/2021/10/04/95220/361417-w1000.jpeg" alt="ANMELDELSE: Power-soul" />
       </div>
     ]]>
     </content>
@@ -1670,16 +1732,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: Forførende dansk/tyrkisk forbrødring</title>
-    <link href="https://gaffa.dk/anmeldelse/152769/anmeldelse-forforende-dansktyrkisk-forbrodring/"/>
+    <title>Forførende dansk/tyrkisk forbrødring</title>
+    <link href="https://gaffa.dk/anmeldelse/152769/forforende-dansktyrkisk-forbrodring/"/>
     <updated>2021-11-09T13:00:00Z</updated>
     <published>2021-11-09T13:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152769/anmeldelse-forforende-dansktyrkisk-forbrodring/</id>
+    <id>https://gaffa.dk/anmeldelse/152769/forforende-dansktyrkisk-forbrodring/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152769/anmeldelse-forforende-dansktyrkisk-forbrodring/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152769/forforende-dansktyrkisk-forbrodring/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>AySay - Su Akar</p><img src="https://static.gaffa.dk/images/2021/11/08/e6ad8/363514-w1000.jpg" alt="ANMELDELSE: Forførende dansk/tyrkisk forbrødring" />
+          <p>AySay - Su Akar</p><img src="https://static.gaffa.dk/images/2021/11/08/e6ad8/363514-w1000.jpg" alt="Forførende dansk/tyrkisk forbrødring" />
       </div>
     ]]>
     </content>
@@ -2993,66 +3055,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152640/amazon-music-kan-nu-tekste-podcasts-mens-de-spiller/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/04/a3f96/363332-w1000.jpg" alt="Amazon Music kan nu tekste podcasts, mens de spiller" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>AiaSound-festivalen – tidligere ØreSound – klar med de første navne til 2022</title>
-    <link href="https://gaffa.dk/nyhed/152624/aiasound-festivalen-tidligere-oresound-klar-med-de-forste-navne-til-2022/"/>
-    <updated>2021-11-04T08:00:00Z</updated>
-    <published>2021-11-04T08:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/152624/aiasound-festivalen-tidligere-oresound-klar-med-de-forste-navne-til-2022/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152624/aiasound-festivalen-tidligere-oresound-klar-med-de-forste-navne-til-2022/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/04/9b3e7/363304-w1000.jpg" alt="AiaSound-festivalen – tidligere ØreSound – klar med de første navne til 2022" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>LYDMOR-KRONIK FØR STOR KONCERT: &quot;Jeg er pissebange&quot;</title>
-    <link href="https://gaffa.dk/artikel/152616/lydmor-kronik-for-stor-koncert-jeg-er-pissebange/"/>
-    <updated>2021-11-03T16:00:00Z</updated>
-    <published>2021-11-03T16:00:00Z</published>
-    <id>https://gaffa.dk/artikel/152616/lydmor-kronik-for-stor-koncert-jeg-er-pissebange/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/152616/lydmor-kronik-for-stor-koncert-jeg-er-pissebange/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/11/03/80419/363280-w1000.jpg" alt="LYDMOR-KRONIK FØR STOR KONCERT: &quot;Jeg er pissebange&quot;" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Veganerpartiets kandidat på Frederiksberg: Kultur skal bringe folk sammen</title>
-    <link href="https://gaffa.dk/artikel/152578/veganerpartiets-kandidat-pa-frederiksberg-kultur-skal-bringe-folk-sammen/"/>
-    <updated>2021-11-03T10:26:00Z</updated>
-    <published>2021-11-03T10:26:00Z</published>
-    <id>https://gaffa.dk/artikel/152578/veganerpartiets-kandidat-pa-frederiksberg-kultur-skal-bringe-folk-sammen/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/152578/veganerpartiets-kandidat-pa-frederiksberg-kultur-skal-bringe-folk-sammen/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/11/03/8f5fa/363251-w1000.png" alt="Veganerpartiets kandidat på Frederiksberg: Kultur skal bringe folk sammen" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Kurt Thyboe er død – kastede sig over musikken i en sen alder</title>
-    <link href="https://gaffa.dk/nyhed/152618/kurt-thyboe-er-dod-kastede-sig-over-musikken-i-en-sen-alder/"/>
-    <updated>2021-11-03T16:45:00Z</updated>
-    <published>2021-11-03T16:45:00Z</published>
-    <id>https://gaffa.dk/nyhed/152618/kurt-thyboe-er-dod-kastede-sig-over-musikken-i-en-sen-alder/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152618/kurt-thyboe-er-dod-kastede-sig-over-musikken-i-en-sen-alder/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2012/01/17/44bb9/86575-w1000.jpeg" alt="Kurt Thyboe er død – kastede sig over musikken i en sen alder" />
       </div>
     ]]>
     </content>
