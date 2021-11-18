@@ -5,8 +5,39 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-11-17T12:13:00Z</updated>
+  <updated>2021-11-18T07:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDELSE: Fra englekor til ravestemning</title>
+    <link href="https://gaffa.dk/anmeldelse/153017/anmeldelse-fra-englekor-til-ravestemning/"/>
+    <updated>2021-11-18T07:00:00Z</updated>
+    <published>2021-11-18T07:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153017/anmeldelse-fra-englekor-til-ravestemning/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153017/anmeldelse-fra-englekor-til-ravestemning/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Efterklang - Musikhuset Aarhus, Store Sal</p><img src="https://static.gaffa.dk/images/2021/11/18/fad90/363991-w1000.jpg" alt="ANMELDELSE: Fra englekor til ravestemning" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>19-årig rapper er død efter knivstikkeri i Taastrup</title>
+    <link href="https://gaffa.dk/nyhed/153016/19-arig-rapper-er-dod-efter-knivstikkeri-i-taastrup/"/>
+    <updated>2021-11-17T22:25:00Z</updated>
+    <published>2021-11-17T22:25:00Z</published>
+    <id>https://gaffa.dk/nyhed/153016/19-arig-rapper-er-dod-efter-knivstikkeri-i-taastrup/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153016/19-arig-rapper-er-dod-efter-knivstikkeri-i-taastrup/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/17/c0c44/363932-w1000.jpg" alt="19-årig rapper er død efter knivstikkeri i Taastrup" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Britney Spears taler ud – må køre bil og have kontanter igen </title>
@@ -48,6 +79,38 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152995/magtens-korridorer-har-faet-covid-19-aflyser-koncerter/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/04/07/d9320/352557-w1000.jpg" alt="Magtens Korridorer har fået covid-19 – aflyser koncerter" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Klassisk hardrock, velegnet til bilkørsel</title>
+    <link href="https://gaffa.dk/anmeldelse/153014/klassisk-hardrock-velegnet-til-bilkorsel/"/>
+    <updated>2021-11-17T17:25:00Z</updated>
+    <published>2021-11-17T17:25:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153014/klassisk-hardrock-velegnet-til-bilkorsel/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153014/klassisk-hardrock-velegnet-til-bilkorsel/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Wolfmother - Rock Out</p><img src="https://static.gaffa.dk/images/2021/11/17/69708/363918-w1000.jpg" alt="Klassisk hardrock, velegnet til bilkørsel" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>En valentin rejste med sneglepost fra land til land</title>
+    <link href="https://gaffa.dk/anmeldelse/153011/en-valentin-rejste-med-sneglepost-fra-land-til-land/"/>
+    <updated>2021-11-17T16:30:00Z</updated>
+    <published>2021-11-17T16:30:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153011/en-valentin-rejste-med-sneglepost-fra-land-til-land/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153011/en-valentin-rejste-med-sneglepost-fra-land-til-land/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Snail Mail - Valentine</p><img src="https://static.gaffa.dk/images/2021/11/17/bc668/363913-w1000.jpeg" alt="En valentin rejste med sneglepost fra land til land" />
       </div>
     ]]>
     </content>
@@ -2989,67 +3052,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152681/lars-hug-udgiver-coverversion-af-abba-sang/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2014/10/18/7adb9/169143-w1000.png" alt="Lars H.U.G udgiver coverversion af ABBA-sang" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Mikael Simpson udgiver livealbum fra Vega-koncert</title>
-    <link href="https://gaffa.dk/nyhed/152677/mikael-simpson-udgiver-livealbum-fra-vega-koncert/"/>
-    <updated>2021-11-05T12:41:00Z</updated>
-    <published>2021-11-05T12:41:00Z</published>
-    <id>https://gaffa.dk/nyhed/152677/mikael-simpson-udgiver-livealbum-fra-vega-koncert/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152677/mikael-simpson-udgiver-livealbum-fra-vega-koncert/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/05/ee83a/363395-w1000.jpg" alt="Mikael Simpson udgiver livealbum fra Vega-koncert" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Nu er den her - hør The Minds of 99&#39;s nye, eftertragtede sang </title>
-    <link href="https://gaffa.dk/nyhed/152667/nu-er-den-her-hor-the-minds-of-99s-nye-eftertragtede-sang/"/>
-    <updated>2021-11-05T11:00:00Z</updated>
-    <published>2021-11-05T11:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/152667/nu-er-den-her-hor-the-minds-of-99s-nye-eftertragtede-sang/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152667/nu-er-den-her-hor-the-minds-of-99s-nye-eftertragtede-sang/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/12/612fb/359295-w1000.jpg" alt="Nu er den her - hør The Minds of 99&#39;s nye, eftertragtede sang " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Randområdets rygtebørs rammer historisk højt niveau</title>
-    <link href="https://gaffa.dk/anmeldelse/152661/randomradets-rygtebors-rammer-historisk-hojt-niveau/"/>
-    <updated>2021-11-05T11:00:00Z</updated>
-    <published>2021-11-05T11:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152661/randomradets-rygtebors-rammer-historisk-hojt-niveau/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152661/randomradets-rygtebors-rammer-historisk-hojt-niveau/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Allan Olsen - Magasinet, Odense</p><img src="https://static.gaffa.dk/images/2021/11/05/3b852/363376-w1000.JPG" alt="Randområdets rygtebørs rammer historisk højt niveau" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Mattias Kolstrups Liberty er klar med nyt album</title>
-    <link href="https://gaffa.dk/nyhed/152663/mattias-kolstrups-liberty-er-klar-med-nyt-album/"/>
-    <updated>2021-11-05T10:10:00Z</updated>
-    <published>2021-11-05T10:10:00Z</published>
-    <id>https://gaffa.dk/nyhed/152663/mattias-kolstrups-liberty-er-klar-med-nyt-album/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152663/mattias-kolstrups-liberty-er-klar-med-nyt-album/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/05/df9d1/363387-w1000.jpeg" alt="Mattias Kolstrups Liberty er klar med nyt album" />
       </div>
     ]]>
     </content>
