@@ -5,8 +5,38 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-11-20T11:22:00Z</updated>
+  <updated>2021-11-20T22:20:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Danish Music Awards – og vinderne er...</title>
+    <link href="https://gaffa.dk/nyhed/153083/danish-music-awards-og-vinderne-er/"/>
+    <updated>2021-11-20T22:20:00Z</updated>
+    <published>2021-11-20T22:20:00Z</published>
+    <id>https://gaffa.dk/nyhed/153083/danish-music-awards-og-vinderne-er/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153083/danish-music-awards-og-vinderne-er/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/20/ef748/364139-w1000.jpg" alt="Danish Music Awards – og vinderne er..." />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Syg Seebach misser ærespris til Danish Music Awards</title>
+    <link href="https://gaffa.dk/nyhed/153082/syg-seebach-misser-aerespris-til-danish-music-awards/"/>
+    <updated>2021-11-20T22:11:00Z</updated>
+    <published>2021-11-20T22:11:00Z</published>
+    <id>https://gaffa.dk/nyhed/153082/syg-seebach-misser-aerespris-til-danish-music-awards/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153082/syg-seebach-misser-aerespris-til-danish-music-awards/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/09/26/06ea7/334167-w1000.jpg" alt="Syg Seebach misser ærespris til Danish Music Awards" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Hank Von Helvete er død, 49 år gammel</title>
@@ -3022,36 +3052,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152745/led-zeppelin-iv-fylder-50-ar-i-dag/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2014/01/03/bf62a/142849-w1000.jpeg" alt="Led Zeppelin IV fylder 50 år i dag " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Alicia Keys hylder dansk firma</title>
-    <link href="https://gaffa.dk/nyhed/152743/alicia-keys-hylder-dansk-firma/"/>
-    <updated>2021-11-08T10:54:00Z</updated>
-    <published>2021-11-08T10:54:00Z</published>
-    <id>https://gaffa.dk/nyhed/152743/alicia-keys-hylder-dansk-firma/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152743/alicia-keys-hylder-dansk-firma/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/09/24/a4d71/347594-w1000.jpg" alt="Alicia Keys hylder dansk firma" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Kuku Agami og Boef1 danner rapgruppe – hør debutsingle her </title>
-    <link href="https://gaffa.dk/nyhed/152738/kuku-agami-og-boef1-danner-rapgruppe-hor-debutsingle-her/"/>
-    <updated>2021-11-08T10:30:00Z</updated>
-    <published>2021-11-08T10:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/152738/kuku-agami-og-boef1-danner-rapgruppe-hor-debutsingle-her/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152738/kuku-agami-og-boef1-danner-rapgruppe-hor-debutsingle-her/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/08/f2dd8/363499-w1000.jpg" alt="Kuku Agami og Boef1 danner rapgruppe – hør debutsingle her " />
       </div>
     ]]>
     </content>
