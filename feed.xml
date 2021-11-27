@@ -5,8 +5,24 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-11-26T11:10:00Z</updated>
+  <updated>2021-11-27T00:01:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDELSE: Hymns From Nineveh lader LED-lyset brænde i mørket</title>
+    <link href="https://gaffa.dk/anmeldelse/153272/anmeldelse-hymns-from-nineveh-lader-led-lyset-braende-i-morket/"/>
+    <updated>2021-11-27T00:01:00Z</updated>
+    <published>2021-11-27T00:01:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153272/anmeldelse-hymns-from-nineveh-lader-led-lyset-braende-i-morket/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153272/anmeldelse-hymns-from-nineveh-lader-led-lyset-braende-i-morket/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Hymns From Nineveh - Musikhuset Aarhus, Rytmisk Sal</p><img src="https://static.gaffa.dk/images/2021/05/17/e48e7/354177-w1000.jpg" alt="ANMELDELSE: Hymns From Nineveh lader LED-lyset brænde i mørket" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>YouSee Musik: Kim Larsen er stadig danskernes foretrukne artist</title>
@@ -18,6 +34,36 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153257/yousee-musik-kim-larsen-er-stadig-danskernes-foretrukne-artist/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2010/05/05/baff5/54086-w1000.jpg" alt="YouSee Musik: Kim Larsen er stadig danskernes foretrukne artist" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Katie Melua udgiver akustisk album </title>
+    <link href="https://gaffa.dk/nyhed/153266/katie-melua-udgiver-akustisk-album/"/>
+    <updated>2021-11-26T15:00:00Z</updated>
+    <published>2021-11-26T15:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153266/katie-melua-udgiver-akustisk-album/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153266/katie-melua-udgiver-akustisk-album/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/26/c6064/364714-w1000.jpg" alt="Katie Melua udgiver akustisk album " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Madonna raser mod Instagram - censurerede hendes brystvorter</title>
+    <link href="https://gaffa.dk/nyhed/153265/madonna-raser-mod-instagram-censurerede-hendes-brystvorter/"/>
+    <updated>2021-11-26T14:20:00Z</updated>
+    <published>2021-11-26T14:20:00Z</published>
+    <id>https://gaffa.dk/nyhed/153265/madonna-raser-mod-instagram-censurerede-hendes-brystvorter/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153265/madonna-raser-mod-instagram-censurerede-hendes-brystvorter/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/06/14/0b2de/323863-w1000.jpg" alt="Madonna raser mod Instagram - censurerede hendes brystvorter" />
       </div>
     ]]>
     </content>
@@ -186,6 +232,22 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153182/klassikeren-moonwalker-ind-i-slumomrader-med-helbredende-hooks/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/11/24/68c05/364617-w1000.jpg" alt="KLASSIKEREN: Moonwalker ind i slumområder med helbredende hooks" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>42 år gamle optagelser med Springsteen i festhjørnet</title>
+    <link href="https://gaffa.dk/anmeldelse/153271/42-ar-gamle-optagelser-med-springsteen-i-festhjornet/"/>
+    <updated>2021-11-26T23:17:00Z</updated>
+    <published>2021-11-26T23:17:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153271/42-ar-gamle-optagelser-med-springsteen-i-festhjornet/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153271/42-ar-gamle-optagelser-med-springsteen-i-festhjornet/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Bruce Springsteen &amp; The E Street Band - The Legendary 1979 No Nukes Concerts (2xcd/dvd)</p><img src="https://static.gaffa.dk/images/2021/11/26/e7c6b/364762-w1000.jpg" alt="42 år gamle optagelser med Springsteen i festhjørnet" />
       </div>
     ]]>
     </content>
@@ -2990,66 +3052,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152899/mo-annoncerer-udgivelsesdato-og-slipper-to-nye-sange-hor-dem-her/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/05/27/39a5d/354602-w1000.png" alt="MØ annoncerer udgivelsesdato og slipper to nye sange – hør dem her " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Steppeulven 2022 er klar med de første liveoptrædener og dato</title>
-    <link href="https://gaffa.dk/nyhed/152895/steppeulven-2022-er-klar-med-de-forste-liveoptraedener-og-dato/"/>
-    <updated>2021-11-12T12:00:00Z</updated>
-    <published>2021-11-12T12:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/152895/steppeulven-2022-er-klar-med-de-forste-liveoptraedener-og-dato/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152895/steppeulven-2022-er-klar-med-de-forste-liveoptraedener-og-dato/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/05/d8cea/357368-w1000.jpg" alt="Steppeulven 2022 er klar med de første liveoptrædener og dato" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>DAMON ALBARN-INTERVIEW: En trøst i mørke tider</title>
-    <link href="https://gaffa.dk/artikel/152841/damon-albarn-interview-en-trost-i-morke-tider/"/>
-    <updated>2021-11-12T06:00:00Z</updated>
-    <published>2021-11-12T06:00:00Z</published>
-    <id>https://gaffa.dk/artikel/152841/damon-albarn-interview-en-trost-i-morke-tider/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/152841/damon-albarn-interview-en-trost-i-morke-tider/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/11/11/072e3/363627-w1000.jpg" alt="DAMON ALBARN-INTERVIEW: En trøst i mørke tider" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Jarvis Cocker udgiver bæredygtig banger – og erindringsbog </title>
-    <link href="https://gaffa.dk/nyhed/152909/jarvis-cocker-udgiver-baeredygtig-banger-og-erindringsbog/"/>
-    <updated>2021-11-12T16:30:00Z</updated>
-    <published>2021-11-12T16:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/152909/jarvis-cocker-udgiver-baeredygtig-banger-og-erindringsbog/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152909/jarvis-cocker-udgiver-baeredygtig-banger-og-erindringsbog/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/07/03/9a10b/345098-w1000.jpg" alt="Jarvis Cocker udgiver bæredygtig banger – og erindringsbog " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Fun Lovin&#39; Criminals annoncerer frontmands exit </title>
-    <link href="https://gaffa.dk/nyhed/152903/fun-lovin-criminals-annoncerer-frontmands-exit/"/>
-    <updated>2021-11-12T15:30:00Z</updated>
-    <published>2021-11-12T15:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/152903/fun-lovin-criminals-annoncerer-frontmands-exit/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152903/fun-lovin-criminals-annoncerer-frontmands-exit/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/06/27/57cff/298167-w1000.jpg" alt="Fun Lovin&#39; Criminals annoncerer frontmands exit " />
       </div>
     ]]>
     </content>
