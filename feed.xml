@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-11-29T09:30:00Z</updated>
+  <updated>2021-11-29T15:40:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Julemusik gennem årtierne: Ti stærke julesange fra 1970&#39;erne</title>
+    <link href="https://gaffa.dk/artikel/153321/julemusik-gennem-artierne-ti-staerke-julesange-fra-1970erne/"/>
+    <updated>2021-11-29T15:40:00Z</updated>
+    <published>2021-11-29T15:40:00Z</published>
+    <id>https://gaffa.dk/artikel/153321/julemusik-gennem-artierne-ti-staerke-julesange-fra-1970erne/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153321/julemusik-gennem-artierne-ti-staerke-julesange-fra-1970erne/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/09/14/233a9/359556-w1000.jpg" alt="Julemusik gennem årtierne: Ti stærke julesange fra 1970&#39;erne" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Kira &amp; The Kindred Spirits genoplives – fejrer 20-års jubilæum </title>
@@ -48,6 +63,36 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153313/let-at-vaere-kreativ-hele-dagen/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/29/278d2/364945-w1000.jpg" alt="Let at være kreativ hele dagen" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Saxofonlegende underviser unge i Helsingør</title>
+    <link href="https://gaffa.dk/nyhed/153327/saxofonlegende-underviser-unge-i-helsingor/"/>
+    <updated>2021-11-29T16:30:00Z</updated>
+    <published>2021-11-29T16:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/153327/saxofonlegende-underviser-unge-i-helsingor/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153327/saxofonlegende-underviser-unge-i-helsingor/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/29/fcbc8/364953-w1000.jpeg" alt="Saxofonlegende underviser unge i Helsingør" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Nibe Festival inviterer til nattefester – annoncerer navne</title>
+    <link href="https://gaffa.dk/nyhed/153319/nibe-festival-inviterer-til-nattefester-annoncerer-navne/"/>
+    <updated>2021-11-29T15:26:00Z</updated>
+    <published>2021-11-29T15:26:00Z</published>
+    <id>https://gaffa.dk/nyhed/153319/nibe-festival-inviterer-til-nattefester-annoncerer-navne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153319/nibe-festival-inviterer-til-nattefester-annoncerer-navne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/15/c8f2a/363861-w1000.png" alt="Nibe Festival inviterer til nattefester – annoncerer navne" />
       </div>
     ]]>
     </content>
@@ -663,7 +708,7 @@
   </entry>
   
   <entry>
-    <title>Sid på toilettet med Metallica - kunstner laver latterligt Lars Ulrich-lokum</title>
+    <title>Sid på toilettet med Metallica – kunstner laver latterligt Lars Ulrich-lokum</title>
     <link href="https://gaffa.dk/nyhed/153229/sid-pa-toilettet-med-metallica-kunstner-laver-latterligt-lars-ulrich-lokum/"/>
     <updated>2021-11-25T14:50:00Z</updated>
     <published>2021-11-25T14:50:00Z</published>
@@ -671,7 +716,7 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/153229/sid-pa-toilettet-med-metallica-kunstner-laver-latterligt-lars-ulrich-lokum/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2014/06/04/72d85/154685-w1000.jpeg" alt="Sid på toilettet med Metallica - kunstner laver latterligt Lars Ulrich-lokum" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2014/06/04/72d85/154685-w1000.jpeg" alt="Sid på toilettet med Metallica – kunstner laver latterligt Lars Ulrich-lokum" />
       </div>
     ]]>
     </content>
@@ -1681,14 +1726,14 @@
   
   <entry>
     <title>DMA-vinder Andreas Odbjerg: &quot;Det er en drengedrøm, der er gået i opfyldelse&quot;</title>
-    <link href="https://gaffa.dk/nyhed/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/"/>
+    <link href="https://gaffa.dk/artikel/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/"/>
     <updated>2021-11-21T08:00:00Z</updated>
     <published>2021-11-21T08:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/">
+    <id>https://gaffa.dk/artikel/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/21/b6394/364140-w1000.jpg" alt="DMA-vinder Andreas Odbjerg: &quot;Det er en drengedrøm, der er gået i opfyldelse&quot;" />
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/11/21/b6394/364140-w1000.jpg" alt="DMA-vinder Andreas Odbjerg: &quot;Det er en drengedrøm, der er gået i opfyldelse&quot;" />
       </div>
     ]]>
     </content>
@@ -3001,52 +3046,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/152944/psyched-up-janis-udgiver-fire-vinylplader-med-masser-af-sjaeldenheder/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/02/24/97710/341546-w1000.jpg" alt="Psyched Up Janis udgiver fire vinylplader med masser af sjældenheder" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Tessa vinder pris ved MTV EMA 2021</title>
-    <link href="https://gaffa.dk/nyhed/152940/tessa-vinder-pris-ved-mtv-ema-2021/"/>
-    <updated>2021-11-15T10:32:00Z</updated>
-    <published>2021-11-15T10:32:00Z</published>
-    <id>https://gaffa.dk/nyhed/152940/tessa-vinder-pris-ved-mtv-ema-2021/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152940/tessa-vinder-pris-ved-mtv-ema-2021/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/15/c8f2a/363861-w1000.png" alt="Tessa vinder pris ved MTV EMA 2021" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Fem nye sange fra Kanye West – udgiver Donda i deluxe-udgave</title>
-    <link href="https://gaffa.dk/nyhed/152951/fem-nye-sange-fra-kanye-west-udgiver-donda-i-deluxe-udgave/"/>
-    <updated>2021-11-15T14:40:00Z</updated>
-    <published>2021-11-15T14:40:00Z</published>
-    <id>https://gaffa.dk/nyhed/152951/fem-nye-sange-fra-kanye-west-udgiver-donda-i-deluxe-udgave/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/152951/fem-nye-sange-fra-kanye-west-udgiver-donda-i-deluxe-udgave/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/02/a4064/358831-w1000.jpg" alt="Fem nye sange fra Kanye West – udgiver Donda i deluxe-udgave" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>På en øde ø sidder en sangskriver</title>
-    <link href="https://gaffa.dk/anmeldelse/152927/pa-en-ode-o-sidder-en-sangskriver/"/>
-    <updated>2021-11-15T14:00:00Z</updated>
-    <published>2021-11-15T14:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152927/pa-en-ode-o-sidder-en-sangskriver/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152927/pa-en-ode-o-sidder-en-sangskriver/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
-          <p>Tue West - Frihed til at være en fange</p><img src="https://static.gaffa.dk/images/2021/11/14/58afb/363826-w1000.jpg" alt="På en øde ø sidder en sangskriver" />
       </div>
     ]]>
     </content>
