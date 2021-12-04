@@ -5,8 +5,56 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-03T08:40:00Z</updated>
+  <updated>2021-12-04T07:57:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Odenseansk kultband udspiller Posten</title>
+    <link href="https://gaffa.dk/anmeldelse/153463/odenseansk-kultband-udspiller-posten/"/>
+    <updated>2021-12-04T07:57:00Z</updated>
+    <published>2021-12-04T07:57:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153463/odenseansk-kultband-udspiller-posten/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153463/odenseansk-kultband-udspiller-posten/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Rock Hard Power Spray - Posten, Odense</p><img src="https://static.gaffa.dk/images/2021/12/04/e8fdb/365205-w1000.JPG" alt="Odenseansk kultband udspiller Posten" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Stilfuld hyggejazz i højtidens tone</title>
+    <link href="https://gaffa.dk/anmeldelse/153466/anmeldelse-stilfuld-hyggejazz-i-hojtidens-tone/"/>
+    <updated>2021-12-04T12:27:00Z</updated>
+    <published>2021-12-04T12:27:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153466/anmeldelse-stilfuld-hyggejazz-i-hojtidens-tone/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153466/anmeldelse-stilfuld-hyggejazz-i-hojtidens-tone/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
+          <p>Bo Kaspers Orkester - I denna mörka vintertid</p><img src="https://static.gaffa.dk/images/2021/12/04/b8445/365272-w1000.jpg" alt="ANMELDELSE: Stilfuld hyggejazz i højtidens tone" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Det vindblæste Esbjerg var en fin ramme for Bersærks univers af nordisk mytologi</title>
+    <link href="https://gaffa.dk/anmeldelse/153462/det-vindblaeste-esbjerg-var-en-fin-ramme-for-bersaerks-univers-af-nordisk-mytologi/"/>
+    <updated>2021-12-04T09:07:00Z</updated>
+    <published>2021-12-04T09:07:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153462/det-vindblaeste-esbjerg-var-en-fin-ramme-for-bersaerks-univers-af-nordisk-mytologi/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153462/det-vindblaeste-esbjerg-var-en-fin-ramme-for-bersaerks-univers-af-nordisk-mytologi/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Bersærk - Tobakken, Esbjerg</p><img src="https://static.gaffa.dk/images/2021/12/04/db01b/365233-w1000.jpg" alt="Det vindblæste Esbjerg var en fin ramme for Bersærks univers af nordisk mytologi" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Let at være kreativ hele dagen</title>
@@ -40,15 +88,15 @@
   </entry>
   
   <entry>
-    <title>Cardi B ansættes hos Playboy</title>
-    <link href="https://gaffa.dk/nyhed/153456/cardi-b-ansaettes-hos-playboy/"/>
+    <title>Cardi B ansat hos Playboy</title>
+    <link href="https://gaffa.dk/nyhed/153456/cardi-b-ansat-hos-playboy/"/>
     <updated>2021-12-03T17:00:00Z</updated>
     <published>2021-12-03T17:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153456/cardi-b-ansaettes-hos-playboy/</id>
+    <id>https://gaffa.dk/nyhed/153456/cardi-b-ansat-hos-playboy/</id>
     <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153456/cardi-b-ansaettes-hos-playboy/">
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153456/cardi-b-ansat-hos-playboy/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/07/04/94d28/326878-w1000.jpg" alt="Cardi B ansættes hos Playboy" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/07/04/94d28/326878-w1000.jpg" alt="Cardi B ansat hos Playboy" />
       </div>
     ]]>
     </content>
@@ -1134,7 +1182,7 @@
   </entry>
   
   <entry>
-    <title>VIDEO: White Lies udgiver diy-video til ny single</title>
+    <title>VIDEO: White Lies udgiver DIY-video til ny single</title>
     <link href="https://gaffa.dk/nyhed/153353/video-white-lies-udgiver-diy-video-til-ny-single/"/>
     <updated>2021-11-30T20:00:00Z</updated>
     <published>2021-11-30T20:00:00Z</published>
@@ -1142,7 +1190,7 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/153353/video-white-lies-udgiver-diy-video-til-ny-single/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/30/a7995/364992-w1000.jpg" alt="VIDEO: White Lies udgiver diy-video til ny single" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/30/a7995/364992-w1000.jpg" alt="VIDEO: White Lies udgiver DIY-video til ny single" />
       </div>
     ]]>
     </content>
@@ -2028,22 +2076,22 @@
   </entry>
   
   <entry>
-    <title>Aerosmith udgiver halvtreds år gamle optagelser</title>
-    <link href="https://gaffa.dk/nyhed/153223/aerosmith-udgiver-halvtreds-ar-gamle-optagelser/"/>
+    <title>Aerosmith udgiver 50 år gamle optagelser</title>
+    <link href="https://gaffa.dk/nyhed/153223/aerosmith-udgiver-50-ar-gamle-optagelser/"/>
     <updated>2021-11-25T13:10:00Z</updated>
     <published>2021-11-25T13:10:00Z</published>
-    <id>https://gaffa.dk/nyhed/153223/aerosmith-udgiver-halvtreds-ar-gamle-optagelser/</id>
+    <id>https://gaffa.dk/nyhed/153223/aerosmith-udgiver-50-ar-gamle-optagelser/</id>
     <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153223/aerosmith-udgiver-halvtreds-ar-gamle-optagelser/">
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153223/aerosmith-udgiver-50-ar-gamle-optagelser/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/01/22/7651c/338954-w1000.png" alt="Aerosmith udgiver halvtreds år gamle optagelser" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/01/22/7651c/338954-w1000.png" alt="Aerosmith udgiver 50 år gamle optagelser" />
       </div>
     ]]>
     </content>
   </entry>
   
   <entry>
-    <title>Lindsey Buckingham stjæler sang - ved en fejltagelse</title>
+    <title>Lindsey Buckingham stjæler sang – ved en fejltagelse</title>
     <link href="https://gaffa.dk/nyhed/153213/lindsey-buckingham-stjaeler-sang-ved-en-fejltagelse/"/>
     <updated>2021-11-25T11:15:00Z</updated>
     <published>2021-11-25T11:15:00Z</published>
@@ -2051,7 +2099,7 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/153213/lindsey-buckingham-stjaeler-sang-ved-en-fejltagelse/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2011/08/31/0b8fa/80206-w1000.jpg" alt="Lindsey Buckingham stjæler sang - ved en fejltagelse" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2011/08/31/0b8fa/80206-w1000.jpg" alt="Lindsey Buckingham stjæler sang – ved en fejltagelse" />
       </div>
     ]]>
     </content>
@@ -2994,52 +3042,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
           <p>Phlake - Jyske Bank Arena, Odense</p><img src="https://static.gaffa.dk/images/2021/11/21/3f2a1/364288-w1000.jpg" alt="Musikalsk amorinejuice i arenaformat" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>DMA-vinder Andreas Odbjerg: &quot;Det er en drengedrøm, der er gået i opfyldelse&quot;</title>
-    <link href="https://gaffa.dk/artikel/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/"/>
-    <updated>2021-11-21T08:00:00Z</updated>
-    <published>2021-11-21T08:00:00Z</published>
-    <id>https://gaffa.dk/artikel/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153084/dma-vinder-andreas-odbjerg-det-er-en-drengedrom-der-er-gaet-i-opfyldelse/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/11/21/b6394/364140-w1000.jpg" alt="DMA-vinder Andreas Odbjerg: &quot;Det er en drengedrøm, der er gået i opfyldelse&quot;" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDELSE: Respektindgydende pondus i to årtier</title>
-    <link href="https://gaffa.dk/anmeldelse/153091/anmeldelse-respektindgydende-pondus-i-to-artier/"/>
-    <updated>2021-11-21T00:25:00Z</updated>
-    <published>2021-11-21T00:25:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153091/anmeldelse-respektindgydende-pondus-i-to-artier/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153091/anmeldelse-respektindgydende-pondus-i-to-artier/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Thorbjørn Risager &amp; The Black Tornado - Best Of</p><img src="https://static.gaffa.dk/images/2021/11/21/9a4a6/364434-w1000.jpg" alt="ANMELDELSE: Respektindgydende pondus i to årtier" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Danish Music Awards – og vinderne er...</title>
-    <link href="https://gaffa.dk/nyhed/153083/danish-music-awards-og-vinderne-er/"/>
-    <updated>2021-11-20T22:20:00Z</updated>
-    <published>2021-11-20T22:20:00Z</published>
-    <id>https://gaffa.dk/nyhed/153083/danish-music-awards-og-vinderne-er/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153083/danish-music-awards-og-vinderne-er/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/20/ef748/364139-w1000.jpg" alt="Danish Music Awards – og vinderne er..." />
       </div>
     ]]>
     </content>
