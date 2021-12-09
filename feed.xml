@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-08T14:15:00Z</updated>
+  <updated>2021-12-08T18:39:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Forbud mod stående koncerter for flere end 50 personer</title>
+    <link href="https://gaffa.dk/nyhed/153566/forbud-mod-staende-koncerter-for-flere-end-50-personer/"/>
+    <updated>2021-12-08T18:39:00Z</updated>
+    <published>2021-12-08T18:39:00Z</published>
+    <id>https://gaffa.dk/nyhed/153566/forbud-mod-staende-koncerter-for-flere-end-50-personer/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153566/forbud-mod-staende-koncerter-for-flere-end-50-personer/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/06/b44ee/359144-w1000.png" alt="Forbud mod stående koncerter for flere end 50 personer" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>REDAKTIONEN: Her er årets 20 bedste danske album</title>
@@ -24,15 +39,46 @@
   </entry>
   
   <entry>
-    <title>IINTERVIEW: Louise Lolle tilbage med ny musik</title>
-    <link href="https://gaffa.dk/artikel/153518/iinterview-louise-lolle-tilbage-med-ny-musik/"/>
+    <title>Gary Barlows jul – smukt og smerteligt, uden for meget sukkersød kvalme</title>
+    <link href="https://gaffa.dk/anmeldelse/153564/gary-barlows-jul-smukt-og-smerteligt-uden-for-meget-sukkersod-kvalme/"/>
+    <updated>2021-12-08T16:46:00Z</updated>
+    <published>2021-12-08T16:46:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153564/gary-barlows-jul-smukt-og-smerteligt-uden-for-meget-sukkersod-kvalme/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153564/gary-barlows-jul-smukt-og-smerteligt-uden-for-meget-sukkersod-kvalme/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Gary Barlow - The Dream of Christmas</p><img src="https://static.gaffa.dk/images/2021/12/08/b034f/365464-w1000.jpg" alt="Gary Barlows jul – smukt og smerteligt, uden for meget sukkersød kvalme" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Bob Marley-ekspert aktuel med ny bog: “Han var en kæmpe”</title>
+    <link href="https://gaffa.dk/artikel/153562/bob-marley-ekspert-aktuel-med-ny-bog-han-var-en-kaempe/"/>
+    <updated>2021-12-08T16:30:00Z</updated>
+    <published>2021-12-08T16:30:00Z</published>
+    <id>https://gaffa.dk/artikel/153562/bob-marley-ekspert-aktuel-med-ny-bog-han-var-en-kaempe/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153562/bob-marley-ekspert-aktuel-med-ny-bog-han-var-en-kaempe/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2012/02/15/b6437/88103-w1000.jpeg" alt="Bob Marley-ekspert aktuel med ny bog: “Han var en kæmpe”" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>INTERVIEW: Louise Lolle tilbage med ny musik</title>
+    <link href="https://gaffa.dk/artikel/153518/interview-louise-lolle-tilbage-med-ny-musik/"/>
     <updated>2021-12-08T15:00:00Z</updated>
     <published>2021-12-08T15:00:00Z</published>
-    <id>https://gaffa.dk/artikel/153518/iinterview-louise-lolle-tilbage-med-ny-musik/</id>
+    <id>https://gaffa.dk/artikel/153518/interview-louise-lolle-tilbage-med-ny-musik/</id>
     <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153518/iinterview-louise-lolle-tilbage-med-ny-musik/">
+    <content type="html" xml:base="https://gaffa.dk/artikel/153518/interview-louise-lolle-tilbage-med-ny-musik/">
     <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/08/7c03c/365442-w1000.jpg" alt="IINTERVIEW: Louise Lolle tilbage med ny musik" />
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/08/7c03c/365442-w1000.jpg" alt="INTERVIEW: Louise Lolle tilbage med ny musik" />
       </div>
     ]]>
     </content>
@@ -54,16 +100,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: Overflødigt soulopkog</title>
-    <link href="https://gaffa.dk/anmeldelse/153538/anmeldelse-overflodigt-soulopkog/"/>
+    <title>Overflødigt soulopkog</title>
+    <link href="https://gaffa.dk/anmeldelse/153538/overflodigt-soulopkog/"/>
     <updated>2021-12-08T10:00:00Z</updated>
     <published>2021-12-08T10:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153538/anmeldelse-overflodigt-soulopkog/</id>
+    <id>https://gaffa.dk/anmeldelse/153538/overflodigt-soulopkog/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153538/anmeldelse-overflodigt-soulopkog/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153538/overflodigt-soulopkog/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
-          <p>An Evening With Silk Sonic - Silk Sonic</p><img src="https://static.gaffa.dk/images/2021/12/08/70252/365444-w1000.jpg" alt="ANMELDELSE: Overflødigt soulopkog" />
+          <p>An Evening With Silk Sonic - Silk Sonic</p><img src="https://static.gaffa.dk/images/2021/12/08/70252/365444-w1000.jpg" alt="Overflødigt soulopkog" />
       </div>
     ]]>
     </content>
@@ -79,6 +125,51 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153530/beach-house-deler-fire-nye-sange-fra-kommende-album/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/10/09/f3edf/308688-w1000.jpg" alt="Beach House deler fire nye sange fra kommende album" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Vegas Udvalgte klar med 2022-program</title>
+    <link href="https://gaffa.dk/nyhed/153559/vegas-udvalgte-klar-med-2022-program/"/>
+    <updated>2021-12-08T16:00:00Z</updated>
+    <published>2021-12-08T16:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153559/vegas-udvalgte-klar-med-2022-program/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153559/vegas-udvalgte-klar-med-2022-program/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/08/a93df/365462-w1000.jpg" alt="Vegas Udvalgte klar med 2022-program" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>VIDEO: Christina Aguilera lufter ny sang - og giver gotisk version af megahit</title>
+    <link href="https://gaffa.dk/nyhed/153561/video-christina-aguilera-lufter-ny-sang-og-giver-gotisk-version-af-megahit/"/>
+    <updated>2021-12-08T15:49:00Z</updated>
+    <published>2021-12-08T15:49:00Z</published>
+    <id>https://gaffa.dk/nyhed/153561/video-christina-aguilera-lufter-ny-sang-og-giver-gotisk-version-af-megahit/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153561/video-christina-aguilera-lufter-ny-sang-og-giver-gotisk-version-af-megahit/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/06/18/36731/296985-w1000.jpg" alt="VIDEO: Christina Aguilera lufter ny sang - og giver gotisk version af megahit" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>KLASSIKEREN: Da verdens største band takkede af</title>
+    <link href="https://gaffa.dk/nyhed/153555/klassikeren-da-verdens-storste-band-takkede-af/"/>
+    <updated>2021-12-08T15:30:00Z</updated>
+    <published>2021-12-08T15:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/153555/klassikeren-da-verdens-storste-band-takkede-af/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153555/klassikeren-da-verdens-storste-band-takkede-af/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/06/1f1e5/365377-w1000.jpg" alt="KLASSIKEREN: Da verdens største band takkede af" />
       </div>
     ]]>
     </content>
@@ -123,7 +214,7 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/153548/musikalsk-adventskalender-fra-johan-kolstrup-inklusiv-samarbejde-med-drew-sycamore/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/20/81317/358151-w1000.jpg" alt="Musikalsk adventskalender fra Johan Kolstrup – inklusiv samarbejde med Drew Sycamore" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/08/c3b01/365465-w1000.jpeg" alt="Musikalsk adventskalender fra Johan Kolstrup – inklusiv samarbejde med Drew Sycamore" />
       </div>
     ]]>
     </content>
@@ -2950,97 +3041,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153175/mogwai-gaester-aarhus/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/05/a5c44/361434-w1000.jpg" alt="Mogwai gæster Aarhus" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>The Weeknd slår vild Billboard-rekord med 2019-hit</title>
-    <link href="https://gaffa.dk/nyhed/153168/the-weeknd-slar-vild-billboard-rekord-med-2019-hit/"/>
-    <updated>2021-11-24T07:50:00Z</updated>
-    <published>2021-11-24T07:50:00Z</published>
-    <id>https://gaffa.dk/nyhed/153168/the-weeknd-slar-vild-billboard-rekord-med-2019-hit/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153168/the-weeknd-slar-vild-billboard-rekord-med-2019-hit/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/03/05/e9e11/342150-w1000.png" alt="The Weeknd slår vild Billboard-rekord med 2019-hit" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Det er som om, at tiden er gået i stå for Vild $mith</title>
-    <link href="https://gaffa.dk/anmeldelse/153154/det-er-som-om-at-tiden-er-gaet-i-sta-for-vild-mith/"/>
-    <updated>2021-11-24T18:00:00Z</updated>
-    <published>2021-11-24T18:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153154/det-er-som-om-at-tiden-er-gaet-i-sta-for-vild-mith/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153154/det-er-som-om-at-tiden-er-gaet-i-sta-for-vild-mith/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 2 / 5 stjærner.</p>
-          <p>Vild $mith - The Hunt</p><img src="https://static.gaffa.dk/images/2021/11/23/5bbdc/364542-w1000.jpg" alt="Det er som om, at tiden er gået i stå for Vild $mith" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>HOLD ØJE MED: Fire favoritter fra vækstlaget</title>
-    <link href="https://gaffa.dk/artikel/153197/hold-oje-med-fire-favoritter-fra-vaekstlaget/"/>
-    <updated>2021-11-24T16:45:00Z</updated>
-    <published>2021-11-24T16:45:00Z</published>
-    <id>https://gaffa.dk/artikel/153197/hold-oje-med-fire-favoritter-fra-vaekstlaget/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153197/hold-oje-med-fire-favoritter-fra-vaekstlaget/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/25/7bdda/362716-w1000.jpg" alt="HOLD ØJE MED: Fire favoritter fra vækstlaget" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Regeringen vil sænke grænsen for, hvornår der skal vises coronapas ved arrangementer</title>
-    <link href="https://gaffa.dk/nyhed/153196/regeringen-vil-saenke-graensen-for-hvornar-der-skal-vises-coronapas-ved-arrangementer/"/>
-    <updated>2021-11-24T16:27:00Z</updated>
-    <published>2021-11-24T16:27:00Z</published>
-    <id>https://gaffa.dk/nyhed/153196/regeringen-vil-saenke-graensen-for-hvornar-der-skal-vises-coronapas-ved-arrangementer/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153196/regeringen-vil-saenke-graensen-for-hvornar-der-skal-vises-coronapas-ved-arrangementer/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/12/10/95109/350364-w1000.jpg" alt="Regeringen vil sænke grænsen for, hvornår der skal vises coronapas ved arrangementer" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Bog af Springsteen og Obama udkommer på dansk</title>
-    <link href="https://gaffa.dk/nyhed/153193/bog-af-springsteen-og-obama-udkommer-pa-dansk/"/>
-    <updated>2021-11-24T16:20:00Z</updated>
-    <published>2021-11-24T16:20:00Z</published>
-    <id>https://gaffa.dk/nyhed/153193/bog-af-springsteen-og-obama-udkommer-pa-dansk/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153193/bog-af-springsteen-og-obama-udkommer-pa-dansk/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/02/23/e316b/351490-w1000.png" alt="Bog af Springsteen og Obama udkommer på dansk" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Wall of Sound klar med de første fem navne til 2022</title>
-    <link href="https://gaffa.dk/nyhed/153176/wall-of-sound-klar-med-de-forste-fem-navne-til-2022/"/>
-    <updated>2021-11-24T10:45:00Z</updated>
-    <published>2021-11-24T10:45:00Z</published>
-    <id>https://gaffa.dk/nyhed/153176/wall-of-sound-klar-med-de-forste-fem-navne-til-2022/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153176/wall-of-sound-klar-med-de-forste-fem-navne-til-2022/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/24/89c25/364586-w1000.jpeg" alt="Wall of Sound klar med de første fem navne til 2022" />
       </div>
     ]]>
     </content>
