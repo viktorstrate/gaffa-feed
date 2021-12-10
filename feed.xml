@@ -5,20 +5,234 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-10T00:00:00Z</updated>
+  <updated>2021-12-10T14:00:00Z</updated>
   <id>https://gaffa.dk/</id>
   
   <entry>
-    <title>ANMELDELSE: Kampen mod afhængighedens dæmoner lyder utrolig godt</title>
-    <link href="https://gaffa.dk/anmeldelse/153234/anmeldelse-kampen-mod-afhaengighedens-daemoner-lyder-utrolig-godt/"/>
-    <updated>2021-12-10T00:00:00Z</updated>
-    <published>2021-12-10T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153234/anmeldelse-kampen-mod-afhaengighedens-daemoner-lyder-utrolig-godt/</id>
+    <title>Smukfest offentliggør fem nye navne</title>
+    <link href="https://gaffa.dk/nyhed/153617/smukfest-offentliggor-fem-nye-navne/"/>
+    <updated>2021-12-10T14:00:00Z</updated>
+    <published>2021-12-10T14:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153617/smukfest-offentliggor-fem-nye-navne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153617/smukfest-offentliggor-fem-nye-navne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/05/15/a7827/343960-w1000.png" alt="Smukfest offentliggør fem nye navne" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Syd for solen annoncerer store navne</title>
+    <link href="https://gaffa.dk/nyhed/153587/syd-for-solen-annoncerer-store-navne/"/>
+    <updated>2021-12-10T12:00:00Z</updated>
+    <published>2021-12-10T12:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153587/syd-for-solen-annoncerer-store-navne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153587/syd-for-solen-annoncerer-store-navne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/06/07/8c238/322518-w1000.jpg" alt="Syd for solen annoncerer store navne" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Julemusik gennem årtierne: Ti stærke julesange fra 2010&#39;erne</title>
+    <link href="https://gaffa.dk/nyhed/153596/julemusik-gennem-artierne-ti-staerke-julesange-fra-2010erne/"/>
+    <updated>2021-12-10T09:00:00Z</updated>
+    <published>2021-12-10T09:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153596/julemusik-gennem-artierne-ti-staerke-julesange-fra-2010erne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153596/julemusik-gennem-artierne-ti-staerke-julesange-fra-2010erne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/02/22/14304/351462-w1000.png" alt="Julemusik gennem årtierne: Ti stærke julesange fra 2010&#39;erne" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Bronski Beat-grundlægger død, 61 år gammel</title>
+    <link href="https://gaffa.dk/nyhed/153620/bronski-beat-grundlaegger-dod-61-ar-gammel/"/>
+    <updated>2021-12-10T15:00:00Z</updated>
+    <published>2021-12-10T15:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153620/bronski-beat-grundlaegger-dod-61-ar-gammel/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153620/bronski-beat-grundlaegger-dod-61-ar-gammel/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="" alt="Bronski Beat-grundlægger død, 61 år gammel" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Netflix-dokumentar om Kanye West får premiere på Sundance 2022 </title>
+    <link href="https://gaffa.dk/nyhed/153618/netflix-dokumentar-om-kanye-west-far-premiere-pa-sundance-2022/"/>
+    <updated>2021-12-10T14:30:00Z</updated>
+    <published>2021-12-10T14:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/153618/netflix-dokumentar-om-kanye-west-far-premiere-pa-sundance-2022/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153618/netflix-dokumentar-om-kanye-west-far-premiere-pa-sundance-2022/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2016/10/03/23463/242698-w1000.jpg" alt="Netflix-dokumentar om Kanye West får premiere på Sundance 2022 " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Earl Sweatshirt annoncerer nyt projekt – hør første single</title>
+    <link href="https://gaffa.dk/nyhed/153614/earl-sweatshirt-annoncerer-nyt-projekt-hor-forste-single/"/>
+    <updated>2021-12-10T12:30:00Z</updated>
+    <published>2021-12-10T12:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/153614/earl-sweatshirt-annoncerer-nyt-projekt-hor-forste-single/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153614/earl-sweatshirt-annoncerer-nyt-projekt-hor-forste-single/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/10/16/962c2/309156-w1000.jpg" alt="Earl Sweatshirt annoncerer nyt projekt – hør første single" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Intet nyt under høstmånen</title>
+    <link href="https://gaffa.dk/anmeldelse/153615/anmeldelse-intet-nyt-under-hostmanen/"/>
+    <updated>2021-12-10T11:43:00Z</updated>
+    <published>2021-12-10T11:43:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153615/anmeldelse-intet-nyt-under-hostmanen/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153234/anmeldelse-kampen-mod-afhaengighedens-daemoner-lyder-utrolig-godt/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153615/anmeldelse-intet-nyt-under-hostmanen/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Neil Young &amp; Crazy Horse - Barn</p><img src="https://static.gaffa.dk/images/2021/12/10/2e944/365565-w1000.jpg" alt="ANMELDELSE: Intet nyt under høstmånen" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Lingua Ignota beskylder Daughters-forsanger Alexis Marshall for vold – han benægter anklagerne </title>
+    <link href="https://gaffa.dk/nyhed/153610/lingua-ignota-beskylder-daughters-forsanger-alexis-marshall-for-vold-han-benaegter-anklagerne/"/>
+    <updated>2021-12-10T10:35:00Z</updated>
+    <published>2021-12-10T10:35:00Z</published>
+    <id>https://gaffa.dk/nyhed/153610/lingua-ignota-beskylder-daughters-forsanger-alexis-marshall-for-vold-han-benaegter-anklagerne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153610/lingua-ignota-beskylder-daughters-forsanger-alexis-marshall-for-vold-han-benaegter-anklagerne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/19/5174b/357985-w1000.jpeg" alt="Lingua Ignota beskylder Daughters-forsanger Alexis Marshall for vold – han benægter anklagerne " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Historiske Harlem-optagelser på gaden i næste måned</title>
+    <link href="https://gaffa.dk/nyhed/153612/historiske-harlem-optagelser-pa-gaden-i-naeste-maned/"/>
+    <updated>2021-12-10T10:25:00Z</updated>
+    <published>2021-12-10T10:25:00Z</published>
+    <id>https://gaffa.dk/nyhed/153612/historiske-harlem-optagelser-pa-gaden-i-naeste-maned/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153612/historiske-harlem-optagelser-pa-gaden-i-naeste-maned/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/26/a6a39/358617-w1000.jpg" alt="Historiske Harlem-optagelser på gaden i næste måned" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>VIDEOPREMIERE: Poetisk generationsmøde</title>
+    <link href="https://gaffa.dk/nyhed/153499/videopremiere-poetisk-generationsmode/"/>
+    <updated>2021-12-10T10:00:00Z</updated>
+    <published>2021-12-10T10:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153499/videopremiere-poetisk-generationsmode/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153499/videopremiere-poetisk-generationsmode/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/06/067e0/365391-w1000.jpg" alt="VIDEOPREMIERE: Poetisk generationsmøde" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Blandede bolsjer fra hårdrock-veteranerne</title>
+    <link href="https://gaffa.dk/anmeldelse/153602/anmeldelse-blandede-bolsjer-fra-hardrock-veteranerne/"/>
+    <updated>2021-12-10T08:07:00Z</updated>
+    <published>2021-12-10T08:07:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153602/anmeldelse-blandede-bolsjer-fra-hardrock-veteranerne/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153602/anmeldelse-blandede-bolsjer-fra-hardrock-veteranerne/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
+          <p>Deep Purple - Turning To Crime</p><img src="https://static.gaffa.dk/images/2021/12/10/a011b/365537-w1000.jpg" alt="ANMELDELSE: Blandede bolsjer fra hårdrock-veteranerne" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Pede B vender verdenssituationen over Lydmor-samplende beats </title>
+    <link href="https://gaffa.dk/anmeldelse/153597/anmeldelse-pede-b-vender-verdenssituationen-over-lydmor-samplende-beats/"/>
+    <updated>2021-12-10T08:00:00Z</updated>
+    <published>2021-12-10T08:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153597/anmeldelse-pede-b-vender-verdenssituationen-over-lydmor-samplende-beats/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153597/anmeldelse-pede-b-vender-verdenssituationen-over-lydmor-samplende-beats/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Pede B &amp; DJ Noize - Lydbror</p><img src="https://static.gaffa.dk/images/2021/12/09/46c75/365492-w1000.jpeg" alt="ANMELDELSE: Pede B vender verdenssituationen over Lydmor-samplende beats " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Stærk sidste stående rockaften inden nye restriktioner</title>
+    <link href="https://gaffa.dk/anmeldelse/153601/staerk-sidste-staende-rockaften-inden-nye-restriktioner/"/>
+    <updated>2021-12-10T07:58:00Z</updated>
+    <published>2021-12-10T07:58:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153601/staerk-sidste-staende-rockaften-inden-nye-restriktioner/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153601/staerk-sidste-staende-rockaften-inden-nye-restriktioner/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Elias Boussnina - Intervention</p><img src="https://static.gaffa.dk/images/2021/12/10/37118/365536-w1000.png" alt="ANMELDELSE: Kampen mod afhængighedens dæmoner lyder utrolig godt" />
+          <p>Brimheim og Gro - Radar, Aarhus</p><img src="https://static.gaffa.dk/images/2021/12/10/df296/365545-w1000.jpg" alt="Stærk sidste stående rockaften inden nye restriktioner" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Billie Eilish arbejder på nyt album med sin bror </title>
+    <link href="https://gaffa.dk/nyhed/153600/billie-eilish-arbejder-pa-nyt-album-med-sin-bror/"/>
+    <updated>2021-12-10T07:47:00Z</updated>
+    <published>2021-12-10T07:47:00Z</published>
+    <id>https://gaffa.dk/nyhed/153600/billie-eilish-arbejder-pa-nyt-album-med-sin-bror/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153600/billie-eilish-arbejder-pa-nyt-album-med-sin-bror/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/05/03/9fc7d/353470-w1000.jpg" alt="Billie Eilish arbejder på nyt album med sin bror " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Kampen mod afhængighedens dæmoner lyder utrolig godt</title>
+    <link href="https://gaffa.dk/anmeldelse/153234/kampen-mod-afhaengighedens-daemoner-lyder-utrolig-godt/"/>
+    <updated>2021-12-10T00:00:00Z</updated>
+    <published>2021-12-10T00:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153234/kampen-mod-afhaengighedens-daemoner-lyder-utrolig-godt/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153234/kampen-mod-afhaengighedens-daemoner-lyder-utrolig-godt/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Elias Boussnina - Intervention</p><img src="https://static.gaffa.dk/images/2021/12/10/37118/365536-w1000.png" alt="Kampen mod afhængighedens dæmoner lyder utrolig godt" />
       </div>
     ]]>
     </content>
@@ -2830,219 +3044,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153257/yousee-musik-kim-larsen-er-stadig-danskernes-foretrukne-artist/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2010/05/05/baff5/54086-w1000.jpg" alt="YouSee Musik: Kim Larsen er stadig danskernes foretrukne artist" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Katie Melua udgiver akustisk album </title>
-    <link href="https://gaffa.dk/nyhed/153266/katie-melua-udgiver-akustisk-album/"/>
-    <updated>2021-11-26T15:00:00Z</updated>
-    <published>2021-11-26T15:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153266/katie-melua-udgiver-akustisk-album/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153266/katie-melua-udgiver-akustisk-album/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/26/c6064/364714-w1000.jpg" alt="Katie Melua udgiver akustisk album " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Madonna raser mod Instagram - censurerede hendes brystvorter</title>
-    <link href="https://gaffa.dk/nyhed/153265/madonna-raser-mod-instagram-censurerede-hendes-brystvorter/"/>
-    <updated>2021-11-26T14:20:00Z</updated>
-    <published>2021-11-26T14:20:00Z</published>
-    <id>https://gaffa.dk/nyhed/153265/madonna-raser-mod-instagram-censurerede-hendes-brystvorter/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153265/madonna-raser-mod-instagram-censurerede-hendes-brystvorter/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/06/14/0b2de/323863-w1000.jpg" alt="Madonna raser mod Instagram - censurerede hendes brystvorter" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Mattias Hundebøll: Rock Hard Power Spray-koncerten bliver som en tidsrejse </title>
-    <link href="https://gaffa.dk/nyhed/153264/mattias-hundeboll-rock-hard-power-spray-koncerten-bliver-som-en-tidsrejse/"/>
-    <updated>2021-11-26T13:50:00Z</updated>
-    <published>2021-11-26T13:50:00Z</published>
-    <id>https://gaffa.dk/nyhed/153264/mattias-hundeboll-rock-hard-power-spray-koncerten-bliver-som-en-tidsrejse/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153264/mattias-hundeboll-rock-hard-power-spray-koncerten-bliver-som-en-tidsrejse/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/06/15/8b602/355277-w1000.JPG" alt="Mattias Hundebøll: Rock Hard Power Spray-koncerten bliver som en tidsrejse " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Tim Christensen om udsat arenaturné: Vi glæder os til at spille klassiske rockkoncerter igen</title>
-    <link href="https://gaffa.dk/nyhed/153261/tim-christensen-om-udsat-arenaturne-vi-glaeder-os-til-at-spille-klassiske-rockkoncerter-igen/"/>
-    <updated>2021-11-26T13:10:00Z</updated>
-    <published>2021-11-26T13:10:00Z</published>
-    <id>https://gaffa.dk/nyhed/153261/tim-christensen-om-udsat-arenaturne-vi-glaeder-os-til-at-spille-klassiske-rockkoncerter-igen/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153261/tim-christensen-om-udsat-arenaturne-vi-glaeder-os-til-at-spille-klassiske-rockkoncerter-igen/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/29/cc372/364927-w1000.jpg" alt="Tim Christensen om udsat arenaturné: Vi glæder os til at spille klassiske rockkoncerter igen" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>VIDEO: Se MØ udklæde sig som sit gymnasie-crush Brad Pitt </title>
-    <link href="https://gaffa.dk/nyhed/153254/video-se-mo-udklaede-sig-som-sit-gymnasie-crush-brad-pitt/"/>
-    <updated>2021-11-26T10:30:00Z</updated>
-    <published>2021-11-26T10:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/153254/video-se-mo-udklaede-sig-som-sit-gymnasie-crush-brad-pitt/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153254/video-se-mo-udklaede-sig-som-sit-gymnasie-crush-brad-pitt/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/26/2cf23/364665-w1000.png" alt="VIDEO: Se MØ udklæde sig som sit gymnasie-crush Brad Pitt " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>VIDEO: Søns nye single begraver Black Friday </title>
-    <link href="https://gaffa.dk/nyhed/153250/video-sons-nye-single-begraver-black-friday/"/>
-    <updated>2021-11-26T10:00:00Z</updated>
-    <published>2021-11-26T10:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153250/video-sons-nye-single-begraver-black-friday/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153250/video-sons-nye-single-begraver-black-friday/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/04/24/d7eb5/318398-w1000.png" alt="VIDEO: Søns nye single begraver Black Friday " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>The Doors-klassiker fylder 50 år - genudgives med masser af ekstramateriale</title>
-    <link href="https://gaffa.dk/nyhed/153224/the-doors-klassiker-fylder-50-ar-genudgives-med-masser-af-ekstramateriale/"/>
-    <updated>2021-11-26T09:00:00Z</updated>
-    <published>2021-11-26T09:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153224/the-doors-klassiker-fylder-50-ar-genudgives-med-masser-af-ekstramateriale/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153224/the-doors-klassiker-fylder-50-ar-genudgives-med-masser-af-ekstramateriale/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/07/31/dab08/302584-w1000.jpg" alt="The Doors-klassiker fylder 50 år - genudgives med masser af ekstramateriale" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Jared Leto siger, at Thirty Seconds To Mars har skrevet 200 sange til kommende album </title>
-    <link href="https://gaffa.dk/nyhed/153246/jared-leto-siger-at-thirty-seconds-to-mars-har-skrevet-200-sange-til-kommende-album/"/>
-    <updated>2021-11-26T08:00:00Z</updated>
-    <published>2021-11-26T08:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153246/jared-leto-siger-at-thirty-seconds-to-mars-har-skrevet-200-sange-til-kommende-album/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153246/jared-leto-siger-at-thirty-seconds-to-mars-har-skrevet-200-sange-til-kommende-album/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/04/24/5a79d/291661-w1000.jpg" alt="Jared Leto siger, at Thirty Seconds To Mars har skrevet 200 sange til kommende album " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Noah Carter er musikalsk altmuligmand på sit tredje udspil</title>
-    <link href="https://gaffa.dk/anmeldelse/153245/noah-carter-er-musikalsk-altmuligmand-pa-sit-tredje-udspil/"/>
-    <updated>2021-11-26T07:00:00Z</updated>
-    <published>2021-11-26T07:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153245/noah-carter-er-musikalsk-altmuligmand-pa-sit-tredje-udspil/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153245/noah-carter-er-musikalsk-altmuligmand-pa-sit-tredje-udspil/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Noah Carter - Carter The Kid</p><img src="https://static.gaffa.dk/images/2021/11/26/7e0bc/364661-w1000.jpeg" alt="Noah Carter er musikalsk altmuligmand på sit tredje udspil" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Et godt, men også laaaaangt indblik i en forestående skilsmisse</title>
-    <link href="https://gaffa.dk/anmeldelse/153240/et-godt-men-ogsa-laaaaangt-indblik-i-en-forestaende-skilsmisse/"/>
-    <updated>2021-11-26T07:00:00Z</updated>
-    <published>2021-11-26T07:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153240/et-godt-men-ogsa-laaaaangt-indblik-i-en-forestaende-skilsmisse/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153240/et-godt-men-ogsa-laaaaangt-indblik-i-en-forestaende-skilsmisse/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>The Beatles - The Beatles: Get Back, Disney+ dokumentar-serie - Instruktør: Peter Jackson (2021), Michael Lindsay-Hogg (1969).  Premiere 25., 26., 27. november,</p><img src="https://static.gaffa.dk/images/2021/11/25/32904/364657-w1000.jpeg" alt="Et godt, men også laaaaangt indblik i en forestående skilsmisse" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Flere muskler og effektive sange fra den amerikanske sønderjyde</title>
-    <link href="https://gaffa.dk/anmeldelse/152529/flere-muskler-og-effektive-sange-fra-den-amerikanske-sonderjyde/"/>
-    <updated>2021-11-26T00:00:00Z</updated>
-    <published>2021-11-26T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/152529/flere-muskler-og-effektive-sange-fra-den-amerikanske-sonderjyde/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/152529/flere-muskler-og-effektive-sange-fra-den-amerikanske-sonderjyde/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Jacob Dinesen - The Joker’s Hand</p><img src="https://static.gaffa.dk/images/2021/11/02/2b5aa/363239-w1000.jpg" alt="Flere muskler og effektive sange fra den amerikanske sønderjyde" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Den ikoniske musikafspiller, Winamp, er på vej tilbage</title>
-    <link href="https://gaffa.dk/nyhed/153251/den-ikoniske-musikafspiller-winamp-er-pa-vej-tilbage/"/>
-    <updated>2021-11-26T12:00:00Z</updated>
-    <published>2021-11-26T12:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153251/den-ikoniske-musikafspiller-winamp-er-pa-vej-tilbage/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153251/den-ikoniske-musikafspiller-winamp-er-pa-vej-tilbage/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/26/aa8fd/364663-w1000.jpg" alt="Den ikoniske musikafspiller, Winamp, er på vej tilbage" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>KLASSIKEREN: Moonwalker ind i slumområder med helbredende hooks</title>
-    <link href="https://gaffa.dk/artikel/153182/klassikeren-moonwalker-ind-i-slumomrader-med-helbredende-hooks/"/>
-    <updated>2021-11-26T07:00:00Z</updated>
-    <published>2021-11-26T07:00:00Z</published>
-    <id>https://gaffa.dk/artikel/153182/klassikeren-moonwalker-ind-i-slumomrader-med-helbredende-hooks/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153182/klassikeren-moonwalker-ind-i-slumomrader-med-helbredende-hooks/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/11/24/68c05/364617-w1000.jpg" alt="KLASSIKEREN: Moonwalker ind i slumområder med helbredende hooks" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Heartland tilføjer 11 navne til 2022-programmet</title>
-    <link href="https://gaffa.dk/nyhed/153190/heartland-tilfojer-11-navne-til-2022-programmet/"/>
-    <updated>2021-11-25T10:00:00Z</updated>
-    <published>2021-11-25T10:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153190/heartland-tilfojer-11-navne-til-2022-programmet/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153190/heartland-tilfojer-11-navne-til-2022-programmet/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2015/10/05/a5785/201505-w1000.jpeg" alt="Heartland tilføjer 11 navne til 2022-programmet" />
       </div>
     ]]>
     </content>
