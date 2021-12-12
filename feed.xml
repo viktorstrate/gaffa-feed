@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-11T12:00:00Z</updated>
+  <updated>2021-12-12T12:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Syd For Solen fuldender programmet</title>
+    <link href="https://gaffa.dk/nyhed/153634/syd-for-solen-fuldender-programmet/"/>
+    <updated>2021-12-12T12:00:00Z</updated>
+    <published>2021-12-12T12:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153634/syd-for-solen-fuldender-programmet/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153634/syd-for-solen-fuldender-programmet/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/07/14d21/363447-w1000.jpg" alt="Syd For Solen fuldender programmet" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Syd for solen klar med lørdagens fulde program</title>
@@ -3026,22 +3041,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153283/fotoserie-seksstjernede-ginne-marker-indtog-vega/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/28/5d773/364855-w1000.jpg" alt="FOTOSERIE: Seksstjernede Ginne Marker indtog Vega" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Uforglemmelig koncert i alle livets hastigheder</title>
-    <link href="https://gaffa.dk/anmeldelse/153273/uforglemmelig-koncert-i-alle-livets-hastigheder/"/>
-    <updated>2021-11-27T08:30:00Z</updated>
-    <published>2021-11-27T08:30:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153273/uforglemmelig-koncert-i-alle-livets-hastigheder/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153273/uforglemmelig-koncert-i-alle-livets-hastigheder/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
-          <p>Jung - Jyske Bank Arena, Odense</p><img src="https://static.gaffa.dk/images/2021/11/27/97a68/364779-w1000.jpg" alt="Uforglemmelig koncert i alle livets hastigheder" />
       </div>
     ]]>
     </content>
