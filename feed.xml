@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-13T11:15:00Z</updated>
+  <updated>2021-12-13T15:37:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>The Streets aflyser alle koncerter i 2022</title>
+    <link href="https://gaffa.dk/nyhed/153656/the-streets-aflyser-alle-koncerter-i-2022/"/>
+    <updated>2021-12-13T15:37:00Z</updated>
+    <published>2021-12-13T15:37:00Z</published>
+    <id>https://gaffa.dk/nyhed/153656/the-streets-aflyser-alle-koncerter-i-2022/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153656/the-streets-aflyser-alle-koncerter-i-2022/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/07/03/6e185/345099-w1000.jpg" alt="The Streets aflyser alle koncerter i 2022" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Royal Metal Fest 2022 føjer fire navne til programmet</title>
@@ -63,6 +78,51 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153637/jack-white-pa-turne-kommer-naer-danmark/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/12/c745b/363702-w1000.png" alt="Jack White på turné – kommer nær Danmark" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Brad Pitt og Damien Quintard genåbner legendarisk studie</title>
+    <link href="https://gaffa.dk/nyhed/153658/brad-pitt-og-damien-quintard-genabner-legendarisk-studie/"/>
+    <updated>2021-12-13T18:00:00Z</updated>
+    <published>2021-12-13T18:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153658/brad-pitt-og-damien-quintard-genabner-legendarisk-studie/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153658/brad-pitt-og-damien-quintard-genabner-legendarisk-studie/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/13/600ab/365671-w1000.png" alt="Brad Pitt og Damien Quintard genåbner legendarisk studie" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Dr. Dre klar med ny musik</title>
+    <link href="https://gaffa.dk/nyhed/153655/dr-dre-klar-med-ny-musik/"/>
+    <updated>2021-12-13T16:30:00Z</updated>
+    <published>2021-12-13T16:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/153655/dr-dre-klar-med-ny-musik/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153655/dr-dre-klar-med-ny-musik/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2015/02/18/c297a/176974-w1000.jpeg" alt="Dr. Dre klar med ny musik" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Odense-klub inviterer til gotisk jul – i corona-nedskaleret version</title>
+    <link href="https://gaffa.dk/nyhed/153654/odense-klub-inviterer-til-gotisk-jul-i-corona-nedskaleret-version/"/>
+    <updated>2021-12-13T16:15:00Z</updated>
+    <published>2021-12-13T16:15:00Z</published>
+    <id>https://gaffa.dk/nyhed/153654/odense-klub-inviterer-til-gotisk-jul-i-corona-nedskaleret-version/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153654/odense-klub-inviterer-til-gotisk-jul-i-corona-nedskaleret-version/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/13/6604b/365670-w1000.jpg" alt="Odense-klub inviterer til gotisk jul – i corona-nedskaleret version" />
       </div>
     ]]>
     </content>
@@ -2981,66 +3041,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153327/saxofonlegende-underviser-unge-i-helsingor/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/29/fcbc8/364953-w1000.jpeg" alt="Saxofonlegende underviser unge i Helsingør" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>AiaSound tilføjer dansk hitmager til 2022-programmet – starter salg af endagsbilletter</title>
-    <link href="https://gaffa.dk/nyhed/153325/aiasound-tilfojer-dansk-hitmager-til-2022-programmet-starter-salg-af-endagsbilletter/"/>
-    <updated>2021-11-29T16:04:00Z</updated>
-    <published>2021-11-29T16:04:00Z</published>
-    <id>https://gaffa.dk/nyhed/153325/aiasound-tilfojer-dansk-hitmager-til-2022-programmet-starter-salg-af-endagsbilletter/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153325/aiasound-tilfojer-dansk-hitmager-til-2022-programmet-starter-salg-af-endagsbilletter/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/02/26/e69a3/351590-w1000.jpg" alt="AiaSound tilføjer dansk hitmager til 2022-programmet – starter salg af endagsbilletter" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Nibe Festival inviterer til nattefester – annoncerer navne</title>
-    <link href="https://gaffa.dk/nyhed/153319/nibe-festival-inviterer-til-nattefester-annoncerer-navne/"/>
-    <updated>2021-11-29T15:26:00Z</updated>
-    <published>2021-11-29T15:26:00Z</published>
-    <id>https://gaffa.dk/nyhed/153319/nibe-festival-inviterer-til-nattefester-annoncerer-navne/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153319/nibe-festival-inviterer-til-nattefester-annoncerer-navne/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/15/c8f2a/363861-w1000.png" alt="Nibe Festival inviterer til nattefester – annoncerer navne" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Benjamin Hav fortsatte koncert på trods af brækket fod</title>
-    <link href="https://gaffa.dk/nyhed/153311/benjamin-hav-fortsatte-koncert-pa-trods-af-braekket-fod/"/>
-    <updated>2021-11-29T13:04:00Z</updated>
-    <published>2021-11-29T13:04:00Z</published>
-    <id>https://gaffa.dk/nyhed/153311/benjamin-hav-fortsatte-koncert-pa-trods-af-braekket-fod/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153311/benjamin-hav-fortsatte-koncert-pa-trods-af-braekket-fod/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/16/5f9ca/362123-w1000.jpg" alt="Benjamin Hav fortsatte koncert på trods af brækket fod" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Oh Land laver musik til kommende opera</title>
-    <link href="https://gaffa.dk/nyhed/153309/oh-land-laver-musik-til-kommende-opera/"/>
-    <updated>2021-11-29T11:33:00Z</updated>
-    <published>2021-11-29T11:33:00Z</published>
-    <id>https://gaffa.dk/nyhed/153309/oh-land-laver-musik-til-kommende-opera/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153309/oh-land-laver-musik-til-kommende-opera/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/29/c58f6/364942-w1000.jpg" alt="Oh Land laver musik til kommende opera" />
       </div>
     ]]>
     </content>
