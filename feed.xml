@@ -5,8 +5,38 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-17T14:09:00Z</updated>
+  <updated>2021-12-18T07:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>PORTRÆT: Billie Eilish fylder 20 år – derfor er hun så imponerende</title>
+    <link href="https://gaffa.dk/artikel/153747/portraet-billie-eilish-fylder-20-ar-derfor-er-hun-sa-imponerende/"/>
+    <updated>2021-12-18T07:00:00Z</updated>
+    <published>2021-12-18T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153747/portraet-billie-eilish-fylder-20-ar-derfor-er-hun-sa-imponerende/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153747/portraet-billie-eilish-fylder-20-ar-derfor-er-hun-sa-imponerende/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/08/02/de84e/357301-w1000.jpg" alt="PORTRÆT: Billie Eilish fylder 20 år – derfor er hun så imponerende" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Restriktioner på kulturen gælder i fire uger fra søndag</title>
+    <link href="https://gaffa.dk/nyhed/153787/restriktioner-pa-kulturen-gaelder-i-fire-uger-fra-sondag/"/>
+    <updated>2021-12-17T16:44:00Z</updated>
+    <published>2021-12-17T16:44:00Z</published>
+    <id>https://gaffa.dk/nyhed/153787/restriktioner-pa-kulturen-gaelder-i-fire-uger-fra-sondag/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153787/restriktioner-pa-kulturen-gaelder-i-fire-uger-fra-sondag/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/06/b44ee/359144-w1000.png" alt="Restriktioner på kulturen gælder i fire uger fra søndag" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Regeringen vil lukke kulturlivet for at bremse smitte</title>
@@ -63,6 +93,21 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153785/hold-oje-med-fire-favoritter-fra-vaekstlaget/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/17/a1bed/365814-w1000.png" alt="HOLD ØJE MED: Fire favoritter fra vækstlaget" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Kreativ fra morgen til aften</title>
+    <link href="https://gaffa.dk/nyhed/153313/kreativ-fra-morgen-til-aften/"/>
+    <updated>2021-12-17T14:40:00Z</updated>
+    <published>2021-12-17T14:40:00Z</published>
+    <id>https://gaffa.dk/nyhed/153313/kreativ-fra-morgen-til-aften/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153313/kreativ-fra-morgen-til-aften/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/07/59183/365430-w1000.png" alt="Kreativ fra morgen til aften" />
       </div>
     ]]>
     </content>
@@ -198,6 +243,51 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153758/angaende-mig-her-er-syv-sange-der-betyder-noget-saerligt-for-mig/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/03/27/e285a/352416-w1000.jpg" alt="ANGÅENDE MIG: Her er syv sange, der betyder noget særligt for mig" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Smukfest annoncerer ti danske navne</title>
+    <link href="https://gaffa.dk/nyhed/153789/smukfest-annoncerer-ti-danske-navne/"/>
+    <updated>2021-12-17T17:15:00Z</updated>
+    <published>2021-12-17T17:15:00Z</published>
+    <id>https://gaffa.dk/nyhed/153789/smukfest-annoncerer-ti-danske-navne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153789/smukfest-annoncerer-ti-danske-navne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/04/43adb/365228-w1000.jpg" alt="Smukfest annoncerer ti danske navne" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Dansk Live: Arrangørerne skal have fuld kompensation for nye restriktioner</title>
+    <link href="https://gaffa.dk/nyhed/153788/dansk-live-arrangorerne-skal-have-fuld-kompensation-for-nye-restriktioner/"/>
+    <updated>2021-12-17T16:32:00Z</updated>
+    <published>2021-12-17T16:32:00Z</published>
+    <id>https://gaffa.dk/nyhed/153788/dansk-live-arrangorerne-skal-have-fuld-kompensation-for-nye-restriktioner/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153788/dansk-live-arrangorerne-skal-have-fuld-kompensation-for-nye-restriktioner/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/17/e6d7c/365817-w1000.jpeg" alt="Dansk Live: Arrangørerne skal have fuld kompensation for nye restriktioner" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Brockhampton aflyser danske koncerter</title>
+    <link href="https://gaffa.dk/nyhed/153780/brockhampton-aflyser-danske-koncerter/"/>
+    <updated>2021-12-17T16:00:00Z</updated>
+    <published>2021-12-17T16:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153780/brockhampton-aflyser-danske-koncerter/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153780/brockhampton-aflyser-danske-koncerter/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/04/19/c3105/352807-w1000.jpg" alt="Brockhampton aflyser danske koncerter" />
       </div>
     ]]>
     </content>
@@ -612,15 +702,15 @@
   </entry>
   
   <entry>
-    <title>Pink Floyd udgiver tolv livealbum fra storhedstiden - inklusiv dansk koncert</title>
-    <link href="https://gaffa.dk/nyhed/153733/pink-floyd-udgiver-tolv-livealbum-fra-storhedstiden-inklusiv-dansk-koncert/"/>
+    <title>Pink Floyd udgiver 12 livealbum fra storhedstiden - inklusive dansk koncert</title>
+    <link href="https://gaffa.dk/nyhed/153733/pink-floyd-udgiver-12-livealbum-fra-storhedstiden-inklusive-dansk-koncert/"/>
     <updated>2021-12-16T11:00:00Z</updated>
     <published>2021-12-16T11:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153733/pink-floyd-udgiver-tolv-livealbum-fra-storhedstiden-inklusiv-dansk-koncert/</id>
+    <id>https://gaffa.dk/nyhed/153733/pink-floyd-udgiver-12-livealbum-fra-storhedstiden-inklusive-dansk-koncert/</id>
     <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153733/pink-floyd-udgiver-tolv-livealbum-fra-storhedstiden-inklusiv-dansk-koncert/">
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153733/pink-floyd-udgiver-12-livealbum-fra-storhedstiden-inklusive-dansk-koncert/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2016/02/03/aed2c/210741-w1000.png" alt="Pink Floyd udgiver tolv livealbum fra storhedstiden - inklusiv dansk koncert" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2016/02/03/aed2c/210741-w1000.png" alt="Pink Floyd udgiver 12 livealbum fra storhedstiden - inklusive dansk koncert" />
       </div>
     ]]>
     </content>
@@ -1930,21 +2020,6 @@
   </entry>
   
   <entry>
-    <title>Kreativ fra morgen til aften</title>
-    <link href="https://gaffa.dk/nyhed/153313/kreativ-fra-morgen-til-aften/"/>
-    <updated>2021-12-09T08:40:00Z</updated>
-    <published>2021-12-09T08:40:00Z</published>
-    <id>https://gaffa.dk/nyhed/153313/kreativ-fra-morgen-til-aften/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153313/kreativ-fra-morgen-til-aften/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/07/59183/365430-w1000.png" alt="Kreativ fra morgen til aften" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
     <title>Julemusik gennem årtierne: Ti stærke julesange fra 00&#39;erne</title>
     <link href="https://gaffa.dk/artikel/153389/julemusik-gennem-artierne-ti-staerke-julesange-fra-00erne/"/>
     <updated>2021-12-09T08:00:00Z</updated>
@@ -2959,83 +3034,6 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153458/kommentar-rocken-er-hverken-dod-eller-levende/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2018/08/14/b38b4/304342-w1000.JPG" alt="KOMMENTAR: Rocken er hverken død eller levende" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Fyldig dokumentation af Bowies halvfemsere</title>
-    <link href="https://gaffa.dk/anmeldelse/153455/fyldig-dokumentation-af-bowies-halvfemsere/"/>
-    <updated>2021-12-03T16:06:00Z</updated>
-    <published>2021-12-03T16:06:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153455/fyldig-dokumentation-af-bowies-halvfemsere/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153455/fyldig-dokumentation-af-bowies-halvfemsere/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>David Bowie - Brillant Adventure (1992-2001)</p><img src="https://static.gaffa.dk/images/2021/12/03/8f117/365131-w1000.jpg" alt="Fyldig dokumentation af Bowies halvfemsere" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>VIDEO: Se LPs nye, alternative lyric-video</title>
-    <link href="https://gaffa.dk/nyhed/153453/video-se-lps-nye-alternative-lyric-video/"/>
-    <updated>2021-12-03T16:00:00Z</updated>
-    <published>2021-12-03T16:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153453/video-se-lps-nye-alternative-lyric-video/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153453/video-se-lps-nye-alternative-lyric-video/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/03/d8f89/365127-w1000.png" alt="VIDEO: Se LPs nye, alternative lyric-video" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Spansk rapstjerne giver dansk debutkoncert</title>
-    <link href="https://gaffa.dk/nyhed/153375/spansk-rapstjerne-giver-dansk-debutkoncert/"/>
-    <updated>2021-12-03T15:00:00Z</updated>
-    <published>2021-12-03T15:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153375/spansk-rapstjerne-giver-dansk-debutkoncert/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153375/spansk-rapstjerne-giver-dansk-debutkoncert/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/03/1fb4e/365129-w1000.jpg" alt="Spansk rapstjerne giver dansk debutkoncert" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Smukfest føjer seks navne til 2022-programmet</title>
-    <link href="https://gaffa.dk/nyhed/153452/smukfest-fojer-seks-navne-til-2022-programmet/"/>
-    <updated>2021-12-03T14:00:00Z</updated>
-    <published>2021-12-03T14:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153452/smukfest-fojer-seks-navne-til-2022-programmet/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153452/smukfest-fojer-seks-navne-til-2022-programmet/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/15/c8f2a/363861-w1000.png" alt="Smukfest føjer seks navne til 2022-programmet" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Ørne på himmelflugt</title>
-    <link href="https://gaffa.dk/anmeldelse/153451/orne-pa-himmelflugt/"/>
-    <updated>2021-12-03T13:40:00Z</updated>
-    <published>2021-12-03T13:40:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153451/orne-pa-himmelflugt/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153451/orne-pa-himmelflugt/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
-          <p>Eagles - Live at the Forum &#39;76</p><img src="https://static.gaffa.dk/images/2021/12/03/91fc8/365126-w1000.jpg" alt="Ørne på himmelflugt" />
       </div>
     ]]>
     </content>
