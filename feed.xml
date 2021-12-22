@@ -5,8 +5,55 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-22T07:00:00Z</updated>
+  <updated>2021-12-22T14:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Her er årets mest læste albumanmeldelser</title>
+    <link href="https://gaffa.dk/nyhed/153907/her-er-arets-mest-laeste-albumanmeldelser/"/>
+    <updated>2021-12-22T14:00:00Z</updated>
+    <published>2021-12-22T14:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153907/her-er-arets-mest-laeste-albumanmeldelser/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153907/her-er-arets-mest-laeste-albumanmeldelser/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/01/17/ae8d6/350810-w1000.jpg" alt="Her er årets mest læste albumanmeldelser" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Åndeløs debut, der bryder igennem larmen</title>
+    <link href="https://gaffa.dk/anmeldelse/153911/anmeldelse-andelos-debut-der-bryder-igennem-larmen/"/>
+    <updated>2021-12-22T14:21:00Z</updated>
+    <published>2021-12-22T14:21:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153911/anmeldelse-andelos-debut-der-bryder-igennem-larmen/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153911/anmeldelse-andelos-debut-der-bryder-igennem-larmen/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Anna Leone - I&#39;ve Felt All These Things</p><img src="https://static.gaffa.dk/images/2021/10/04/e978d/361426-w1000.jpeg" alt="ANMELDELSE: Åndeløs debut, der bryder igennem larmen" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Naturens lyd gennem mekanisk genererede frekvenser</title>
+    <link href="https://gaffa.dk/anmeldelse/153909/anmeldelse-naturens-lyd-gennem-mekanisk-genererede-frekvenser/"/>
+    <updated>2021-12-22T14:03:00Z</updated>
+    <published>2021-12-22T14:03:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153909/anmeldelse-naturens-lyd-gennem-mekanisk-genererede-frekvenser/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153909/anmeldelse-naturens-lyd-gennem-mekanisk-genererede-frekvenser/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Jónsi - Obsidian</p><img src="https://static.gaffa.dk/images/2021/10/30/8de24/363093-w1000.jpeg" alt="ANMELDELSE: Naturens lyd gennem mekanisk genererede frekvenser" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Simon Heggum</title>
@@ -18,6 +65,96 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153856/anmelderne-har-ordet-arets-20-bedste-album-ifolge-simon-heggum/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/21/256c6/366094-w1000.png" alt="ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Simon Heggum" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Eurovision Song Contest-finalen påvirkede trafikken på stor pornoside</title>
+    <link href="https://gaffa.dk/nyhed/153910/eurovision-song-contest-finalen-pavirkede-trafikken-pa-stor-pornoside/"/>
+    <updated>2021-12-22T14:30:00Z</updated>
+    <published>2021-12-22T14:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/153910/eurovision-song-contest-finalen-pavirkede-trafikken-pa-stor-pornoside/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153910/eurovision-song-contest-finalen-pavirkede-trafikken-pa-stor-pornoside/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/06/16/f67c7/355309-w1000.jpg" alt="Eurovision Song Contest-finalen påvirkede trafikken på stor pornoside" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>VIDEO: Lorde er på udkig efter en ny leder</title>
+    <link href="https://gaffa.dk/nyhed/153901/video-lorde-er-pa-udkig-efter-en-ny-leder/"/>
+    <updated>2021-12-22T12:46:00Z</updated>
+    <published>2021-12-22T12:46:00Z</published>
+    <id>https://gaffa.dk/nyhed/153901/video-lorde-er-pa-udkig-efter-en-ny-leder/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153901/video-lorde-er-pa-udkig-efter-en-ny-leder/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/17/27652/357952-w1000.jpeg" alt="VIDEO: Lorde er på udkig efter en ny leder" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>VIDEO: Se 11-årige Nandi Bushell lægge vild trommesolo til Billie Eilish-sang</title>
+    <link href="https://gaffa.dk/nyhed/153898/video-se-11-arige-nandi-bushell-laegge-vild-trommesolo-til-billie-eilish-sang/"/>
+    <updated>2021-12-22T11:00:00Z</updated>
+    <published>2021-12-22T11:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153898/video-se-11-arige-nandi-bushell-laegge-vild-trommesolo-til-billie-eilish-sang/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153898/video-se-11-arige-nandi-bushell-laegge-vild-trommesolo-til-billie-eilish-sang/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/13/e16eb/365666-w1000.png" alt="VIDEO: Se 11-årige Nandi Bushell lægge vild trommesolo til Billie Eilish-sang" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Fanø Vesterland annoncerer de første navne</title>
+    <link href="https://gaffa.dk/nyhed/153896/fano-vesterland-annoncerer-de-forste-navne/"/>
+    <updated>2021-12-22T10:30:00Z</updated>
+    <published>2021-12-22T10:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/153896/fano-vesterland-annoncerer-de-forste-navne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153896/fano-vesterland-annoncerer-de-forste-navne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/28/6f5f1/362887-w1000.JPG" alt="Fanø Vesterland annoncerer de første navne" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Mike Andersen på forårsturné</title>
+    <link href="https://gaffa.dk/nyhed/153890/mike-andersen-pa-forarsturne/"/>
+    <updated>2021-12-22T10:00:00Z</updated>
+    <published>2021-12-22T10:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153890/mike-andersen-pa-forarsturne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153890/mike-andersen-pa-forarsturne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/20/bfb44/360628-w1000.jpg" alt="Mike Andersen på forårsturné" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Der er brug for dig!</title>
+    <link href="https://gaffa.dk/nyhed/153894/der-er-brug-for-dig/"/>
+    <updated>2021-12-22T11:10:00Z</updated>
+    <published>2021-12-22T11:10:00Z</published>
+    <id>https://gaffa.dk/nyhed/153894/der-er-brug-for-dig/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153894/der-er-brug-for-dig/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/22/cd1b1/366121-w1000.jpg" alt="Der er brug for dig!" />
       </div>
     ]]>
     </content>
@@ -2896,143 +3033,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153529/adele-fik-frataget-instagram-kodeord-pa-baggrund-af-et-enkelt-billede/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/23/bf8ac/364540-w1000.png" alt="Adele fik frataget Instagram-kodeord - på baggrund af et enkelt billede" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Forstår du heller ikke French Montana? Helt fint, så kan du bare scrolle videre</title>
-    <link href="https://gaffa.dk/anmeldelse/153525/forstar-du-heller-ikke-french-montana-helt-fint-sa-kan-du-bare-scrolle-videre/"/>
-    <updated>2021-12-07T16:15:00Z</updated>
-    <published>2021-12-07T16:15:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153525/forstar-du-heller-ikke-french-montana-helt-fint-sa-kan-du-bare-scrolle-videre/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153525/forstar-du-heller-ikke-french-montana-helt-fint-sa-kan-du-bare-scrolle-videre/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 2 / 5 stjærner.</p>
-          <p>French Montana - They Got Amnesia</p><img src="https://static.gaffa.dk/images/2021/12/07/e5cb9/365438-w1000.png" alt="Forstår du heller ikke French Montana? Helt fint, så kan du bare scrolle videre" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>VIDEOPREMIERE: Doula præsenterer neo-noir-thriller</title>
-    <link href="https://gaffa.dk/nyhed/153528/videopremiere-doula-praesenterer-neo-noir-thriller/"/>
-    <updated>2021-12-07T15:47:00Z</updated>
-    <published>2021-12-07T15:47:00Z</published>
-    <id>https://gaffa.dk/nyhed/153528/videopremiere-doula-praesenterer-neo-noir-thriller/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153528/videopremiere-doula-praesenterer-neo-noir-thriller/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/07/424c1/365436-w1000.jpg" alt="VIDEOPREMIERE: Doula præsenterer neo-noir-thriller" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>BEDST LIGE NU: 12 nye og håndplukkede tracks</title>
-    <link href="https://gaffa.dk/artikel/153526/bedst-lige-nu-12-nye-og-handplukkede-tracks/"/>
-    <updated>2021-12-07T15:30:00Z</updated>
-    <published>2021-12-07T15:30:00Z</published>
-    <id>https://gaffa.dk/artikel/153526/bedst-lige-nu-12-nye-og-handplukkede-tracks/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153526/bedst-lige-nu-12-nye-og-handplukkede-tracks/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/05/04e06/361436-w1000.png" alt="BEDST LIGE NU: 12 nye og håndplukkede tracks" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Impulsrig og inciterende dansk debut i drømmeland</title>
-    <link href="https://gaffa.dk/anmeldelse/153467/impulsrig-og-inciterende-dansk-debut-i-drommeland/"/>
-    <updated>2021-12-07T15:15:00Z</updated>
-    <published>2021-12-07T15:15:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153467/impulsrig-og-inciterende-dansk-debut-i-drommeland/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153467/impulsrig-og-inciterende-dansk-debut-i-drommeland/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Nima - Pacemaker</p><img src="https://static.gaffa.dk/images/2021/12/04/83b99/365273-w1000.jpg" alt="Impulsrig og inciterende dansk debut i drømmeland" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Olivia Rodrigo på verdensturné – kommer tæt på Danmark</title>
-    <link href="https://gaffa.dk/nyhed/153524/olivia-rodrigo-pa-verdensturne-kommer-taet-pa-danmark/"/>
-    <updated>2021-12-07T13:38:00Z</updated>
-    <published>2021-12-07T13:38:00Z</published>
-    <id>https://gaffa.dk/nyhed/153524/olivia-rodrigo-pa-verdensturne-kommer-taet-pa-danmark/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153524/olivia-rodrigo-pa-verdensturne-kommer-taet-pa-danmark/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/05/23/28687/354347-w1000.jpg" alt="Olivia Rodrigo på verdensturné – kommer tæt på Danmark" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Distortion Ø klar med de første otte navne</title>
-    <link href="https://gaffa.dk/nyhed/153523/distortion-o-klar-med-de-forste-otte-navne/"/>
-    <updated>2021-12-07T13:00:00Z</updated>
-    <published>2021-12-07T13:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153523/distortion-o-klar-med-de-forste-otte-navne/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153523/distortion-o-klar-med-de-forste-otte-navne/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/07/2741a/365431-w1000.jpg" alt="Distortion Ø klar med de første otte navne" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Fleet Foxes udsender livealbum</title>
-    <link href="https://gaffa.dk/nyhed/153522/fleet-foxes-udsender-livealbum/"/>
-    <updated>2021-12-07T12:15:00Z</updated>
-    <published>2021-12-07T12:15:00Z</published>
-    <id>https://gaffa.dk/nyhed/153522/fleet-foxes-udsender-livealbum/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153522/fleet-foxes-udsender-livealbum/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/08/12/ebb88/304029-w1000.jpg" alt="Fleet Foxes udsender livealbum" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Turboweekend-sanger bliver ansat på nordjysk spillested</title>
-    <link href="https://gaffa.dk/nyhed/153519/turboweekend-sanger-bliver-ansat-pa-nordjysk-spillested/"/>
-    <updated>2021-12-07T11:17:00Z</updated>
-    <published>2021-12-07T11:17:00Z</published>
-    <id>https://gaffa.dk/nyhed/153519/turboweekend-sanger-bliver-ansat-pa-nordjysk-spillested/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153519/turboweekend-sanger-bliver-ansat-pa-nordjysk-spillested/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/07/ca9d0/365415-w1000.jpg" alt="Turboweekend-sanger bliver ansat på nordjysk spillested" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Jimmy Fallon, Ariana Grande og Megan Thee Stallion laver corona-julesang</title>
-    <link href="https://gaffa.dk/nyhed/153517/jimmy-fallon-ariana-grande-og-megan-thee-stallion-laver-corona-julesang/"/>
-    <updated>2021-12-07T10:43:00Z</updated>
-    <published>2021-12-07T10:43:00Z</published>
-    <id>https://gaffa.dk/nyhed/153517/jimmy-fallon-ariana-grande-og-megan-thee-stallion-laver-corona-julesang/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153517/jimmy-fallon-ariana-grande-og-megan-thee-stallion-laver-corona-julesang/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/07/63921/365414-w1000.png" alt="Jimmy Fallon, Ariana Grande og Megan Thee Stallion laver corona-julesang" />
       </div>
     ]]>
     </content>
