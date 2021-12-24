@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-23T10:30:00Z</updated>
+  <updated>2021-12-24T07:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Esben Suurballe Christensen</title>
+    <link href="https://gaffa.dk/artikel/153867/anmelderne-har-ordet-arets-20-bedste-album-ifolge-esben-suurballe-christensen/"/>
+    <updated>2021-12-24T07:00:00Z</updated>
+    <published>2021-12-24T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153867/anmelderne-har-ordet-arets-20-bedste-album-ifolge-esben-suurballe-christensen/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153867/anmelderne-har-ordet-arets-20-bedste-album-ifolge-esben-suurballe-christensen/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/04/29/7b0c6/353139-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Esben Suurballe Christensen" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Fem julesange til at ødelægge hyggen</title>
@@ -109,6 +124,21 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153917/britney-spears-varsler-ny-musik/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/10/16/b8437/309131-w1000.jpg" alt="Britney Spears varsler ny musik" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>GUIDE: Fede tech-tilbud lige nu</title>
+    <link href="https://gaffa.dk/artikel/153925/guide-fede-tech-tilbud-lige-nu/"/>
+    <updated>2021-12-23T16:00:00Z</updated>
+    <published>2021-12-23T16:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153925/guide-fede-tech-tilbud-lige-nu/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153925/guide-fede-tech-tilbud-lige-nu/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/23/f2446/366131-w1000.jpg" alt="GUIDE: Fede tech-tilbud lige nu" />
       </div>
     ]]>
     </content>
@@ -3008,37 +3038,6 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153518/interview-louise-lolle-fra-eyeq-tilbage-med-ny-musik/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/08/7c03c/365442-w1000.jpg" alt="INTERVIEW: Louise Lolle fra eyeQ tilbage med ny musik" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Roskilde Festival melder om ændringer i 2022</title>
-    <link href="https://gaffa.dk/nyhed/153542/roskilde-festival-melder-om-aendringer-i-2022/"/>
-    <updated>2021-12-08T10:28:00Z</updated>
-    <published>2021-12-08T10:28:00Z</published>
-    <id>https://gaffa.dk/nyhed/153542/roskilde-festival-melder-om-aendringer-i-2022/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153542/roskilde-festival-melder-om-aendringer-i-2022/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/02/04/0ddaa/351126-w1000.png" alt="Roskilde Festival melder om ændringer i 2022" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Overflødigt soulopkog</title>
-    <link href="https://gaffa.dk/anmeldelse/153538/overflodigt-soulopkog/"/>
-    <updated>2021-12-08T10:00:00Z</updated>
-    <published>2021-12-08T10:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153538/overflodigt-soulopkog/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153538/overflodigt-soulopkog/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
-          <p>An Evening With Silk Sonic - Silk Sonic</p><img src="https://static.gaffa.dk/images/2021/12/08/70252/365444-w1000.jpg" alt="Overflødigt soulopkog" />
       </div>
     ]]>
     </content>
