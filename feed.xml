@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-24T07:00:00Z</updated>
+  <updated>2021-12-25T07:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Elias Kvist</title>
+    <link href="https://gaffa.dk/artikel/153869/anmelderne-har-ordet-arets-20-bedste-album-ifolge-elias-kvist/"/>
+    <updated>2021-12-25T07:00:00Z</updated>
+    <published>2021-12-25T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153869/anmelderne-har-ordet-arets-20-bedste-album-ifolge-elias-kvist/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153869/anmelderne-har-ordet-arets-20-bedste-album-ifolge-elias-kvist/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/21/a2564/366098-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Elias Kvist" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Esben Suurballe Christensen</title>
@@ -3024,22 +3039,6 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153554/redaktionen-her-er-arets-20-bedste-danske-album/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/08/bbc07/365461-w1000.png" alt="REDAKTIONEN: Her er årets 20 bedste danske album" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Gary Barlows jul – smukt og smerteligt, uden for meget sukkersød kvalme</title>
-    <link href="https://gaffa.dk/anmeldelse/153564/gary-barlows-jul-smukt-og-smerteligt-uden-for-meget-sukkersod-kvalme/"/>
-    <updated>2021-12-08T16:46:00Z</updated>
-    <published>2021-12-08T16:46:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153564/gary-barlows-jul-smukt-og-smerteligt-uden-for-meget-sukkersod-kvalme/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153564/gary-barlows-jul-smukt-og-smerteligt-uden-for-meget-sukkersod-kvalme/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Gary Barlow - The Dream of Christmas</p><img src="https://static.gaffa.dk/images/2021/12/08/b034f/365464-w1000.jpg" alt="Gary Barlows jul – smukt og smerteligt, uden for meget sukkersød kvalme" />
       </div>
     ]]>
     </content>
