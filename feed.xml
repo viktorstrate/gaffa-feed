@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-25T07:00:00Z</updated>
+  <updated>2021-12-26T07:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Josephine Andersen</title>
+    <link href="https://gaffa.dk/artikel/153874/anmelderne-har-ordet-arets-10-bedste-album-ifolge-josephine-andersen/"/>
+    <updated>2021-12-26T07:00:00Z</updated>
+    <published>2021-12-26T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153874/anmelderne-har-ordet-arets-10-bedste-album-ifolge-josephine-andersen/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153874/anmelderne-har-ordet-arets-10-bedste-album-ifolge-josephine-andersen/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/21/fcb9f/366107-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Josephine Andersen" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Elias Kvist</title>
@@ -3024,21 +3039,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153566/forbud-mod-staende-koncerter-for-flere-end-50-personer/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/06/b44ee/359144-w1000.png" alt="Forbud mod stående koncerter for flere end 50 personer" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>REDAKTIONEN: Her er årets 20 bedste danske album</title>
-    <link href="https://gaffa.dk/artikel/153554/redaktionen-her-er-arets-20-bedste-danske-album/"/>
-    <updated>2021-12-08T14:15:00Z</updated>
-    <published>2021-12-08T14:15:00Z</published>
-    <id>https://gaffa.dk/artikel/153554/redaktionen-her-er-arets-20-bedste-danske-album/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153554/redaktionen-her-er-arets-20-bedste-danske-album/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/08/bbc07/365461-w1000.png" alt="REDAKTIONEN: Her er årets 20 bedste danske album" />
       </div>
     ]]>
     </content>
