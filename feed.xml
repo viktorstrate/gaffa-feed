@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-26T07:00:00Z</updated>
+  <updated>2021-12-27T07:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Finn P. Madsen</title>
+    <link href="https://gaffa.dk/artikel/153875/anmelderne-har-ordet-arets-10-bedste-album-ifolge-finn-p-madsen/"/>
+    <updated>2021-12-27T07:00:00Z</updated>
+    <published>2021-12-27T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153875/anmelderne-har-ordet-arets-10-bedste-album-ifolge-finn-p-madsen/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153875/anmelderne-har-ordet-arets-10-bedste-album-ifolge-finn-p-madsen/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/21/031cf/366109-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Finn P. Madsen" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Josephine Andersen</title>
@@ -3024,21 +3039,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153578/svensk-headset-far-masser-af-farver/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/09/969c3/365478-w1000.jpg" alt="Svensk headset får masser af farver" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Forbud mod stående koncerter for flere end 50 personer</title>
-    <link href="https://gaffa.dk/nyhed/153566/forbud-mod-staende-koncerter-for-flere-end-50-personer/"/>
-    <updated>2021-12-08T18:39:00Z</updated>
-    <published>2021-12-08T18:39:00Z</published>
-    <id>https://gaffa.dk/nyhed/153566/forbud-mod-staende-koncerter-for-flere-end-50-personer/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153566/forbud-mod-staende-koncerter-for-flere-end-50-personer/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/09/06/b44ee/359144-w1000.png" alt="Forbud mod stående koncerter for flere end 50 personer" />
       </div>
     ]]>
     </content>
