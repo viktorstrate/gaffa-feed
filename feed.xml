@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-27T12:00:00Z</updated>
+  <updated>2021-12-28T07:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Signe Ulvedal</title>
+    <link href="https://gaffa.dk/artikel/153722/anmelderne-har-ordet-arets-20-bedste-album-ifolge-signe-ulvedal/"/>
+    <updated>2021-12-28T07:00:00Z</updated>
+    <published>2021-12-28T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153722/anmelderne-har-ordet-arets-20-bedste-album-ifolge-signe-ulvedal/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153722/anmelderne-har-ordet-arets-20-bedste-album-ifolge-signe-ulvedal/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/28/d580a/366146-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Signe Ulvedal" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Kristian Bach Petersen </title>
@@ -33,6 +48,54 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153875/anmelderne-har-ordet-arets-10-bedste-album-ifolge-finn-p-madsen/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/21/031cf/366109-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Finn P. Madsen" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Thy tur/retur</title>
+    <link href="https://gaffa.dk/anmeldelse/153939/anmeldelse-thy-turretur/"/>
+    <updated>2021-12-27T16:47:00Z</updated>
+    <published>2021-12-27T16:47:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153939/anmeldelse-thy-turretur/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153939/anmeldelse-thy-turretur/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Blitzkrig - Vandene Der Deler Os</p><img src="https://static.gaffa.dk/images/2021/12/27/4de08/366141-w1000.png" alt="ANMELDELSE: Thy tur/retur" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Et slags comeback og en større forvandling</title>
+    <link href="https://gaffa.dk/anmeldelse/153938/anmeldelse-et-slags-comeback-og-en-storre-forvandling/"/>
+    <updated>2021-12-27T14:07:00Z</updated>
+    <published>2021-12-27T14:07:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153938/anmeldelse-et-slags-comeback-og-en-storre-forvandling/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153938/anmeldelse-et-slags-comeback-og-en-storre-forvandling/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Tenderloud - Ain&#39;t God Flying Low</p><img src="https://static.gaffa.dk/images/2021/12/27/06ce3/366140-w1000.jpg" alt="ANMELDELSE: Et slags comeback og en større forvandling" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Online musikalsk flaskepost fra en lockdown </title>
+    <link href="https://gaffa.dk/anmeldelse/153937/anmeldelse-online-musikalsk-flaskepost-fra-en-lockdown/"/>
+    <updated>2021-12-27T13:05:00Z</updated>
+    <published>2021-12-27T13:05:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153937/anmeldelse-online-musikalsk-flaskepost-fra-en-lockdown/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153937/anmeldelse-online-musikalsk-flaskepost-fra-en-lockdown/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>Bill Callahan &amp; Bonnie Prince Billy  - Blind Date Party </p><img src="https://static.gaffa.dk/images/2021/12/27/91034/366139-w1000.jpg" alt="ANMELDELSE: Online musikalsk flaskepost fra en lockdown " />
       </div>
     ]]>
     </content>
@@ -93,38 +156,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153932/deep-purple-trommeslager-giver-danske-koncerter/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2017/11/09/42afa/281599-w1000.jpg" alt="Deep Purple-trommeslager giver danske koncerter" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Et slags comeback og en større forvandling</title>
-    <link href="https://gaffa.dk/anmeldelse/153938/et-slags-comeback-og-en-storre-forvandling/"/>
-    <updated>2021-12-27T14:07:00Z</updated>
-    <published>2021-12-27T14:07:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153938/et-slags-comeback-og-en-storre-forvandling/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153938/et-slags-comeback-og-en-storre-forvandling/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Tenderloud - Ain&#39;t God Flying Low</p><img src="https://static.gaffa.dk/images/2021/12/27/06ce3/366140-w1000.jpg" alt="Et slags comeback og en større forvandling" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Online musikalsk flaskepost fra en lock down </title>
-    <link href="https://gaffa.dk/anmeldelse/153937/online-musikalsk-flaskepost-fra-en-lock-down/"/>
-    <updated>2021-12-27T13:05:00Z</updated>
-    <published>2021-12-27T13:05:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153937/online-musikalsk-flaskepost-fra-en-lock-down/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153937/online-musikalsk-flaskepost-fra-en-lock-down/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Bill Callahan &amp; Bonnie Prince Billy  - Blind Date Party </p><img src="https://static.gaffa.dk/images/2021/12/27/91034/366139-w1000.jpg" alt="Online musikalsk flaskepost fra en lock down " />
       </div>
     ]]>
     </content>
@@ -3008,37 +3039,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153580/lower-dens-indstiller-karrieren/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/10/18/3e081/335025-w1000.jpg" alt="Lower Dens indstiller karrieren" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Robbie Shakespeare er død, 68 år gammel</title>
-    <link href="https://gaffa.dk/nyhed/153574/robbie-shakespeare-er-dod-68-ar-gammel/"/>
-    <updated>2021-12-09T09:24:00Z</updated>
-    <published>2021-12-09T09:24:00Z</published>
-    <id>https://gaffa.dk/nyhed/153574/robbie-shakespeare-er-dod-68-ar-gammel/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153574/robbie-shakespeare-er-dod-68-ar-gammel/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/10/11/33165/308892-w1000.jpg" alt="Robbie Shakespeare er død, 68 år gammel" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Fraads skabte en hektisk og smuk dommedagsaften inden vinterens restriktioner</title>
-    <link href="https://gaffa.dk/anmeldelse/153571/fraads-skabte-en-hektisk-og-smuk-dommedagsaften-inden-vinterens-restriktioner/"/>
-    <updated>2021-12-09T09:00:00Z</updated>
-    <published>2021-12-09T09:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153571/fraads-skabte-en-hektisk-og-smuk-dommedagsaften-inden-vinterens-restriktioner/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153571/fraads-skabte-en-hektisk-og-smuk-dommedagsaften-inden-vinterens-restriktioner/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Fraads - Store Vega, København</p><img src="https://static.gaffa.dk/images/2021/12/09/7b188/365487-w1000.jpg" alt="Fraads skabte en hektisk og smuk dommedagsaften inden vinterens restriktioner" />
       </div>
     ]]>
     </content>
