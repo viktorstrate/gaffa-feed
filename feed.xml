@@ -5,8 +5,53 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-29T13:00:00Z</updated>
+  <updated>2021-12-30T07:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets 15 bedste album ifølge Anders Bøgh</title>
+    <link href="https://gaffa.dk/artikel/153877/anmelderne-har-ordet-arets-15-bedste-album-ifolge-anders-bogh/"/>
+    <updated>2021-12-30T07:00:00Z</updated>
+    <published>2021-12-30T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153877/anmelderne-har-ordet-arets-15-bedste-album-ifolge-anders-bogh/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153877/anmelderne-har-ordet-arets-15-bedste-album-ifolge-anders-bogh/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2020/12/30/ed493/350578-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 15 bedste album ifølge Anders Bøgh" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Ole Rosenstand Svidt</title>
+    <link href="https://gaffa.dk/artikel/153953/anmelderne-har-ordet-arets-20-bedste-album-ifolge-ole-rosenstand-svidt/"/>
+    <updated>2021-12-29T19:00:00Z</updated>
+    <published>2021-12-29T19:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153953/anmelderne-har-ordet-arets-20-bedste-album-ifolge-ole-rosenstand-svidt/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153953/anmelderne-har-ordet-arets-20-bedste-album-ifolge-ole-rosenstand-svidt/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2017/02/04/68a9e/252777-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Ole Rosenstand Svidt" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets bedste album ifølge Espen Strunk</title>
+    <link href="https://gaffa.dk/artikel/153950/anmelderne-har-ordet-arets-bedste-album-ifolge-espen-strunk/"/>
+    <updated>2021-12-29T15:00:00Z</updated>
+    <published>2021-12-29T15:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153950/anmelderne-har-ordet-arets-bedste-album-ifolge-espen-strunk/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153950/anmelderne-har-ordet-arets-bedste-album-ifolge-espen-strunk/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/21/f9390/362360-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets bedste album ifølge Espen Strunk" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Mie Lykke Sørensen</title>
@@ -48,6 +93,36 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153886/anmelderne-har-ordet-arets-10-bedste-album-ifolge-amalie-loewen/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/22/75d16/366123-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Amalie Löwén" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Medina afslører: Venter barn nummer to</title>
+    <link href="https://gaffa.dk/nyhed/153952/medina-afslorer-venter-barn-nummer-to/"/>
+    <updated>2021-12-29T17:00:00Z</updated>
+    <published>2021-12-29T17:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153952/medina-afslorer-venter-barn-nummer-to/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153952/medina-afslorer-venter-barn-nummer-to/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/11/10/09f1e/349241-w1000.jpg" alt="Medina afslører: Venter barn nummer to" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>PORTRÆT: Marianne Faithfull fylder 75 år</title>
+    <link href="https://gaffa.dk/nyhed/153951/portraet-marianne-faithfull-fylder-75-ar/"/>
+    <updated>2021-12-29T15:16:00Z</updated>
+    <published>2021-12-29T15:16:00Z</published>
+    <id>https://gaffa.dk/nyhed/153951/portraet-marianne-faithfull-fylder-75-ar/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153951/portraet-marianne-faithfull-fylder-75-ar/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2012/08/03/a38ac/101090-w1000.jpeg" alt="PORTRÆT: Marianne Faithfull fylder 75 år" />
       </div>
     ]]>
     </content>
@@ -2959,84 +3034,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153610/lingua-ignota-beskylder-daughters-forsanger-alexis-marshall-for-vold-han-benaegter-anklagerne/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/19/5174b/357985-w1000.jpeg" alt="Lingua Ignota beskylder Daughters-forsanger Alexis Marshall for vold – han benægter anklagerne " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Historiske Harlem-optagelser på gaden i næste måned</title>
-    <link href="https://gaffa.dk/nyhed/153612/historiske-harlem-optagelser-pa-gaden-i-naeste-maned/"/>
-    <updated>2021-12-10T10:25:00Z</updated>
-    <published>2021-12-10T10:25:00Z</published>
-    <id>https://gaffa.dk/nyhed/153612/historiske-harlem-optagelser-pa-gaden-i-naeste-maned/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153612/historiske-harlem-optagelser-pa-gaden-i-naeste-maned/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/26/a6a39/358617-w1000.jpg" alt="Historiske Harlem-optagelser på gaden i næste måned" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>VIDEOPREMIERE: Poetisk generationsmøde</title>
-    <link href="https://gaffa.dk/nyhed/153499/videopremiere-poetisk-generationsmode/"/>
-    <updated>2021-12-10T10:00:00Z</updated>
-    <published>2021-12-10T10:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153499/videopremiere-poetisk-generationsmode/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153499/videopremiere-poetisk-generationsmode/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/06/067e0/365391-w1000.jpg" alt="VIDEOPREMIERE: Poetisk generationsmøde" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Blandede bolsjer fra hårdrock-veteranerne</title>
-    <link href="https://gaffa.dk/anmeldelse/153602/blandede-bolsjer-fra-hardrock-veteranerne/"/>
-    <updated>2021-12-10T08:07:00Z</updated>
-    <published>2021-12-10T08:07:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153602/blandede-bolsjer-fra-hardrock-veteranerne/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153602/blandede-bolsjer-fra-hardrock-veteranerne/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
-          <p>Deep Purple - Turning To Crime</p><img src="https://static.gaffa.dk/images/2021/12/10/a011b/365537-w1000.jpg" alt="Blandede bolsjer fra hårdrock-veteranerne" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Pede B vender verdenssituationen over Lydmor-samplende beats </title>
-    <link href="https://gaffa.dk/anmeldelse/153597/pede-b-vender-verdenssituationen-over-lydmor-samplende-beats/"/>
-    <updated>2021-12-10T08:00:00Z</updated>
-    <published>2021-12-10T08:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153597/pede-b-vender-verdenssituationen-over-lydmor-samplende-beats/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153597/pede-b-vender-verdenssituationen-over-lydmor-samplende-beats/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Pede B &amp; DJ Noize - Lydbror</p><img src="https://static.gaffa.dk/images/2021/12/09/46c75/365492-w1000.jpeg" alt="Pede B vender verdenssituationen over Lydmor-samplende beats " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Stærk sidste stående rockaften inden nye restriktioner</title>
-    <link href="https://gaffa.dk/anmeldelse/153601/staerk-sidste-staende-rockaften-inden-nye-restriktioner/"/>
-    <updated>2021-12-10T07:58:00Z</updated>
-    <published>2021-12-10T07:58:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153601/staerk-sidste-staende-rockaften-inden-nye-restriktioner/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153601/staerk-sidste-staende-rockaften-inden-nye-restriktioner/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Brimheim og Gro - Radar, Aarhus</p><img src="https://static.gaffa.dk/images/2021/12/10/df296/365545-w1000.jpg" alt="Stærk sidste stående rockaften inden nye restriktioner" />
       </div>
     ]]>
     </content>
