@@ -5,8 +5,38 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-30T07:00:00Z</updated>
+  <updated>2021-12-30T13:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Her er årets 10 mest læste artikler</title>
+    <link href="https://gaffa.dk/artikel/153930/her-er-arets-10-mest-laeste-artikler/"/>
+    <updated>2021-12-30T13:00:00Z</updated>
+    <published>2021-12-30T13:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153930/her-er-arets-10-mest-laeste-artikler/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153930/her-er-arets-10-mest-laeste-artikler/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/11/10/e141d/363556-w1000.png" alt="Her er årets 10 mest læste artikler" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Emilie Brøgger Anderson</title>
+    <link href="https://gaffa.dk/artikel/153884/anmelderne-har-ordet-arets-10-bedste-album-ifolge-emilie-brogger-anderson/"/>
+    <updated>2021-12-30T12:00:00Z</updated>
+    <published>2021-12-30T12:00:00Z</published>
+    <id>https://gaffa.dk/artikel/153884/anmelderne-har-ordet-arets-10-bedste-album-ifolge-emilie-brogger-anderson/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153884/anmelderne-har-ordet-arets-10-bedste-album-ifolge-emilie-brogger-anderson/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/21/35915/366116-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Emilie Brøgger Anderson" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>ANMELDERNE HAR ORDET: Årets 15 bedste album ifølge Anders Bøgh</title>
@@ -18,6 +48,51 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153877/anmelderne-har-ordet-arets-15-bedste-album-ifolge-anders-bogh/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2020/12/30/ed493/350578-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 15 bedste album ifølge Anders Bøgh" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>PORTRÆT: Patti Smith fylder 75 år</title>
+    <link href="https://gaffa.dk/nyhed/153956/portraet-patti-smith-fylder-75-ar/"/>
+    <updated>2021-12-30T12:45:00Z</updated>
+    <published>2021-12-30T12:45:00Z</published>
+    <id>https://gaffa.dk/nyhed/153956/portraet-patti-smith-fylder-75-ar/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153956/portraet-patti-smith-fylder-75-ar/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/06/22/8011e/324496-w1000.jpg" alt="PORTRÆT: Patti Smith fylder 75 år" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Manager for Nicki Minaj og Kanye West myrdet - kæresten er arresteret og sigtet</title>
+    <link href="https://gaffa.dk/nyhed/153955/manager-for-nicki-minaj-og-kanye-west-myrdet-kaeresten-er-arresteret-og-sigtet/"/>
+    <updated>2021-12-30T11:45:00Z</updated>
+    <published>2021-12-30T11:45:00Z</published>
+    <id>https://gaffa.dk/nyhed/153955/manager-for-nicki-minaj-og-kanye-west-myrdet-kaeresten-er-arresteret-og-sigtet/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153955/manager-for-nicki-minaj-og-kanye-west-myrdet-kaeresten-er-arresteret-og-sigtet/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/08/21/a5f26/304918-w1000.png" alt="Manager for Nicki Minaj og Kanye West myrdet - kæresten er arresteret og sigtet" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Nyt headset drives af solen</title>
+    <link href="https://gaffa.dk/nyhed/153954/nyt-headset-drives-af-solen/"/>
+    <updated>2021-12-30T11:00:00Z</updated>
+    <published>2021-12-30T11:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/153954/nyt-headset-drives-af-solen/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/153954/nyt-headset-drives-af-solen/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/30/b3965/366155-w1000.jpg" alt="Nyt headset drives af solen" />
       </div>
     ]]>
     </content>
@@ -349,7 +424,7 @@
     <content type="html" xml:base="https://gaffa.dk/anmeldelse/153938/anmeldelse-et-slags-comeback-og-en-storre-forvandling/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Tenderloud - Ain&#39;t God Flying Low</p><img src="https://static.gaffa.dk/images/2021/12/27/06ce3/366140-w1000.jpg" alt="ANMELDELSE: Et slags comeback og en større forvandling" />
+          <p>Tenderloud - Ain&#39;t God Flying Low</p><img src="https://static.gaffa.dk/images/2021/12/30/45bd7/366156-w1000.jpg" alt="ANMELDELSE: Et slags comeback og en større forvandling" />
       </div>
     ]]>
     </content>
@@ -2958,82 +3033,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153622/gorillaz-udgiver-kunstbog-med-bidrag-fra-robert-smith-og-jack-black/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/10/23/1a1b8/348668-w1000.jpg" alt="Gorillaz udgiver kunstbog - med bidrag fra Robert Smith og Jack Black" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Bronski Beat-grundlægger død, 61 år gammel</title>
-    <link href="https://gaffa.dk/nyhed/153620/bronski-beat-grundlaegger-dod-61-ar-gammel/"/>
-    <updated>2021-12-10T15:00:00Z</updated>
-    <published>2021-12-10T15:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153620/bronski-beat-grundlaegger-dod-61-ar-gammel/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153620/bronski-beat-grundlaegger-dod-61-ar-gammel/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/10/5e867/365570-w1000.jpg" alt="Bronski Beat-grundlægger død, 61 år gammel" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Netflix-dokumentar om Kanye West får premiere på Sundance 2022 </title>
-    <link href="https://gaffa.dk/nyhed/153618/netflix-dokumentar-om-kanye-west-far-premiere-pa-sundance-2022/"/>
-    <updated>2021-12-10T14:30:00Z</updated>
-    <published>2021-12-10T14:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/153618/netflix-dokumentar-om-kanye-west-far-premiere-pa-sundance-2022/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153618/netflix-dokumentar-om-kanye-west-far-premiere-pa-sundance-2022/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2016/10/03/23463/242698-w1000.jpg" alt="Netflix-dokumentar om Kanye West får premiere på Sundance 2022 " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Earl Sweatshirt annoncerer nyt projekt – hør første single</title>
-    <link href="https://gaffa.dk/nyhed/153614/earl-sweatshirt-annoncerer-nyt-projekt-hor-forste-single/"/>
-    <updated>2021-12-10T12:30:00Z</updated>
-    <published>2021-12-10T12:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/153614/earl-sweatshirt-annoncerer-nyt-projekt-hor-forste-single/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153614/earl-sweatshirt-annoncerer-nyt-projekt-hor-forste-single/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/10/16/962c2/309156-w1000.jpg" alt="Earl Sweatshirt annoncerer nyt projekt – hør første single" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Intet nyt under høstmånen</title>
-    <link href="https://gaffa.dk/anmeldelse/153615/intet-nyt-under-hostmanen/"/>
-    <updated>2021-12-10T11:43:00Z</updated>
-    <published>2021-12-10T11:43:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153615/intet-nyt-under-hostmanen/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153615/intet-nyt-under-hostmanen/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>Neil Young &amp; Crazy Horse - Barn</p><img src="https://static.gaffa.dk/images/2021/12/10/2e944/365565-w1000.jpg" alt="Intet nyt under høstmånen" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Lingua Ignota beskylder Daughters-forsanger Alexis Marshall for vold – han benægter anklagerne </title>
-    <link href="https://gaffa.dk/nyhed/153610/lingua-ignota-beskylder-daughters-forsanger-alexis-marshall-for-vold-han-benaegter-anklagerne/"/>
-    <updated>2021-12-10T10:35:00Z</updated>
-    <published>2021-12-10T10:35:00Z</published>
-    <id>https://gaffa.dk/nyhed/153610/lingua-ignota-beskylder-daughters-forsanger-alexis-marshall-for-vold-han-benaegter-anklagerne/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153610/lingua-ignota-beskylder-daughters-forsanger-alexis-marshall-for-vold-han-benaegter-anklagerne/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/19/5174b/357985-w1000.jpeg" alt="Lingua Ignota beskylder Daughters-forsanger Alexis Marshall for vold – han benægter anklagerne " />
       </div>
     ]]>
     </content>
