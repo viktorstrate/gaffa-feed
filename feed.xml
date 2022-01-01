@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2021-12-31T08:00:00Z</updated>
+  <updated>2022-01-01T13:04:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Blachman: Jeg evner ikke at miste dømmekraften</title>
+    <link href="https://gaffa.dk/artikel/153970/blachman-jeg-evner-ikke-at-miste-dommekraften/"/>
+    <updated>2022-01-01T13:04:00Z</updated>
+    <published>2022-01-01T13:04:00Z</published>
+    <id>https://gaffa.dk/artikel/153970/blachman-jeg-evner-ikke-at-miste-dommekraften/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/153970/blachman-jeg-evner-ikke-at-miste-dommekraften/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2018/04/06/a22b9/290788-w1000.jpg" alt="Blachman: Jeg evner ikke at miste dømmekraften" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Her er årets 10 mest læste nyheder</title>
@@ -3017,21 +3032,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153648/betty-bitschlap-synger-om-bromance-i-sjov-og-sensuel-video/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/13/abba9/365664-w1000.jpeg" alt="Betty Bitschlap synger om bromance i sjov og sensuel video" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Syd For Solen fuldender programmet</title>
-    <link href="https://gaffa.dk/nyhed/153634/syd-for-solen-fuldender-programmet/"/>
-    <updated>2021-12-12T12:00:00Z</updated>
-    <published>2021-12-12T12:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153634/syd-for-solen-fuldender-programmet/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153634/syd-for-solen-fuldender-programmet/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/07/14d21/363447-w1000.jpg" alt="Syd For Solen fuldender programmet" />
       </div>
     ]]>
     </content>
