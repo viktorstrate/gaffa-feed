@@ -5,8 +5,24 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-02T10:20:00Z</updated>
+  <updated>2022-01-03T02:10:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDELSE: Moderne Easy Riders vælter voksent rockalbum af sig</title>
+    <link href="https://gaffa.dk/anmeldelse/153977/anmeldelse-moderne-easy-riders-vaelter-voksent-rockalbum-af-sig/"/>
+    <updated>2022-01-03T02:10:00Z</updated>
+    <published>2022-01-03T02:10:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153977/anmeldelse-moderne-easy-riders-vaelter-voksent-rockalbum-af-sig/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153977/anmeldelse-moderne-easy-riders-vaelter-voksent-rockalbum-af-sig/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Electric Guitars - Freewheeler</p><img src="https://static.gaffa.dk/images/2022/01/03/e2aa3/366171-w1000.jpeg" alt="ANMELDELSE: Moderne Easy Riders vælter voksent rockalbum af sig" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>X Factors nye dommer: Jeg har altid udfordret firkanten</title>
@@ -3017,21 +3033,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153651/kid-cudi-udgiver-hele-to-nye-album-til-naeste-ar/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/12/28/dc84f/350565-w1000.jpg" alt="Kid Cudi udgiver hele to nye album til næste år" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>RZA og Flatbush Zombies deler ny sang med Tarantino-inspireret video</title>
-    <link href="https://gaffa.dk/nyhed/153650/rza-og-flatbush-zombies-deler-ny-sang-med-tarantino-inspireret-video/"/>
-    <updated>2021-12-13T13:02:00Z</updated>
-    <published>2021-12-13T13:02:00Z</published>
-    <id>https://gaffa.dk/nyhed/153650/rza-og-flatbush-zombies-deler-ny-sang-med-tarantino-inspireret-video/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153650/rza-og-flatbush-zombies-deler-ny-sang-med-tarantino-inspireret-video/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/13/cb588/365665-w1000.png" alt="RZA og Flatbush Zombies deler ny sang med Tarantino-inspireret video" />
       </div>
     ]]>
     </content>
