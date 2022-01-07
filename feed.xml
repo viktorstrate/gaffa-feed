@@ -5,8 +5,39 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-06T10:56:00Z</updated>
+  <updated>2022-01-07T00:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDELSE: På rejse uden kompas. Men fortsat i bevægelse.</title>
+    <link href="https://gaffa.dk/anmeldelse/153972/anmeldelse-pa-rejse-uden-kompas-men-fortsat-i-bevaegelse/"/>
+    <updated>2022-01-07T00:00:00Z</updated>
+    <published>2022-01-07T00:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/153972/anmeldelse-pa-rejse-uden-kompas-men-fortsat-i-bevaegelse/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153972/anmeldelse-pa-rejse-uden-kompas-men-fortsat-i-bevaegelse/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>The Minds of 99 - Infinity Action</p><img src="https://static.gaffa.dk/images/2022/01/04/8721c/366199-w1000.jpeg" alt="ANMELDELSE: På rejse uden kompas. Men fortsat i bevægelse." />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>VIDEO: Danske LineMarianne hylder Beach Boys – og vækker minder om ung Annisette</title>
+    <link href="https://gaffa.dk/nyhed/154067/video-danske-linemarianne-hylder-beach-boys-og-vaekker-minder-om-ung-annisette/"/>
+    <updated>2022-01-07T07:00:00Z</updated>
+    <published>2022-01-07T07:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/154067/video-danske-linemarianne-hylder-beach-boys-og-vaekker-minder-om-ung-annisette/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154067/video-danske-linemarianne-hylder-beach-boys-og-vaekker-minder-om-ung-annisette/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/06/4f537/366264-w1000.png" alt="VIDEO: Danske LineMarianne hylder Beach Boys – og vækker minder om ung Annisette" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Dansk Folkeparti: Spillesteder skal kræve ren straffeattest af musikere</title>
@@ -54,16 +85,32 @@
   </entry>
   
   <entry>
-    <title>Livløs, statisk og kedelig</title>
-    <link href="https://gaffa.dk/anmeldelse/154055/livlos-statisk-og-kedelig/"/>
+    <title>Gennemført dansk metalcore med internationalt potentiale</title>
+    <link href="https://gaffa.dk/anmeldelse/154066/gennemfort-dansk-metalcore-med-internationalt-potentiale/"/>
+    <updated>2022-01-06T14:58:00Z</updated>
+    <published>2022-01-06T14:58:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/154066/gennemfort-dansk-metalcore-med-internationalt-potentiale/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154066/gennemfort-dansk-metalcore-med-internationalt-potentiale/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Siamese - Home</p><img src="https://static.gaffa.dk/images/2022/01/06/392bf/366263-w1000.jpg" alt="Gennemført dansk metalcore med internationalt potentiale" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Flad, statisk og kedelig</title>
+    <link href="https://gaffa.dk/anmeldelse/154055/flad-statisk-og-kedelig/"/>
     <updated>2022-01-06T14:41:00Z</updated>
     <published>2022-01-06T14:41:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/154055/livlos-statisk-og-kedelig/</id>
+    <id>https://gaffa.dk/anmeldelse/154055/flad-statisk-og-kedelig/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154055/livlos-statisk-og-kedelig/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154055/flad-statisk-og-kedelig/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 2 / 5 stjærner.</p>
-          <p>Juice WRLD - Fighting Demons</p><img src="https://static.gaffa.dk/images/2022/01/06/c8d99/366261-w1000.png" alt="Livløs, statisk og kedelig" />
+          <p>Juice WRLD - Fighting Demons</p><img src="https://static.gaffa.dk/images/2022/01/06/c8d99/366261-w1000.png" alt="Flad, statisk og kedelig" />
       </div>
     ]]>
     </content>
@@ -100,21 +147,6 @@
   </entry>
   
   <entry>
-    <title>Bærbar underholdning freestyler</title>
-    <link href="https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/"/>
-    <updated>2022-01-06T15:00:00Z</updated>
-    <published>2022-01-06T15:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/06/f9d8c/366253-w1000.jpg" alt="Bærbar underholdning freestyler" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
     <title>ANMELDELSE: Et himmelsk naturfænomen, et mesterværk</title>
     <link href="https://gaffa.dk/anmeldelse/154064/anmeldelse-et-himmelsk-naturfaenomen-et-mestervaerk/"/>
     <updated>2022-01-06T00:47:00Z</updated>
@@ -125,6 +157,37 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
           <p>Lars Danielsson - Cloudland</p><img src="https://static.gaffa.dk/images/2022/01/06/f9cf7/366260-w1000.jpg" alt="ANMELDELSE: Et himmelsk naturfænomen, et mesterværk" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Spændende højttaler med fed lyd</title>
+    <link href="https://gaffa.dk/anmeldelse/154069/anmeldelse-spaendende-hojttaler-med-fed-lyd/"/>
+    <updated>2022-01-06T17:30:00Z</updated>
+    <published>2022-01-06T17:30:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/154069/anmeldelse-spaendende-hojttaler-med-fed-lyd/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154069/anmeldelse-spaendende-hojttaler-med-fed-lyd/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>TECH - Bowers &amp; Wilkins Zeppelin</p><img src="https://static.gaffa.dk/images/2022/01/06/4af23/366267-w1000.jpg" alt="ANMELDELSE: Spændende højttaler med fed lyd" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Bærbar underholdning freestyler</title>
+    <link href="https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/"/>
+    <updated>2022-01-06T15:00:00Z</updated>
+    <published>2022-01-06T15:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/06/f9d8c/366253-w1000.jpg" alt="Bærbar underholdning freestyler" />
       </div>
     ]]>
     </content>
@@ -2978,66 +3041,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153739/fra-kobenhavns-universitet-til-app-udvikler-i-politiet/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/16/f27c8/365739-w1000.jpg" alt="Fra Københavns Universitet til app-udvikler i politiet" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Revisortrainee i EY</title>
-    <link href="https://gaffa.dk/nyhed/153699/revisortrainee-i-ey/"/>
-    <updated>2021-12-16T10:29:00Z</updated>
-    <published>2021-12-16T10:29:00Z</published>
-    <id>https://gaffa.dk/nyhed/153699/revisortrainee-i-ey/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153699/revisortrainee-i-ey/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/15/84da2/365705-w1000.jpg" alt="Revisortrainee i EY" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Flere frygter datamisbrug og dropper sociale medier</title>
-    <link href="https://gaffa.dk/nyhed/153726/flere-frygter-datamisbrug-og-dropper-sociale-medier/"/>
-    <updated>2021-12-16T10:00:00Z</updated>
-    <published>2021-12-16T10:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153726/flere-frygter-datamisbrug-og-dropper-sociale-medier/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153726/flere-frygter-datamisbrug-og-dropper-sociale-medier/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/25/bd411/362710-w1000.jpg" alt="Flere frygter datamisbrug og dropper sociale medier" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Avril Lavigne vil lave Sk8er Boi-hittet til en film</title>
-    <link href="https://gaffa.dk/nyhed/153718/avril-lavigne-vil-lave-sk8er-boi-hittet-til-en-film/"/>
-    <updated>2021-12-15T16:00:00Z</updated>
-    <published>2021-12-15T16:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153718/avril-lavigne-vil-lave-sk8er-boi-hittet-til-en-film/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153718/avril-lavigne-vil-lave-sk8er-boi-hittet-til-en-film/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/02/13/30a7d/314485-w1000.png" alt="Avril Lavigne vil lave Sk8er Boi-hittet til en film" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>REDAKTIONEN: Her er årets bedste danske sange</title>
-    <link href="https://gaffa.dk/artikel/153705/redaktionen-her-er-arets-bedste-danske-sange/"/>
-    <updated>2021-12-15T15:45:00Z</updated>
-    <published>2021-12-15T15:45:00Z</published>
-    <id>https://gaffa.dk/artikel/153705/redaktionen-her-er-arets-bedste-danske-sange/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153705/redaktionen-her-er-arets-bedste-danske-sange/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/15/a70c8/365713-w1000.jpeg" alt="REDAKTIONEN: Her er årets bedste danske sange" />
       </div>
     ]]>
     </content>
