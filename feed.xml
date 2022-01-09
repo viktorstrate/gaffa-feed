@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-08T07:00:00Z</updated>
+  <updated>2022-01-09T09:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>THE MINDS OF 99-INTERVIEW: &quot;Vi havde trængt os selv op i en krog&quot;</title>
+    <link href="https://gaffa.dk/artikel/154100/the-minds-of-99-interview-vi-havde-traengt-os-selv-op-i-en-krog/"/>
+    <updated>2022-01-09T09:00:00Z</updated>
+    <published>2022-01-09T09:00:00Z</published>
+    <id>https://gaffa.dk/artikel/154100/the-minds-of-99-interview-vi-havde-traengt-os-selv-op-i-en-krog/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/154100/the-minds-of-99-interview-vi-havde-traengt-os-selv-op-i-en-krog/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2022/01/05/1b9a6/366237-w1000.jpg" alt="THE MINDS OF 99-INTERVIEW: &quot;Vi havde trængt os selv op i en krog&quot;" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>GAFFAS SIDSTE BOWIE-INTERVIEW: Velkommen til virkeligheden</title>
@@ -18,6 +33,22 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/154088/gaffas-sidste-bowie-interview-velkommen-til-virkeligheden/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2013/03/08/7430d/117093-w1000.jpeg" alt="GAFFAS SIDSTE BOWIE-INTERVIEW: Velkommen til virkeligheden" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Underfundigt og underdrejet comeback </title>
+    <link href="https://gaffa.dk/anmeldelse/154096/underfundigt-og-underdrejet-comeback/"/>
+    <updated>2022-01-08T15:35:00Z</updated>
+    <published>2022-01-08T15:35:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/154096/underfundigt-og-underdrejet-comeback/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154096/underfundigt-og-underdrejet-comeback/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
+          <p>Risiko - Kalkuleret</p><img src="https://static.gaffa.dk/images/2022/01/08/c464f/366286-w1000.jpg" alt="Underfundigt og underdrejet comeback " />
       </div>
     ]]>
     </content>
@@ -49,22 +80,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/154086/flot-video-fra-det-skandinaviske-indie-folk-world-jazz-band-tone-of-voice-orchestra/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/07/a45d4/366279-w1000.jpg" alt="Flot video fra det skandinaviske indie-folk-world-jazz-band Tone of Voice Orchestra" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Underfundigt og underdrejet comeback </title>
-    <link href="https://gaffa.dk/anmeldelse/154096/underfundigt-og-underdrejet-comeback/"/>
-    <updated>2022-01-08T15:35:00Z</updated>
-    <published>2022-01-08T15:35:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/154096/underfundigt-og-underdrejet-comeback/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154096/underfundigt-og-underdrejet-comeback/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 5 stjærner.</p>
-          <p>Risiko - Kalkuleret</p><img src="https://static.gaffa.dk/images/2022/01/08/c464f/366286-w1000.jpg" alt="Underfundigt og underdrejet comeback " />
       </div>
     ]]>
     </content>
@@ -3029,21 +3044,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153729/bruce-springsteen-saelger-sit-bagkatalog-for-vildt-belob/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/10/19/78fac/348465-w1000.jpg" alt="Bruce Springsteen sælger sit bagkatalog for vildt beløb" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>George Harrison-1970-nummer får stjernespækket video</title>
-    <link href="https://gaffa.dk/nyhed/153724/george-harrison-1970-nummer-far-stjernespaekket-video/"/>
-    <updated>2021-12-16T07:55:00Z</updated>
-    <published>2021-12-16T07:55:00Z</published>
-    <id>https://gaffa.dk/nyhed/153724/george-harrison-1970-nummer-far-stjernespaekket-video/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153724/george-harrison-1970-nummer-far-stjernespaekket-video/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2017/09/29/df113/278316-w1000.jpg" alt="George Harrison-1970-nummer får stjernespækket video" />
       </div>
     ]]>
     </content>
