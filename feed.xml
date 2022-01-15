@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-14T11:02:00Z</updated>
+  <updated>2022-01-15T08:55:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Brockhampton aflyser turné – holder pause på ubestemt tid</title>
+    <link href="https://gaffa.dk/nyhed/154236/brockhampton-aflyser-turne-holder-pause-pa-ubestemt-tid/"/>
+    <updated>2022-01-15T08:55:00Z</updated>
+    <published>2022-01-15T08:55:00Z</published>
+    <id>https://gaffa.dk/nyhed/154236/brockhampton-aflyser-turne-holder-pause-pa-ubestemt-tid/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154236/brockhampton-aflyser-turne-holder-pause-pa-ubestemt-tid/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/09/05/75702/333162-w1000.JPG" alt="Brockhampton aflyser turné – holder pause på ubestemt tid" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Nyt surprise-album fra Niarn</title>
@@ -48,21 +63,6 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/154213/klassikeren-verdensstjernen-holdt-lav-profil-og-lod-musikken-tale-efter-en-skriveblokering/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2022/01/11/53963/366305-w1000.jpg" alt="KLASSIKEREN: Verdensstjernen holdt lav profil og lod musikken tale efter en skriveblokering" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Goss annoncerer nyt album – har single lige om hjørnet</title>
-    <link href="https://gaffa.dk/nyhed/154233/goss-annoncerer-nyt-album-har-single-lige-om-hjornet/"/>
-    <updated>2022-01-14T16:21:00Z</updated>
-    <published>2022-01-14T16:21:00Z</published>
-    <id>https://gaffa.dk/nyhed/154233/goss-annoncerer-nyt-album-har-single-lige-om-hjornet/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/154233/goss-annoncerer-nyt-album-har-single-lige-om-hjornet/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/14/93c76/366369-w1000.png" alt="Goss annoncerer nyt album – har single lige om hjørnet" />
       </div>
     ]]>
     </content>
