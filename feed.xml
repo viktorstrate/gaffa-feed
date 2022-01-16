@@ -5,8 +5,40 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-15T08:55:00Z</updated>
+  <updated>2022-01-16T09:11:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Folkrock, der kommer langt ud over scenekanten  </title>
+    <link href="https://gaffa.dk/anmeldelse/154240/folkrock-der-kommer-langt-ud-over-scenekanten/"/>
+    <updated>2022-01-16T09:11:00Z</updated>
+    <published>2022-01-16T09:11:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/154240/folkrock-der-kommer-langt-ud-over-scenekanten/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154240/folkrock-der-kommer-langt-ud-over-scenekanten/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>The Lumineers - Brightside</p><img src="https://static.gaffa.dk/images/2022/01/16/5cd1b/366376-w1000.png" alt="Folkrock, der kommer langt ud over scenekanten  " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Et veludtænkt koncept med masser af potentiale </title>
+    <link href="https://gaffa.dk/anmeldelse/154238/anmeldelse-et-veludtaenkt-koncept-med-masser-af-potentiale/"/>
+    <updated>2022-01-16T09:20:00Z</updated>
+    <published>2022-01-16T09:20:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/154238/anmeldelse-et-veludtaenkt-koncept-med-masser-af-potentiale/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154238/anmeldelse-et-veludtaenkt-koncept-med-masser-af-potentiale/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
+          <p>MAS - Venteværelset</p><img src="https://static.gaffa.dk/images/2022/01/15/e9d59/366371-w1000.PNG" alt="ANMELDELSE: Et veludtænkt koncept med masser af potentiale " />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Brockhampton aflyser turné – holder pause på ubestemt tid</title>
@@ -3016,36 +3048,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
           <p>Squid - Bright Green Field</p><img src="https://static.gaffa.dk/images/2021/05/07/a926d/353639-w1000.jpg" alt="En helt ny milepæl for musikken" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>LISTE: De fem værste pladeomslag fra 2021</title>
-    <link href="https://gaffa.dk/artikel/153858/liste-de-fem-vaerste-pladeomslag-fra-2021/"/>
-    <updated>2021-12-21T12:25:00Z</updated>
-    <published>2021-12-21T12:25:00Z</published>
-    <id>https://gaffa.dk/artikel/153858/liste-de-fem-vaerste-pladeomslag-fra-2021/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153858/liste-de-fem-vaerste-pladeomslag-fra-2021/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/21/a3960/366092-w1000.jpeg" alt="LISTE: De fem værste pladeomslag fra 2021" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Steppeulven: Og de nominerede er...</title>
-    <link href="https://gaffa.dk/nyhed/153845/steppeulven-og-de-nominerede-er/"/>
-    <updated>2021-12-21T10:03:00Z</updated>
-    <published>2021-12-21T10:03:00Z</published>
-    <id>https://gaffa.dk/nyhed/153845/steppeulven-og-de-nominerede-er/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153845/steppeulven-og-de-nominerede-er/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/11/13/ed63f/336165-w1000.jpeg" alt="Steppeulven: Og de nominerede er..." />
       </div>
     ]]>
     </content>
