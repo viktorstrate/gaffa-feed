@@ -5,11 +5,27 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-16T09:11:00Z</updated>
+  <updated>2022-01-17T06:00:00Z</updated>
   <id>https://gaffa.dk/</id>
   
   <entry>
-    <title>Folkrock, der kommer langt ud over scenekanten  </title>
+    <title>ANMELDELSE: Er du kommet for at få en veloplagt liveplade, kan denne varmt anbefales</title>
+    <link href="https://gaffa.dk/anmeldelse/154243/anmeldelse-er-du-kommet-for-at-fa-en-veloplagt-liveplade-kan-denne-varmt-anbefales/"/>
+    <updated>2022-01-17T06:00:00Z</updated>
+    <published>2022-01-17T06:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/154243/anmeldelse-er-du-kommet-for-at-fa-en-veloplagt-liveplade-kan-denne-varmt-anbefales/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154243/anmeldelse-er-du-kommet-for-at-fa-en-veloplagt-liveplade-kan-denne-varmt-anbefales/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Mikael Simpson &amp; Sølvstorm - Live at Vega</p><img src="https://static.gaffa.dk/images/2022/01/16/950ee/366380-w1000.png" alt="ANMELDELSE: Er du kommet for at få en veloplagt liveplade, kan denne varmt anbefales" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Folkrock, der kommer langt ud over scenekanten</title>
     <link href="https://gaffa.dk/anmeldelse/154240/folkrock-der-kommer-langt-ud-over-scenekanten/"/>
     <updated>2022-01-16T09:11:00Z</updated>
     <published>2022-01-16T09:11:00Z</published>
@@ -18,7 +34,7 @@
     <content type="html" xml:base="https://gaffa.dk/anmeldelse/154240/folkrock-der-kommer-langt-ud-over-scenekanten/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 5 stjærner.</p>
-          <p>The Lumineers - Brightside</p><img src="https://static.gaffa.dk/images/2022/01/16/5cd1b/366376-w1000.png" alt="Folkrock, der kommer langt ud over scenekanten  " />
+          <p>The Lumineers - Brightside</p><img src="https://static.gaffa.dk/images/2022/01/16/5cd1b/366376-w1000.png" alt="Folkrock, der kommer langt ud over scenekanten" />
       </div>
     ]]>
     </content>
@@ -3032,22 +3048,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
           <p>Chvrches - Screen Violence</p><img src="https://static.gaffa.dk/images/2021/08/24/3c558/358546-w1000.jpeg" alt="Lave forventninger overraskes med popmesterværk" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>En helt ny milepæl for musikken</title>
-    <link href="https://gaffa.dk/anmeldelse/153903/en-helt-ny-milepael-for-musikken/"/>
-    <updated>2021-12-22T07:00:00Z</updated>
-    <published>2021-12-22T07:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153903/en-helt-ny-milepael-for-musikken/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153903/en-helt-ny-milepael-for-musikken/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
-          <p>Squid - Bright Green Field</p><img src="https://static.gaffa.dk/images/2021/05/07/a926d/353639-w1000.jpg" alt="En helt ny milepæl for musikken" />
       </div>
     ]]>
     </content>
