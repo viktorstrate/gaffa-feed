@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-18T11:37:00Z</updated>
+  <updated>2022-01-18T16:09:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Alle medlemmer forlader bandet – undtagen sangeren</title>
+    <link href="https://gaffa.dk/nyhed/154296/alle-medlemmer-forlader-bandet-undtagen-sangeren/"/>
+    <updated>2022-01-18T16:09:00Z</updated>
+    <published>2022-01-18T16:09:00Z</published>
+    <id>https://gaffa.dk/nyhed/154296/alle-medlemmer-forlader-bandet-undtagen-sangeren/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154296/alle-medlemmer-forlader-bandet-undtagen-sangeren/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2017/01/19/fc077/251227-w1000.jpg" alt="Alle medlemmer forlader bandet – undtagen sangeren" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>S-kulturordfører: DF-forslag om ren straffeattest til musikere er en dårlig idé</title>
@@ -48,6 +63,21 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/154278/mette-f-det-er-tid-til-at-genoverveje-coronarestriktioner/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/03/22/852e7/352286-w1000.jpg" alt="Mette F.: Det er tid til at genoverveje coronarestriktioner" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Rapperen Conway the Machine kommer til Danmark for første gang</title>
+    <link href="https://gaffa.dk/nyhed/154295/rapperen-conway-the-machine-kommer-til-danmark-for-forste-gang/"/>
+    <updated>2022-01-18T15:46:00Z</updated>
+    <published>2022-01-18T15:46:00Z</published>
+    <id>https://gaffa.dk/nyhed/154295/rapperen-conway-the-machine-kommer-til-danmark-for-forste-gang/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154295/rapperen-conway-the-machine-kommer-til-danmark-for-forste-gang/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/18/69e02/366405-w1000.jpg" alt="Rapperen Conway the Machine kommer til Danmark for første gang" />
       </div>
     ]]>
     </content>
@@ -109,6 +139,53 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/154281/venstre-vil-fjerne-restriktioner-enhedslisten-vil-vente/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/18/5d040/366398-w1000.png" alt="Venstre vil fjerne restriktioner - Enhedslisten vil vente" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Gedigen genudgivelse af stjerneguitaristens solodebut</title>
+    <link href="https://gaffa.dk/anmeldelse/154298/anmeldelse-gedigen-genudgivelse-af-stjerneguitaristens-solodebut/"/>
+    <updated>2022-01-18T17:22:00Z</updated>
+    <published>2022-01-18T17:22:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/154298/anmeldelse-gedigen-genudgivelse-af-stjerneguitaristens-solodebut/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154298/anmeldelse-gedigen-genudgivelse-af-stjerneguitaristens-solodebut/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>Rory Gallagher - Rory Gallagher (50th Anniversary Edition)</p><img src="https://static.gaffa.dk/images/2022/01/18/28655/366412-w1000.jpeg" alt="ANMELDELSE: Gedigen genudgivelse af stjerneguitaristens solodebut" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Elegant smartwatch og avanceret fitness tracker i et – men med udfordringer</title>
+    <link href="https://gaffa.dk/anmeldelse/154291/anmeldelse-elegant-smartwatch-og-avanceret-fitness-tracker-i-et-men-med-udfordringer/"/>
+    <updated>2022-01-18T16:00:00Z</updated>
+    <published>2022-01-18T16:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/154291/anmeldelse-elegant-smartwatch-og-avanceret-fitness-tracker-i-et-men-med-udfordringer/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154291/anmeldelse-elegant-smartwatch-og-avanceret-fitness-tracker-i-et-men-med-udfordringer/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
+          <p>TECH - Watch GT 3</p><img src="https://static.gaffa.dk/images/2022/01/18/9cbfe/366403-w1000.jpg" alt="ANMELDELSE: Elegant smartwatch og avanceret fitness tracker i et – men med udfordringer" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Andreas Odbjerg afslører udgivelsesdato for nyt album i podcasten Ildsjæl</title>
+    <link href="https://gaffa.dk/nyhed/154232/andreas-odbjerg-afslorer-udgivelsesdato-for-nyt-album-i-podcasten-ildsjael/"/>
+    <updated>2022-01-17T09:00:00Z</updated>
+    <published>2022-01-17T09:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/154232/andreas-odbjerg-afslorer-udgivelsesdato-for-nyt-album-i-podcasten-ildsjael/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154232/andreas-odbjerg-afslorer-udgivelsesdato-for-nyt-album-i-podcasten-ildsjael/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/19/39995/366416-w1000.jpg" alt="Andreas Odbjerg afslører udgivelsesdato for nyt album i podcasten Ildsjæl" />
       </div>
     ]]>
     </content>
@@ -277,21 +354,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 6 / 5 stjærner.</p>
           <p>TECH - StaffPad</p><img src="https://static.gaffa.dk/images/2022/01/17/9192d/366391-w1000.jpg" alt="ANMELDELSE: Superlet værktøj gør det let at komponere musik" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Andreas Odbjerg afslører udgivelsesdato for nyt album i podcasten Ildsjæl</title>
-    <link href="https://gaffa.dk/nyhed/154232/andreas-odbjerg-afslorer-udgivelsesdato-for-nyt-album-i-podcasten-ildsjael/"/>
-    <updated>2022-01-17T09:00:00Z</updated>
-    <published>2022-01-17T09:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/154232/andreas-odbjerg-afslorer-udgivelsesdato-for-nyt-album-i-podcasten-ildsjael/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/154232/andreas-odbjerg-afslorer-udgivelsesdato-for-nyt-album-i-podcasten-ildsjael/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/16/263ff/366382-w1000.png" alt="Andreas Odbjerg afslører udgivelsesdato for nyt album i podcasten Ildsjæl" />
       </div>
     ]]>
     </content>
@@ -2983,67 +3045,6 @@
     <content type="html" xml:base="https://gaffa.dk/artikel/153866/anmelderne-har-ordet-arets-20-bedste-album-ifolge-trinelise-vaering/">
     <![CDATA[
       <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/17/198c0/365815-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Trinelise Væring" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Et af makkerparrets smukkeste soundtracks til dato</title>
-    <link href="https://gaffa.dk/anmeldelse/153926/et-af-makkerparrets-smukkeste-soundtracks-til-dato/"/>
-    <updated>2021-12-23T14:00:00Z</updated>
-    <published>2021-12-23T14:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153926/et-af-makkerparrets-smukkeste-soundtracks-til-dato/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153926/et-af-makkerparrets-smukkeste-soundtracks-til-dato/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 5 stjærner.</p>
-          <p>Nick Cave &amp; Warren Ellis - La Panthère des Neiges (Original Soundtrack)</p><img src="https://static.gaffa.dk/images/2021/12/23/4e15c/366130-w1000.jpg" alt="Et af makkerparrets smukkeste soundtracks til dato" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Coldplay annoncerer slutdato</title>
-    <link href="https://gaffa.dk/nyhed/153924/coldplay-annoncerer-slutdato/"/>
-    <updated>2021-12-23T13:00:00Z</updated>
-    <published>2021-12-23T13:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153924/coldplay-annoncerer-slutdato/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153924/coldplay-annoncerer-slutdato/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/26/4d56d/362814-w1000.png" alt="Coldplay annoncerer slutdato" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Bred politisk aftale skal kvalitetssikre de kunstneriske uddannelser</title>
-    <link href="https://gaffa.dk/nyhed/153921/bred-politisk-aftale-skal-kvalitetssikre-de-kunstneriske-uddannelser/"/>
-    <updated>2021-12-23T11:15:00Z</updated>
-    <published>2021-12-23T11:15:00Z</published>
-    <id>https://gaffa.dk/nyhed/153921/bred-politisk-aftale-skal-kvalitetssikre-de-kunstneriske-uddannelser/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153921/bred-politisk-aftale-skal-kvalitetssikre-de-kunstneriske-uddannelser/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/16/e6e26/357935-w1000.jpg" alt="Bred politisk aftale skal kvalitetssikre de kunstneriske uddannelser" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Britney Spears varsler ny musik</title>
-    <link href="https://gaffa.dk/nyhed/153917/britney-spears-varsler-ny-musik/"/>
-    <updated>2021-12-23T09:30:00Z</updated>
-    <published>2021-12-23T09:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/153917/britney-spears-varsler-ny-musik/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153917/britney-spears-varsler-ny-musik/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/10/16/b8437/309131-w1000.jpg" alt="Britney Spears varsler ny musik" />
       </div>
     ]]>
     </content>
