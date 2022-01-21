@@ -32,7 +32,7 @@
     <![CDATA[
       <div>
         {%- if article.article_type == 'review' -%}
-          <p><b>{{ article.article_type | formatArticleType }}:</b> {{article.rating}} / 5 stjærner.</p>
+          <p><b>{{ article.article_type | formatArticleType }}:</b> {{article.rating}} / 6 stjerner.</p>
           <p>{{ article.artist }} - {{ article.title }}</p>
         {%- else -%}
           <p>{{ article.article_type | formatArticleType }}</p>
