@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-21T07:52:00Z</updated>
+  <updated>2022-01-21T09:03:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Meat Loaf er død</title>
+    <link href="https://gaffa.dk/nyhed/154366/meat-loaf-er-dod/"/>
+    <updated>2022-01-21T09:03:00Z</updated>
+    <published>2022-01-21T09:03:00Z</published>
+    <id>https://gaffa.dk/nyhed/154366/meat-loaf-er-dod/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154366/meat-loaf-er-dod/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2009/08/24/3d7f5/45677-w1000.jpg" alt="Meat Loaf er død" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Et overflødighedshorn af duetter </title>
@@ -25,6 +40,66 @@
   </entry>
   
   <entry>
+    <title>KLASSIKEREN FYLDER 20 ÅR: Da &quot;klynkerocken&quot; blev allemandseje i Danmark </title>
+    <link href="https://gaffa.dk/artikel/154378/klassikeren-fylder-20-ar-da-klynkerocken-blev-allemandseje-i-danmark/"/>
+    <updated>2022-01-21T13:30:00Z</updated>
+    <published>2022-01-21T13:30:00Z</published>
+    <id>https://gaffa.dk/artikel/154378/klassikeren-fylder-20-ar-da-klynkerocken-blev-allemandseje-i-danmark/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/154378/klassikeren-fylder-20-ar-da-klynkerocken-blev-allemandseje-i-danmark/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2022/01/21/0da6b/366478-w1000.jpg" alt="KLASSIKEREN FYLDER 20 ÅR: Da &quot;klynkerocken&quot; blev allemandseje i Danmark " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>VILD VIDEOTRAILER: Eminem, Snoop, Blige, Lamar og Dr. Dre varmer op til Super Bowl</title>
+    <link href="https://gaffa.dk/nyhed/154372/vild-videotrailer-eminem-snoop-blige-lamar-og-dr-dre-varmer-op-til-super-bowl/"/>
+    <updated>2022-01-21T10:30:00Z</updated>
+    <published>2022-01-21T10:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/154372/vild-videotrailer-eminem-snoop-blige-lamar-og-dr-dre-varmer-op-til-super-bowl/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154372/vild-videotrailer-eminem-snoop-blige-lamar-og-dr-dre-varmer-op-til-super-bowl/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/21/f4747/366474-w1000.png" alt="VILD VIDEOTRAILER: Eminem, Snoop, Blige, Lamar og Dr. Dre varmer op til Super Bowl" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Goss annoncerer nyt album – hør ny single</title>
+    <link href="https://gaffa.dk/nyhed/154233/goss-annoncerer-nyt-album-hor-ny-single/"/>
+    <updated>2022-01-21T09:15:00Z</updated>
+    <published>2022-01-21T09:15:00Z</published>
+    <id>https://gaffa.dk/nyhed/154233/goss-annoncerer-nyt-album-hor-ny-single/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154233/goss-annoncerer-nyt-album-hor-ny-single/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/14/93c76/366369-w1000.png" alt="Goss annoncerer nyt album – hør ny single" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Lise Westzynthius og prisbelønnet forfatter stifter musikkollektiv – se første video</title>
+    <link href="https://gaffa.dk/nyhed/154368/lise-westzynthius-og-prisbelonnet-forfatter-stifter-musikkollektiv-se-forste-video/"/>
+    <updated>2022-01-21T09:07:00Z</updated>
+    <published>2022-01-21T09:07:00Z</published>
+    <id>https://gaffa.dk/nyhed/154368/lise-westzynthius-og-prisbelonnet-forfatter-stifter-musikkollektiv-se-forste-video/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154368/lise-westzynthius-og-prisbelonnet-forfatter-stifter-musikkollektiv-se-forste-video/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/21/67aa5/366473-w1000.png" alt="Lise Westzynthius og prisbelønnet forfatter stifter musikkollektiv – se første video" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
     <title>Lord Siva slår sig sammen med dansk pop-ikon på ny single</title>
     <link href="https://gaffa.dk/nyhed/154357/lord-siva-slar-sig-sammen-med-dansk-pop-ikon-pa-ny-single/"/>
     <updated>2022-01-21T08:30:00Z</updated>
@@ -34,6 +109,21 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/154357/lord-siva-slar-sig-sammen-med-dansk-pop-ikon-pa-ny-single/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/05/26/1ab46/354495-w1000.jpg" alt="Lord Siva slår sig sammen med dansk pop-ikon på ny single" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>GRETA varmer op til næste album – hør ny single</title>
+    <link href="https://gaffa.dk/nyhed/154351/greta-varmer-op-til-naeste-album-hor-ny-single/"/>
+    <updated>2022-01-21T08:30:00Z</updated>
+    <published>2022-01-21T08:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/154351/greta-varmer-op-til-naeste-album-hor-ny-single/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154351/greta-varmer-op-til-naeste-album-hor-ny-single/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/07/2e716/366275-w1000.jpg" alt="GRETA varmer op til næste album – hør ny single" />
       </div>
     ]]>
     </content>
@@ -86,16 +176,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: Prisvindende stjernefrø indfrier forventningerne</title>
-    <link href="https://gaffa.dk/anmeldelse/154090/anmeldelse-prisvindende-stjernefro-indfrier-forventningerne/"/>
+    <title>Prisvindende stjernefrø indfrier forventningerne</title>
+    <link href="https://gaffa.dk/anmeldelse/154090/prisvindende-stjernefro-indfrier-forventningerne/"/>
     <updated>2022-01-21T00:00:00Z</updated>
     <published>2022-01-21T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/154090/anmeldelse-prisvindende-stjernefro-indfrier-forventningerne/</id>
+    <id>https://gaffa.dk/anmeldelse/154090/prisvindende-stjernefro-indfrier-forventningerne/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154090/anmeldelse-prisvindende-stjernefro-indfrier-forventningerne/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154090/prisvindende-stjernefro-indfrier-forventningerne/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Mekdes - Greedy</p><img src="https://static.gaffa.dk/images/2022/01/13/eea28/366335-w1000.jpg" alt="ANMELDELSE: Prisvindende stjernefrø indfrier forventningerne" />
+          <p>Mekdes - Greedy</p><img src="https://static.gaffa.dk/images/2022/01/13/eea28/366335-w1000.jpg" alt="Prisvindende stjernefrø indfrier forventningerne" />
       </div>
     ]]>
     </content>
@@ -2954,96 +3044,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/153956/portraet-patti-smith-fylder-75-ar/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/06/22/8011e/324496-w1000.jpg" alt="PORTRÆT: Patti Smith fylder 75 år" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Manager for Nicki Minaj og Kanye West myrdet - kæresten er arresteret og sigtet</title>
-    <link href="https://gaffa.dk/nyhed/153955/manager-for-nicki-minaj-og-kanye-west-myrdet-kaeresten-er-arresteret-og-sigtet/"/>
-    <updated>2021-12-30T11:45:00Z</updated>
-    <published>2021-12-30T11:45:00Z</published>
-    <id>https://gaffa.dk/nyhed/153955/manager-for-nicki-minaj-og-kanye-west-myrdet-kaeresten-er-arresteret-og-sigtet/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153955/manager-for-nicki-minaj-og-kanye-west-myrdet-kaeresten-er-arresteret-og-sigtet/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/08/21/a5f26/304918-w1000.png" alt="Manager for Nicki Minaj og Kanye West myrdet - kæresten er arresteret og sigtet" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Nyt headset drives af solen</title>
-    <link href="https://gaffa.dk/nyhed/153954/nyt-headset-drives-af-solen/"/>
-    <updated>2021-12-30T11:00:00Z</updated>
-    <published>2021-12-30T11:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153954/nyt-headset-drives-af-solen/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153954/nyt-headset-drives-af-solen/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/12/30/b3965/366155-w1000.jpg" alt="Nyt headset drives af solen" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>JD Sports afslører et stjernespækket lineup i sin julekampagne for ‘King of the Streets’</title>
-    <link href="https://gaffa.dk/nyhed/153040/jd-sports-afslorer-et-stjernespaekket-lineup-i-sin-julekampagne-for-king-of-the-streets/"/>
-    <updated>2021-12-30T10:00:00Z</updated>
-    <published>2021-12-30T10:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/153040/jd-sports-afslorer-et-stjernespaekket-lineup-i-sin-julekampagne-for-king-of-the-streets/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/153040/jd-sports-afslorer-et-stjernespaekket-lineup-i-sin-julekampagne-for-king-of-the-streets/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/11/18/3a9a7/364004-w1000.jpg" alt="JD Sports afslører et stjernespækket lineup i sin julekampagne for ‘King of the Streets’" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Ole Rosenstand Svidt</title>
-    <link href="https://gaffa.dk/artikel/153953/anmelderne-har-ordet-arets-20-bedste-album-ifolge-ole-rosenstand-svidt/"/>
-    <updated>2021-12-29T19:00:00Z</updated>
-    <published>2021-12-29T19:00:00Z</published>
-    <id>https://gaffa.dk/artikel/153953/anmelderne-har-ordet-arets-20-bedste-album-ifolge-ole-rosenstand-svidt/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153953/anmelderne-har-ordet-arets-20-bedste-album-ifolge-ole-rosenstand-svidt/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2017/02/04/68a9e/252777-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 20 bedste album ifølge Ole Rosenstand Svidt" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDERNE HAR ORDET: Årets bedste album ifølge Espen Strunk</title>
-    <link href="https://gaffa.dk/artikel/153950/anmelderne-har-ordet-arets-bedste-album-ifolge-espen-strunk/"/>
-    <updated>2021-12-29T15:00:00Z</updated>
-    <published>2021-12-29T15:00:00Z</published>
-    <id>https://gaffa.dk/artikel/153950/anmelderne-har-ordet-arets-bedste-album-ifolge-espen-strunk/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153950/anmelderne-har-ordet-arets-bedste-album-ifolge-espen-strunk/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/21/f9390/362360-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets bedste album ifølge Espen Strunk" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Mie Lykke Sørensen</title>
-    <link href="https://gaffa.dk/artikel/153885/anmelderne-har-ordet-arets-10-bedste-album-ifolge-mie-lykke-sorensen/"/>
-    <updated>2021-12-29T13:00:00Z</updated>
-    <published>2021-12-29T13:00:00Z</published>
-    <id>https://gaffa.dk/artikel/153885/anmelderne-har-ordet-arets-10-bedste-album-ifolge-mie-lykke-sorensen/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/153885/anmelderne-har-ordet-arets-10-bedste-album-ifolge-mie-lykke-sorensen/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/12/21/d00d4/366118-w1000.jpg" alt="ANMELDERNE HAR ORDET: Årets 10 bedste album ifølge Mie Lykke Sørensen" />
       </div>
     ]]>
     </content>
