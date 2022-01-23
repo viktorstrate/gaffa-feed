@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-22T14:42:00Z</updated>
+  <updated>2022-01-23T08:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>GUIDE: Bands der udgav ét fantastisk album, og så ikke mere </title>
+    <link href="https://gaffa.dk/artikel/154385/guide-bands-der-udgav-et-fantastisk-album-og-sa-ikke-mere/"/>
+    <updated>2022-01-23T08:00:00Z</updated>
+    <published>2022-01-23T08:00:00Z</published>
+    <id>https://gaffa.dk/artikel/154385/guide-bands-der-udgav-et-fantastisk-album-og-sa-ikke-mere/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/154385/guide-bands-der-udgav-et-fantastisk-album-og-sa-ikke-mere/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2010/07/02/3d7f5/57726-w1000.jpg" alt="GUIDE: Bands der udgav ét fantastisk album, og så ikke mere " />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Poul Krebs indstiller festivalkarrieren</title>
@@ -3033,22 +3048,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
           <p>Electric Guitars - Freewheeler</p><img src="https://static.gaffa.dk/images/2022/01/03/e2aa3/366171-w1000.jpeg" alt="Moderne Easy Riders vælter voksent rockalbum af sig" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDELSE: Skinger klaustrofobi med øer af skønhed</title>
-    <link href="https://gaffa.dk/anmeldelse/153991/anmeldelse-skinger-klaustrofobi-med-oer-af-skonhed/"/>
-    <updated>2022-01-03T00:27:00Z</updated>
-    <published>2022-01-03T00:27:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/153991/anmeldelse-skinger-klaustrofobi-med-oer-af-skonhed/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/153991/anmeldelse-skinger-klaustrofobi-med-oer-af-skonhed/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 6 stjerner.</p>
-          <p>Ea Wim - Bevægende stilstand</p><img src="https://static.gaffa.dk/images/2022/01/03/706e8/366186-w1000.jpg" alt="ANMELDELSE: Skinger klaustrofobi med øer af skønhed" />
       </div>
     ]]>
     </content>
