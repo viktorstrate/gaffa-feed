@@ -7,7 +7,7 @@ on:
 
   schedule:
     # Automatically update each day at 6:00 and 14:00 UTC
-    - cron: '0 06,14 * * *'
+    - cron: '0 06 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -36,7 +36,6 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: _site # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
