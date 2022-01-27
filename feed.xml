@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-01-26T10:00:00Z</updated>
+  <updated>2022-01-26T18:34:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Statsministeren: Corona-restriktioner er fortid på tirsdag</title>
+    <link href="https://gaffa.dk/nyhed/154487/statsministeren-corona-restriktioner-er-fortid-pa-tirsdag/"/>
+    <updated>2022-01-26T18:34:00Z</updated>
+    <published>2022-01-26T18:34:00Z</published>
+    <id>https://gaffa.dk/nyhed/154487/statsministeren-corona-restriktioner-er-fortid-pa-tirsdag/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/154487/statsministeren-corona-restriktioner-er-fortid-pa-tirsdag/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/03/22/852e7/352286-w1000.jpg" alt="Statsministeren: Corona-restriktioner er fortid på tirsdag" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>GAFFA-PRISEN 2022: Her er de første fire livenavne</title>
@@ -3032,21 +3047,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
           <p>TECH - Bowers &amp; Wilkins Zeppelin</p><img src="https://static.gaffa.dk/images/2022/01/06/4af23/366267-w1000.jpg" alt="ANMELDELSE: Spændende højttaler med fed lyd" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Bærbar underholdning freestyler</title>
-    <link href="https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/"/>
-    <updated>2022-01-06T15:00:00Z</updated>
-    <published>2022-01-06T15:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/154061/baerbar-underholdning-freestyler/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/06/f9d8c/366253-w1000.jpg" alt="Bærbar underholdning freestyler" />
       </div>
     ]]>
     </content>
