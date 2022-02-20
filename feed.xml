@@ -5,8 +5,23 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-02-18T13:45:00Z</updated>
+  <updated>2022-02-19T09:45:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>GUIDE: 11 musikdokumentarer, du SKAL se!</title>
+    <link href="https://gaffa.dk/artikel/154762/guide-11-musikdokumentarer-du-skal-se/"/>
+    <updated>2022-02-19T09:45:00Z</updated>
+    <published>2022-02-19T09:45:00Z</published>
+    <id>https://gaffa.dk/artikel/154762/guide-11-musikdokumentarer-du-skal-se/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/154762/guide-11-musikdokumentarer-du-skal-se/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2020/08/27/2a383/346641-w1000.jpg" alt="GUIDE: 11 musikdokumentarer, du SKAL se!" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>TRAILER: Se Austin Butler som Elvis Presley i ny Baz Luhrmann-film</title>
@@ -64,6 +79,22 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/155088/er-der-et-edm-talent-gemt-i-dig-sa-tjek-en-ny-talentkonkurrence/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/01/18/8d9fb/338779-w1000.jpg" alt="Er der et EDM-talent gemt i dig? Så tjek en ny talentkonkurrence" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Et rystende godt værk</title>
+    <link href="https://gaffa.dk/anmeldelse/155100/et-rystende-godt-vaerk/"/>
+    <updated>2022-02-18T16:30:00Z</updated>
+    <published>2022-02-18T16:30:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/155100/et-rystende-godt-vaerk/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155100/et-rystende-godt-vaerk/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 6 / 6 stjerner.</p>
+          <p>ARY - For evig</p><img src="https://static.gaffa.dk/images/2022/02/09/2cc2c/367143-w1000.jpg" alt="Et rystende godt værk" />
       </div>
     ]]>
     </content>
@@ -327,16 +358,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: Drømmepop på kosmisk himmelfart</title>
-    <link href="https://gaffa.dk/anmeldelse/155032/anmeldelse-drommepop-pa-kosmisk-himmelfart/"/>
+    <title>Drømmepop på kosmisk himmelfart</title>
+    <link href="https://gaffa.dk/anmeldelse/155032/drommepop-pa-kosmisk-himmelfart/"/>
     <updated>2022-02-18T00:00:00Z</updated>
     <published>2022-02-18T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155032/anmeldelse-drommepop-pa-kosmisk-himmelfart/</id>
+    <id>https://gaffa.dk/anmeldelse/155032/drommepop-pa-kosmisk-himmelfart/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155032/anmeldelse-drommepop-pa-kosmisk-himmelfart/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155032/drommepop-pa-kosmisk-himmelfart/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Beach House - Once Twice Melody</p><img src="https://static.gaffa.dk/images/2022/02/14/3e415/367392-w1000.png" alt="ANMELDELSE: Drømmepop på kosmisk himmelfart" />
+          <p>Beach House - Once Twice Melody</p><img src="https://static.gaffa.dk/images/2022/02/14/3e415/367392-w1000.png" alt="Drømmepop på kosmisk himmelfart" />
       </div>
     ]]>
     </content>
@@ -352,7 +383,7 @@
     <content type="html" xml:base="https://gaffa.dk/anmeldelse/154790/anmeldelse-nye-vinde-blaeser-over-ideen/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Verdens Sidste Idé - Strå</p><img src="https://static.gaffa.dk/images/2022/02/07/aa355/367095-w1000.jpg" alt="ANMELDELSE: Nye vinde blæser over idéen " />
+          <p>Verdens Sidste Idé - Strå</p><img src="https://static.gaffa.dk/images/2022/02/19/4724b/367585-w1000.jpg" alt="ANMELDELSE: Nye vinde blæser over idéen " />
       </div>
     ]]>
     </content>
@@ -550,22 +581,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
           <p>Kanye West - jeen-yuhs A Kanye Trilogy - act i: VISION</p><img src="https://static.gaffa.dk/images/2022/02/07/03c36/367089-w1000.png" alt="Kanyes første skridt" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDELSE: Et rystende godt værk</title>
-    <link href="https://gaffa.dk/anmeldelse/155100/anmeldelse-et-rystende-godt-vaerk/"/>
-    <updated>2022-02-16T16:30:00Z</updated>
-    <published>2022-02-16T16:30:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155100/anmeldelse-et-rystende-godt-vaerk/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155100/anmeldelse-et-rystende-godt-vaerk/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 6 / 6 stjerner.</p>
-          <p>ARY - For evig</p><img src="https://static.gaffa.dk/images/2022/02/09/2cc2c/367143-w1000.jpg" alt="ANMELDELSE: Et rystende godt værk" />
       </div>
     ]]>
     </content>
@@ -1089,16 +1104,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: Yung-sanger kommer ud i hjørnerne på solidt soloalbum</title>
-    <link href="https://gaffa.dk/anmeldelse/155005/anmeldelse-yung-sanger-kommer-ud-i-hjornerne-pa-solidt-soloalbum/"/>
+    <title>Yung-sanger kommer ud i hjørnerne på solidt soloalbum</title>
+    <link href="https://gaffa.dk/anmeldelse/155005/yung-sanger-kommer-ud-i-hjornerne-pa-solidt-soloalbum/"/>
     <updated>2022-02-13T10:25:00Z</updated>
     <published>2022-02-13T10:25:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155005/anmeldelse-yung-sanger-kommer-ud-i-hjornerne-pa-solidt-soloalbum/</id>
+    <id>https://gaffa.dk/anmeldelse/155005/yung-sanger-kommer-ud-i-hjornerne-pa-solidt-soloalbum/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155005/anmeldelse-yung-sanger-kommer-ud-i-hjornerne-pa-solidt-soloalbum/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155005/yung-sanger-kommer-ud-i-hjornerne-pa-solidt-soloalbum/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Holm - Why Don&#39;t You Dance</p><img src="https://static.gaffa.dk/images/2022/02/13/ecd76/367332-w1000.jpg" alt="ANMELDELSE: Yung-sanger kommer ud i hjørnerne på solidt soloalbum" />
+          <p>Holm - Why Don&#39;t You Dance</p><img src="https://static.gaffa.dk/images/2022/02/13/ecd76/367332-w1000.jpg" alt="Yung-sanger kommer ud i hjørnerne på solidt soloalbum" />
       </div>
     ]]>
     </content>
@@ -3043,22 +3058,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
           <p>Mitski - Laurel Hell</p><img src="https://static.gaffa.dk/images/2022/02/02/af60c/366798-w1000.jpg" alt="Et helt fint firserhelvede" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Hjerteknusende hitmager in spe går fra iPhone til studiet – og er stadig godt selskab</title>
-    <link href="https://gaffa.dk/anmeldelse/154601/hjerteknusende-hitmager-in-spe-gar-fra-iphone-til-studiet-og-er-stadig-godt-selskab/"/>
-    <updated>2022-02-04T00:00:00Z</updated>
-    <published>2022-02-04T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/154601/hjerteknusende-hitmager-in-spe-gar-fra-iphone-til-studiet-og-er-stadig-godt-selskab/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154601/hjerteknusende-hitmager-in-spe-gar-fra-iphone-til-studiet-og-er-stadig-godt-selskab/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Lukas Vanggaard - Natsværmeren &amp; sommerfuglen</p><img src="https://static.gaffa.dk/images/2022/01/31/66bfc/366756-w1000.png" alt="Hjerteknusende hitmager in spe går fra iPhone til studiet – og er stadig godt selskab" />
       </div>
     ]]>
     </content>
