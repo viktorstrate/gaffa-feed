@@ -5,8 +5,39 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-02-19T09:45:00Z</updated>
+  <updated>2022-02-20T09:14:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Patetisk koncertoplevelse med ekstremt lydniveau</title>
+    <link href="https://gaffa.dk/anmeldelse/155182/patetisk-koncertoplevelse-med-ekstremt-lydniveau/"/>
+    <updated>2022-02-20T09:14:00Z</updated>
+    <published>2022-02-20T09:14:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/155182/patetisk-koncertoplevelse-med-ekstremt-lydniveau/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155182/patetisk-koncertoplevelse-med-ekstremt-lydniveau/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 2 / 6 stjerner.</p>
+          <p>Malurt - MCH Herning Kongrescenter</p><img src="https://static.gaffa.dk/images/2020/02/28/ea10d/341955-w1000.jpg" alt="Patetisk koncertoplevelse med ekstremt lydniveau" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>GUIDE: Her er 17 mesterlige livealbum</title>
+    <link href="https://gaffa.dk/artikel/155181/guide-her-er-17-mesterlige-livealbum/"/>
+    <updated>2022-02-20T08:19:00Z</updated>
+    <published>2022-02-20T08:19:00Z</published>
+    <id>https://gaffa.dk/artikel/155181/guide-her-er-17-mesterlige-livealbum/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/155181/guide-her-er-17-mesterlige-livealbum/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/01/05/7a415/350624-w1000.jpg" alt="GUIDE: Her er 17 mesterlige livealbum" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>GUIDE: 11 musikdokumentarer, du SKAL se!</title>
@@ -268,15 +299,15 @@
   </entry>
   
   <entry>
-    <title>LYT: Ganger-sanger debuterer som soloartist </title>
-    <link href="https://gaffa.dk/nyhed/155156/lyt-ganger-sanger-debuterer-som-soloartist/"/>
+    <title>Ganger-sanger annoncerer solo-debutalbum – hør ny single</title>
+    <link href="https://gaffa.dk/nyhed/155156/ganger-sanger-annoncerer-solo-debutalbum-hor-ny-single/"/>
     <updated>2022-02-18T11:06:00Z</updated>
     <published>2022-02-18T11:06:00Z</published>
-    <id>https://gaffa.dk/nyhed/155156/lyt-ganger-sanger-debuterer-som-soloartist/</id>
+    <id>https://gaffa.dk/nyhed/155156/ganger-sanger-annoncerer-solo-debutalbum-hor-ny-single/</id>
     <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155156/lyt-ganger-sanger-debuterer-som-soloartist/">
+    <content type="html" xml:base="https://gaffa.dk/nyhed/155156/ganger-sanger-annoncerer-solo-debutalbum-hor-ny-single/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/02/18/4c6e9/367491-w1000.jpg" alt="LYT: Ganger-sanger debuterer som soloartist " />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/02/18/4c6e9/367491-w1000.jpg" alt="Ganger-sanger annoncerer solo-debutalbum – hør ny single" />
       </div>
     ]]>
     </content>
@@ -390,21 +421,6 @@
   </entry>
   
   <entry>
-    <title>MÅNEDENS SPILLESTED: Et helt unikt spillested på Amager fylder 25 år </title>
-    <link href="https://gaffa.dk/nyhed/155161/manedens-spillested-et-helt-unikt-spillested-pa-amager-fylder-25-ar/"/>
-    <updated>2022-02-18T11:44:00Z</updated>
-    <published>2022-02-18T11:44:00Z</published>
-    <id>https://gaffa.dk/nyhed/155161/manedens-spillested-et-helt-unikt-spillested-pa-amager-fylder-25-ar/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155161/manedens-spillested-et-helt-unikt-spillested-pa-amager-fylder-25-ar/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/02/09/6eaa8/367120-w1000.jpg" alt="MÅNEDENS SPILLESTED: Et helt unikt spillested på Amager fylder 25 år " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
     <title>ANMELDELSE: Saxofonisten åbner gaveskuffen, igen </title>
     <link href="https://gaffa.dk/anmeldelse/155179/anmeldelse-saxofonisten-abner-gaveskuffen-igen/"/>
     <updated>2022-02-18T19:54:00Z</updated>
@@ -415,6 +431,21 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
           <p>Bévort 3 - Live 2020-2021</p><img src="https://static.gaffa.dk/images/2022/02/18/b9aec/367525-w1000.jpg" alt="ANMELDELSE: Saxofonisten åbner gaveskuffen, igen " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>MÅNEDENS SPILLESTED: Et helt unikt spillested på Amager fylder 25 år </title>
+    <link href="https://gaffa.dk/nyhed/155161/manedens-spillested-et-helt-unikt-spillested-pa-amager-fylder-25-ar/"/>
+    <updated>2022-02-18T11:44:00Z</updated>
+    <published>2022-02-18T11:44:00Z</published>
+    <id>https://gaffa.dk/nyhed/155161/manedens-spillested-et-helt-unikt-spillested-pa-amager-fylder-25-ar/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/155161/manedens-spillested-et-helt-unikt-spillested-pa-amager-fylder-25-ar/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/02/09/6eaa8/367120-w1000.jpg" alt="MÅNEDENS SPILLESTED: Et helt unikt spillested på Amager fylder 25 år " />
       </div>
     ]]>
     </content>
@@ -3027,37 +3058,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
           <p>GRETA - Forever We&#39;ll Be Dancing </p><img src="https://static.gaffa.dk/images/2022/02/10/88e3f/367181-w1000.jpg" alt="Den euforiske eskapisme i en nat på dansegulvet" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>GAFFA-PRISEN 2022: Nu er det absolut sidste chance for at stemme</title>
-    <link href="https://gaffa.dk/nyhed/154754/gaffa-prisen-2022-nu-er-det-absolut-sidste-chance-for-at-stemme/"/>
-    <updated>2022-02-04T12:30:00Z</updated>
-    <published>2022-02-04T12:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/154754/gaffa-prisen-2022-nu-er-det-absolut-sidste-chance-for-at-stemme/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/154754/gaffa-prisen-2022-nu-er-det-absolut-sidste-chance-for-at-stemme/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/01/17/1c732/366395-w1000.jpg" alt="GAFFA-PRISEN 2022: Nu er det absolut sidste chance for at stemme" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Et helt fint firserhelvede</title>
-    <link href="https://gaffa.dk/anmeldelse/154704/et-helt-fint-firserhelvede/"/>
-    <updated>2022-02-04T00:00:00Z</updated>
-    <published>2022-02-04T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/154704/et-helt-fint-firserhelvede/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154704/et-helt-fint-firserhelvede/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Mitski - Laurel Hell</p><img src="https://static.gaffa.dk/images/2022/02/02/af60c/366798-w1000.jpg" alt="Et helt fint firserhelvede" />
       </div>
     ]]>
     </content>
