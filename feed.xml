@@ -5,8 +5,86 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-03-18T13:00:00Z</updated>
+  <updated>2022-03-19T10:00:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Mina Okabe drager på turné</title>
+    <link href="https://gaffa.dk/nyhed/155870/mina-okabe-drager-pa-turne/"/>
+    <updated>2022-03-19T10:00:00Z</updated>
+    <published>2022-03-19T10:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/155870/mina-okabe-drager-pa-turne/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/155870/mina-okabe-drager-pa-turne/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/18/616ed/368983-w1000.JPG" alt="Mina Okabe drager på turné" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>GHOST-INTERVIEW: ”Jeg lytter med så rene ører som muligt”</title>
+    <link href="https://gaffa.dk/artikel/155829/ghost-interview-jeg-lytter-med-sa-rene-orer-som-muligt/"/>
+    <updated>2022-03-19T08:00:00Z</updated>
+    <published>2022-03-19T08:00:00Z</published>
+    <id>https://gaffa.dk/artikel/155829/ghost-interview-jeg-lytter-med-sa-rene-orer-som-muligt/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/155829/ghost-interview-jeg-lytter-med-sa-rene-orer-som-muligt/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2022/03/17/6a1c9/368929-w1000.jpg" alt="GHOST-INTERVIEW: ”Jeg lytter med så rene ører som muligt”" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Klassisk black metal, der ikke vil skuffe fans</title>
+    <link href="https://gaffa.dk/anmeldelse/155887/klassisk-black-metal-der-ikke-vil-skuffe-fans/"/>
+    <updated>2022-03-19T14:52:00Z</updated>
+    <published>2022-03-19T14:52:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/155887/klassisk-black-metal-der-ikke-vil-skuffe-fans/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155887/klassisk-black-metal-der-ikke-vil-skuffe-fans/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
+          <p>Dark Funeral - We Are the Apocalypse</p><img src="https://static.gaffa.dk/images/2022/01/18/bf71a/366414-w1000.jpg" alt="Klassisk black metal, der ikke vil skuffe fans" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Gedigent håndværk bag moden debut</title>
+    <link href="https://gaffa.dk/anmeldelse/155889/anmeldelse-gedigent-handvaerk-bag-moden-debut/"/>
+    <updated>2022-03-19T11:03:00Z</updated>
+    <published>2022-03-19T11:03:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/155889/anmeldelse-gedigent-handvaerk-bag-moden-debut/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155889/anmeldelse-gedigent-handvaerk-bag-moden-debut/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
+          <p>LineMarianne - Traveller</p><img src="https://static.gaffa.dk/images/2022/03/19/7ed85/369016-w1000.jpg" alt="ANMELDELSE: Gedigent håndværk bag moden debut" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Stor lyd på ny svensk plade</title>
+    <link href="https://gaffa.dk/anmeldelse/155888/anmeldelse-stor-lyd-pa-ny-svensk-plade/"/>
+    <updated>2022-03-19T10:38:00Z</updated>
+    <published>2022-03-19T10:38:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/155888/anmeldelse-stor-lyd-pa-ny-svensk-plade/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155888/anmeldelse-stor-lyd-pa-ny-svensk-plade/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
+          <p>Jacob Karlzon Trio - Wanderlust</p><img src="https://static.gaffa.dk/images/2022/03/19/d5290/369015-w1000.jpg" alt="ANMELDELSE: Stor lyd på ny svensk plade" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Træt af den evige jagt på ny musik? Så tjek GAFFAs Old Music Friday-playliste</title>
@@ -69,16 +147,16 @@
   </entry>
   
   <entry>
-    <title>ANMELDELSE: Snap! Crack! Pop!</title>
-    <link href="https://gaffa.dk/anmeldelse/155876/anmeldelse-snap-crack-pop/"/>
+    <title>Snap! Crack! Pop!</title>
+    <link href="https://gaffa.dk/anmeldelse/155876/snap-crack-pop/"/>
     <updated>2022-03-18T15:00:00Z</updated>
     <published>2022-03-18T15:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155876/anmeldelse-snap-crack-pop/</id>
+    <id>https://gaffa.dk/anmeldelse/155876/snap-crack-pop/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155876/anmeldelse-snap-crack-pop/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155876/snap-crack-pop/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Charli XCX - Crack</p><img src="https://static.gaffa.dk/images/2022/03/18/dca65/368977-w1000.jpeg" alt="ANMELDELSE: Snap! Crack! Pop!" />
+          <p>Charli XCX - Crack</p><img src="https://static.gaffa.dk/images/2022/03/18/dca65/368977-w1000.jpeg" alt="Snap! Crack! Pop!" />
       </div>
     ]]>
     </content>
@@ -94,6 +172,22 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/155872/nancy-pelosi-laeser-digt-op-om-ukraine-krigen-skrevet-af-bono/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/18/3a5b0/368984-w1000.JPG" alt="Nancy Pelosi læser digt op om Ukraine-krigen – skrevet af Bono" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Langstrakt dokumentar kommer aldrig for alvor i dybden</title>
+    <link href="https://gaffa.dk/anmeldelse/155865/anmeldelse-langstrakt-dokumentar-kommer-aldrig-for-alvor-i-dybden/"/>
+    <updated>2022-03-18T12:01:00Z</updated>
+    <published>2022-03-18T12:01:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/155865/anmeldelse-langstrakt-dokumentar-kommer-aldrig-for-alvor-i-dybden/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155865/anmeldelse-langstrakt-dokumentar-kommer-aldrig-for-alvor-i-dybden/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 3 / 6 stjerner.</p>
+          <p>Benjamin Hirsch - Janet Jackson</p><img src="https://static.gaffa.dk/images/2022/03/18/08505/368979-w1000.jpg" alt="ANMELDELSE: Langstrakt dokumentar kommer aldrig for alvor i dybden" />
       </div>
     ]]>
     </content>
@@ -255,32 +349,16 @@
   </entry>
   
   <entry>
-    <title>Britisk årgangsvin i musikalsk form  </title>
-    <link href="https://gaffa.dk/anmeldelse/155867/britisk-argangsvin-i-musikalsk-form/"/>
+    <title>ANMELDELSE: Britisk årgangsvin i musikalsk form  </title>
+    <link href="https://gaffa.dk/anmeldelse/155867/anmeldelse-britisk-argangsvin-i-musikalsk-form/"/>
     <updated>2022-03-18T15:45:00Z</updated>
     <published>2022-03-18T15:45:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155867/britisk-argangsvin-i-musikalsk-form/</id>
+    <id>https://gaffa.dk/anmeldelse/155867/anmeldelse-britisk-argangsvin-i-musikalsk-form/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155867/britisk-argangsvin-i-musikalsk-form/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155867/anmeldelse-britisk-argangsvin-i-musikalsk-form/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
-          <p>Marillion - An Hour Before It&#39;s Dark</p><img src="https://static.gaffa.dk/images/2022/03/17/29539/368897-w1000.jpg" alt="Britisk årgangsvin i musikalsk form  " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDELSE: Langstrakt dokumentar kommer aldrig for alvor i dybden</title>
-    <link href="https://gaffa.dk/anmeldelse/155865/anmeldelse-langstrakt-dokumentar-kommer-aldrig-for-alvor-i-dybden/"/>
-    <updated>2022-03-18T12:01:00Z</updated>
-    <published>2022-03-18T12:01:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155865/anmeldelse-langstrakt-dokumentar-kommer-aldrig-for-alvor-i-dybden/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155865/anmeldelse-langstrakt-dokumentar-kommer-aldrig-for-alvor-i-dybden/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 6 stjerner.</p>
-          <p>Benjamin Hirsch - Janet Jackson</p><img src="https://static.gaffa.dk/images/2022/03/18/08505/368979-w1000.jpg" alt="ANMELDELSE: Langstrakt dokumentar kommer aldrig for alvor i dybden" />
+          <p>Marillion - An Hour Before It&#39;s Dark</p><img src="https://static.gaffa.dk/images/2022/03/17/29539/368897-w1000.jpg" alt="ANMELDELSE: Britisk årgangsvin i musikalsk form  " />
       </div>
     ]]>
     </content>
@@ -464,21 +542,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/155827/kanye-west-midlertidigt-udelukket-fra-instagram/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/05/01/ebe2a/292082-w1000.png" alt="Kanye West midlertidigt udelukket fra Instagram" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>GHOST-INTERVIEW: ”Jeg lytter med så rene ører som muligt”</title>
-    <link href="https://gaffa.dk/artikel/155829/ghost-interview-jeg-lytter-med-sa-rene-orer-som-muligt/"/>
-    <updated>2022-03-17T13:24:00Z</updated>
-    <published>2022-03-17T13:24:00Z</published>
-    <id>https://gaffa.dk/artikel/155829/ghost-interview-jeg-lytter-med-sa-rene-orer-som-muligt/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/155829/ghost-interview-jeg-lytter-med-sa-rene-orer-som-muligt/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2022/03/17/6a1c9/368929-w1000.jpg" alt="GHOST-INTERVIEW: ”Jeg lytter med så rene ører som muligt”" />
       </div>
     ]]>
     </content>
@@ -2991,66 +3054,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 3 / 6 stjerner.</p>
           <p>Band of Horses - Things Are Great</p><img src="https://static.gaffa.dk/images/2022/01/16/1ae4c/366377-w1000.jpg" alt="ANMELDELSE: Brodfri skryden fra indierockens pionertravere" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Kevin Morby giver sensommerkoncert i København</title>
-    <link href="https://gaffa.dk/nyhed/155463/kevin-morby-giver-sensommerkoncert-i-kobenhavn/"/>
-    <updated>2022-03-03T16:04:00Z</updated>
-    <published>2022-03-03T16:04:00Z</published>
-    <id>https://gaffa.dk/nyhed/155463/kevin-morby-giver-sensommerkoncert-i-kobenhavn/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155463/kevin-morby-giver-sensommerkoncert-i-kobenhavn/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/06/23/c0682/324818-w1000.jpg" alt="Kevin Morby giver sensommerkoncert i København" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Testament får ny trommeslager – tidligere medlem af Slayer</title>
-    <link href="https://gaffa.dk/nyhed/155460/testament-far-ny-trommeslager-tidligere-medlem-af-slayer/"/>
-    <updated>2022-03-03T15:24:00Z</updated>
-    <published>2022-03-03T15:24:00Z</published>
-    <id>https://gaffa.dk/nyhed/155460/testament-far-ny-trommeslager-tidligere-medlem-af-slayer/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155460/testament-far-ny-trommeslager-tidligere-medlem-af-slayer/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/07/04/ae4be/327005-w1000.jpg" alt="Testament får ny trommeslager – tidligere medlem af Slayer" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>DR og TV 2 går sammen om støttekoncert for ofrene i Ukraine</title>
-    <link href="https://gaffa.dk/nyhed/155459/dr-og-tv-2-gar-sammen-om-stottekoncert-for-ofrene-i-ukraine/"/>
-    <updated>2022-03-03T15:24:00Z</updated>
-    <published>2022-03-03T15:24:00Z</published>
-    <id>https://gaffa.dk/nyhed/155459/dr-og-tv-2-gar-sammen-om-stottekoncert-for-ofrene-i-ukraine/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155459/dr-og-tv-2-gar-sammen-om-stottekoncert-for-ofrene-i-ukraine/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/03/9eb59/367964-w1000.jpg" alt="DR og TV 2 går sammen om støttekoncert for ofrene i Ukraine" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Rust får luftforandring: Spillested åbner med fornyet facade, interiør og indeklima</title>
-    <link href="https://gaffa.dk/nyhed/155457/rust-far-luftforandring-spillested-abner-med-fornyet-facade-interior-og-indeklima/"/>
-    <updated>2022-03-03T14:44:00Z</updated>
-    <published>2022-03-03T14:44:00Z</published>
-    <id>https://gaffa.dk/nyhed/155457/rust-far-luftforandring-spillested-abner-med-fornyet-facade-interior-og-indeklima/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155457/rust-far-luftforandring-spillested-abner-med-fornyet-facade-interior-og-indeklima/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/03/ef938/367962-w1000.jpg" alt="Rust får luftforandring: Spillested åbner med fornyet facade, interiør og indeklima" />
       </div>
     ]]>
     </content>
