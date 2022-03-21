@@ -5,8 +5,40 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-03-19T10:00:00Z</updated>
+  <updated>2022-03-20T08:18:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Ekstremsport for herrevokal</title>
+    <link href="https://gaffa.dk/anmeldelse/155890/ekstremsport-for-herrevokal/"/>
+    <updated>2022-03-20T08:18:00Z</updated>
+    <published>2022-03-20T08:18:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/155890/ekstremsport-for-herrevokal/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155890/ekstremsport-for-herrevokal/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
+          <p>Rufus Wainwright - Konservatoriets Koncertsal, København</p><img src="https://static.gaffa.dk/images/2022/03/20/f7bba/369062-w1000.jpg" alt="Ekstremsport for herrevokal" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Who cares indeed?</title>
+    <link href="https://gaffa.dk/anmeldelse/155891/anmeldelse-who-cares-indeed/"/>
+    <updated>2022-03-20T13:00:00Z</updated>
+    <published>2022-03-20T13:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/155891/anmeldelse-who-cares-indeed/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155891/anmeldelse-who-cares-indeed/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 3 / 6 stjerner.</p>
+          <p>Rex Orange County - WHO CARES?</p><img src="https://static.gaffa.dk/images/2022/03/20/e9173/369064-w1000.png" alt="ANMELDELSE: Who cares indeed?" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Mina Okabe drager på turné</title>
@@ -3022,38 +3054,6 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
           <p>Andreas Odbjerg - Hjem fra fabrikken</p><img src="https://static.gaffa.dk/images/2022/03/02/cfddb/367906-w1000.jpg" alt="En Larsen for Instagram-generationen " />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDELSE: Længe ventet album fra Stromae er både svært og hyggeligt</title>
-    <link href="https://gaffa.dk/anmeldelse/155400/anmeldelse-laenge-ventet-album-fra-stromae-er-bade-svaert-og-hyggeligt/"/>
-    <updated>2022-03-04T00:00:00Z</updated>
-    <published>2022-03-04T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155400/anmeldelse-laenge-ventet-album-fra-stromae-er-bade-svaert-og-hyggeligt/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155400/anmeldelse-laenge-ventet-album-fra-stromae-er-bade-svaert-og-hyggeligt/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Stromae - Multitude</p><img src="https://static.gaffa.dk/images/2022/03/02/988df/367901-w1000.jpg" alt="ANMELDELSE: Længe ventet album fra Stromae er både svært og hyggeligt" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>ANMELDELSE: Brodfri skryden fra indierockens pionertravere</title>
-    <link href="https://gaffa.dk/anmeldelse/154097/anmeldelse-brodfri-skryden-fra-indierockens-pionertravere/"/>
-    <updated>2022-03-04T00:00:00Z</updated>
-    <published>2022-03-04T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/154097/anmeldelse-brodfri-skryden-fra-indierockens-pionertravere/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154097/anmeldelse-brodfri-skryden-fra-indierockens-pionertravere/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 6 stjerner.</p>
-          <p>Band of Horses - Things Are Great</p><img src="https://static.gaffa.dk/images/2022/01/16/1ae4c/366377-w1000.jpg" alt="ANMELDELSE: Brodfri skryden fra indierockens pionertravere" />
       </div>
     ]]>
     </content>
