@@ -5,8 +5,24 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-03-26T06:59:00Z</updated>
+  <updated>2022-03-27T00:50:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>ANMELDELSE: Fra funk til følsomhed </title>
+    <link href="https://gaffa.dk/anmeldelse/156078/anmeldelse-fra-funk-til-folsomhed/"/>
+    <updated>2022-03-27T00:50:00Z</updated>
+    <published>2022-03-27T00:50:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/156078/anmeldelse-fra-funk-til-folsomhed/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/156078/anmeldelse-fra-funk-til-folsomhed/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
+          <p>Joan As Police Woman - VoxHall, Aarhus</p><img src="https://static.gaffa.dk/images/2022/03/26/1e08f/369276-w1000.jpg" alt="ANMELDELSE: Fra funk til følsomhed " />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Foo Fighters-trommeslager Taylor Hawkins er død</title>
@@ -17,7 +33,23 @@
     <category term="news" label="Nyhed"/>
     <content type="html" xml:base="https://gaffa.dk/nyhed/156070/foo-fighters-trommeslager-taylor-hawkins-er-dod/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/11/14/78544/336220-w1000.jpg" alt="Foo Fighters-trommeslager Taylor Hawkins er død" />
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/06/30/a99d7/325930-w1000.jpg" alt="Foo Fighters-trommeslager Taylor Hawkins er død" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Psyched Up i provinsen</title>
+    <link href="https://gaffa.dk/anmeldelse/156071/psyched-up-i-provinsen/"/>
+    <updated>2022-03-26T08:17:00Z</updated>
+    <published>2022-03-26T08:17:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/156071/psyched-up-i-provinsen/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/156071/psyched-up-i-provinsen/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
+          <p>Psyched Up Janis med Simon Beck - Turbinen, Randers</p><img src="https://static.gaffa.dk/images/2022/03/26/6b376/369255-w1000.jpg" alt="Psyched Up i provinsen" />
       </div>
     ]]>
     </content>
@@ -3028,36 +3060,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/155661/nashville-nights-afslorer-nye-danske-og-internationale-tilfojelser-til-festivalplakaten/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/09/05/989c8/346927-w1000.jpg" alt="Nashville Nights afslører nye danske og internationale tilføjelser til festivalplakaten" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Distortion introducerer nyt koncept for gadefester</title>
-    <link href="https://gaffa.dk/nyhed/155660/distortion-introducerer-nyt-koncept-for-gadefester/"/>
-    <updated>2022-03-10T15:00:00Z</updated>
-    <published>2022-03-10T15:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/155660/distortion-introducerer-nyt-koncept-for-gadefester/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155660/distortion-introducerer-nyt-koncept-for-gadefester/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/05/31/c1384/321445-w1000.jpg" alt="Distortion introducerer nyt koncept for gadefester" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>GAFFA-Prisen-vinder Andreas Odbjerg: ”Der er sgu langt fra James Brown til Andreas Odbjerg”</title>
-    <link href="https://gaffa.dk/artikel/155657/gaffa-prisen-vinder-andreas-odbjerg-der-er-sgu-langt-fra-james-brown-til-andreas-odbjerg/"/>
-    <updated>2022-03-10T14:14:00Z</updated>
-    <published>2022-03-10T14:14:00Z</published>
-    <id>https://gaffa.dk/artikel/155657/gaffa-prisen-vinder-andreas-odbjerg-der-er-sgu-langt-fra-james-brown-til-andreas-odbjerg/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/155657/gaffa-prisen-vinder-andreas-odbjerg-der-er-sgu-langt-fra-james-brown-til-andreas-odbjerg/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2022/03/04/bdd9e/368106-w1000.jpg" alt="GAFFA-Prisen-vinder Andreas Odbjerg: ”Der er sgu langt fra James Brown til Andreas Odbjerg”" />
       </div>
     ]]>
     </content>
