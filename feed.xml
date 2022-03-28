@@ -5,20 +5,81 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-03-27T00:50:00Z</updated>
+  <updated>2022-03-28T07:45:00Z</updated>
   <id>https://gaffa.dk/</id>
   
   <entry>
-    <title>ANMELDELSE: Fra funk til følsomhed </title>
-    <link href="https://gaffa.dk/anmeldelse/156078/anmeldelse-fra-funk-til-folsomhed/"/>
-    <updated>2022-03-27T00:50:00Z</updated>
-    <published>2022-03-27T00:50:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/156078/anmeldelse-fra-funk-til-folsomhed/</id>
+    <title>Se Beyoncés storslåede Oscar-optræden</title>
+    <link href="https://gaffa.dk/nyhed/156088/se-beyonces-storslaede-oscar-optraeden/"/>
+    <updated>2022-03-28T07:45:00Z</updated>
+    <published>2022-03-28T07:45:00Z</published>
+    <id>https://gaffa.dk/nyhed/156088/se-beyonces-storslaede-oscar-optraeden/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156088/se-beyonces-storslaede-oscar-optraeden/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/28/68d9b/369333-w1000.png" alt="Se Beyoncés storslåede Oscar-optræden" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>KLASSIKEREN: Da indiekongen erklærede dronningens død</title>
+    <link href="https://gaffa.dk/artikel/151237/klassikeren-da-indiekongen-erklaerede-dronningens-dod/"/>
+    <updated>2022-03-28T07:00:00Z</updated>
+    <published>2022-03-28T07:00:00Z</published>
+    <id>https://gaffa.dk/artikel/151237/klassikeren-da-indiekongen-erklaerede-dronningens-dod/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/151237/klassikeren-da-indiekongen-erklaerede-dronningens-dod/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2013/10/23/dda97/137188-w1000.jpeg" alt="KLASSIKEREN: Da indiekongen erklærede dronningens død" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Retsmediciner: Taylor Hawkins havde ti stoffer i systemet</title>
+    <link href="https://gaffa.dk/nyhed/156080/retsmediciner-taylor-hawkins-havde-ti-stoffer-i-systemet/"/>
+    <updated>2022-03-27T10:04:00Z</updated>
+    <published>2022-03-27T10:04:00Z</published>
+    <id>https://gaffa.dk/nyhed/156080/retsmediciner-taylor-hawkins-havde-ti-stoffer-i-systemet/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156080/retsmediciner-taylor-hawkins-havde-ti-stoffer-i-systemet/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/11/14/6e0d9/336221-w1000.jpg" alt="Retsmediciner: Taylor Hawkins havde ti stoffer i systemet" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Lav sol og højt musikalsk niveau over Aarhus midtby</title>
+    <link href="https://gaffa.dk/anmeldelse/156079/lav-sol-og-hojt-musikalsk-niveau-over-aarhus-midtby/"/>
+    <updated>2022-03-27T09:26:00Z</updated>
+    <published>2022-03-27T09:26:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/156079/lav-sol-og-hojt-musikalsk-niveau-over-aarhus-midtby/</id>
     <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/156078/anmeldelse-fra-funk-til-folsomhed/">
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/156079/lav-sol-og-hojt-musikalsk-niveau-over-aarhus-midtby/">
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Joan As Police Woman - VoxHall, Aarhus</p><img src="https://static.gaffa.dk/images/2022/03/26/1e08f/369276-w1000.jpg" alt="ANMELDELSE: Fra funk til følsomhed " />
+          <p>Diverse kunstnere - Åbningskoncert, Music City Aarhus 2022, Store Torv</p><img src="https://static.gaffa.dk/images/2022/03/27/9c457/369301-w1000.jpg" alt="Lav sol og højt musikalsk niveau over Aarhus midtby" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Fra funk til følsomhed </title>
+    <link href="https://gaffa.dk/anmeldelse/156078/fra-funk-til-folsomhed/"/>
+    <updated>2022-03-27T00:50:00Z</updated>
+    <published>2022-03-27T00:50:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/156078/fra-funk-til-folsomhed/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/156078/fra-funk-til-folsomhed/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
+          <p>Joan As Police Woman - VoxHall, Aarhus</p><img src="https://static.gaffa.dk/images/2022/03/26/1e08f/369276-w1000.jpg" alt="Fra funk til følsomhed " />
       </div>
     ]]>
     </content>
@@ -3000,66 +3061,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/155668/queer-music-agency-klar-til-at-afholde-forste-koncert/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/08/04/d87e8/357354-w1000.jpeg" alt="Queer Music Agency klar til at afholde første koncert" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>En lille piges sang i krisecenter går viralt – Disney-skuespiller reagerer</title>
-    <link href="https://gaffa.dk/nyhed/155665/en-lille-piges-sang-i-krisecenter-gar-viralt-disney-skuespiller-reagerer/"/>
-    <updated>2022-03-10T15:45:00Z</updated>
-    <published>2022-03-10T15:45:00Z</published>
-    <id>https://gaffa.dk/nyhed/155665/en-lille-piges-sang-i-krisecenter-gar-viralt-disney-skuespiller-reagerer/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155665/en-lille-piges-sang-i-krisecenter-gar-viralt-disney-skuespiller-reagerer/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/10/23028/368459-w1000.jpg" alt="En lille piges sang i krisecenter går viralt – Disney-skuespiller reagerer" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>GAFFA-Prisen-vinder Benjamin Hav: &quot;Det er en skamplet, at jeg har fået den her pris&quot;</title>
-    <link href="https://gaffa.dk/artikel/155666/gaffa-prisen-vinder-benjamin-hav-det-er-en-skamplet-at-jeg-har-faet-den-her-pris/"/>
-    <updated>2022-03-10T15:23:00Z</updated>
-    <published>2022-03-10T15:23:00Z</published>
-    <id>https://gaffa.dk/artikel/155666/gaffa-prisen-vinder-benjamin-hav-det-er-en-skamplet-at-jeg-har-faet-den-her-pris/</id>
-    <category term="article" label="Artikel"/>
-    <content type="html" xml:base="https://gaffa.dk/artikel/155666/gaffa-prisen-vinder-benjamin-hav-det-er-en-skamplet-at-jeg-har-faet-den-her-pris/">
-    <![CDATA[
-      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2021/10/16/097b8/362147-w1000.jpg" alt="GAFFA-Prisen-vinder Benjamin Hav: &quot;Det er en skamplet, at jeg har fået den her pris&quot;" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Bruce Springsteen og E Street Band planlægger tour</title>
-    <link href="https://gaffa.dk/nyhed/155664/bruce-springsteen-og-e-street-band-planlaegger-tour/"/>
-    <updated>2022-03-10T15:20:00Z</updated>
-    <published>2022-03-10T15:20:00Z</published>
-    <id>https://gaffa.dk/nyhed/155664/bruce-springsteen-og-e-street-band-planlaegger-tour/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155664/bruce-springsteen-og-e-street-band-planlaegger-tour/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2016/07/28/fa48a/233275-w1000.jpg" alt="Bruce Springsteen og E Street Band planlægger tour" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Nashville Nights afslører nye danske og internationale tilføjelser til festivalplakaten</title>
-    <link href="https://gaffa.dk/nyhed/155661/nashville-nights-afslorer-nye-danske-og-internationale-tilfojelser-til-festivalplakaten/"/>
-    <updated>2022-03-10T15:00:00Z</updated>
-    <published>2022-03-10T15:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/155661/nashville-nights-afslorer-nye-danske-og-internationale-tilfojelser-til-festivalplakaten/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155661/nashville-nights-afslorer-nye-danske-og-internationale-tilfojelser-til-festivalplakaten/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/09/05/989c8/346927-w1000.jpg" alt="Nashville Nights afslører nye danske og internationale tilføjelser til festivalplakaten" />
       </div>
     ]]>
     </content>
