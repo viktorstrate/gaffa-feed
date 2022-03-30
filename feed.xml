@@ -5,8 +5,98 @@
   <link href="https://viktorstrate.github.io/gaffa-feed/feed.xml" rel="self"/>
   <link href="https://gaffa.dk/"/>
   <rights>Copyright Gaffa.dk - all rights reserved</rights>
-  <updated>2022-03-29T07:00:00Z</updated>
+  <updated>2022-03-30T07:30:00Z</updated>
   <id>https://gaffa.dk/</id>
+  
+  <entry>
+    <title>Foo Fighters aflyser alle koncerter efter Taylor Hawkins&#39; død</title>
+    <link href="https://gaffa.dk/nyhed/156150/foo-fighters-aflyser-alle-koncerter-efter-taylor-hawkins-dod/"/>
+    <updated>2022-03-30T07:30:00Z</updated>
+    <published>2022-03-30T07:30:00Z</published>
+    <id>https://gaffa.dk/nyhed/156150/foo-fighters-aflyser-alle-koncerter-efter-taylor-hawkins-dod/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156150/foo-fighters-aflyser-alle-koncerter-efter-taylor-hawkins-dod/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/02/17/8e9f7/351366-w1000.png" alt="Foo Fighters aflyser alle koncerter efter Taylor Hawkins&#39; død" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Angel Olsen kommer til Danmark</title>
+    <link href="https://gaffa.dk/nyhed/156137/angel-olsen-kommer-til-danmark/"/>
+    <updated>2022-03-29T18:00:00Z</updated>
+    <published>2022-03-29T18:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/156137/angel-olsen-kommer-til-danmark/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156137/angel-olsen-kommer-til-danmark/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2020/01/31/16685/339654-w1000.jpg" alt="Angel Olsen kommer til Danmark" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>KOMMENTAR: Taylor Hawkins var symbol på det absolutte drømmeliv</title>
+    <link href="https://gaffa.dk/artikel/156143/kommentar-taylor-hawkins-var-symbol-pa-det-absolutte-drommeliv/"/>
+    <updated>2022-03-29T16:00:00Z</updated>
+    <published>2022-03-29T16:00:00Z</published>
+    <id>https://gaffa.dk/artikel/156143/kommentar-taylor-hawkins-var-symbol-pa-det-absolutte-drommeliv/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/156143/kommentar-taylor-hawkins-var-symbol-pa-det-absolutte-drommeliv/">
+    <![CDATA[
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2022/03/28/fda10/369405-w1000.jpg" alt="KOMMENTAR: Taylor Hawkins var symbol på det absolutte drømmeliv" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Ny sensommerfestival i København</title>
+    <link href="https://gaffa.dk/nyhed/156135/ny-sensommerfestival-i-kobenhavn/"/>
+    <updated>2022-03-29T14:29:00Z</updated>
+    <published>2022-03-29T14:29:00Z</published>
+    <id>https://gaffa.dk/nyhed/156135/ny-sensommerfestival-i-kobenhavn/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156135/ny-sensommerfestival-i-kobenhavn/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2018/09/02/b1154/306235-w1000.jpg" alt="Ny sensommerfestival i København" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Svensk festival i København aflyser på grund af russisk invasion </title>
+    <link href="https://gaffa.dk/nyhed/156134/svensk-festival-i-kobenhavn-aflyser-pa-grund-af-russisk-invasion/"/>
+    <updated>2022-03-29T13:06:00Z</updated>
+    <published>2022-03-29T13:06:00Z</published>
+    <id>https://gaffa.dk/nyhed/156134/svensk-festival-i-kobenhavn-aflyser-pa-grund-af-russisk-invasion/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156134/svensk-festival-i-kobenhavn-aflyser-pa-grund-af-russisk-invasion/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2011/08/07/7b0af/78485-w1000.jpg" alt="Svensk festival i København aflyser på grund af russisk invasion " />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Action Bronson med flere indtager københavnsk scene</title>
+    <link href="https://gaffa.dk/nyhed/156126/action-bronson-med-flere-indtager-kobenhavnsk-scene/"/>
+    <updated>2022-03-29T11:16:00Z</updated>
+    <published>2022-03-29T11:16:00Z</published>
+    <id>https://gaffa.dk/nyhed/156126/action-bronson-med-flere-indtager-kobenhavnsk-scene/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156126/action-bronson-med-flere-indtager-kobenhavnsk-scene/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2016/06/29/f42e5/228877-w1000.jpg" alt="Action Bronson med flere indtager københavnsk scene" />
+      </div>
+    ]]>
+    </content>
+  </entry>
   
   <entry>
     <title>Dæmoniske skrig skræmte ikke træt Louis Tomlinson</title>
@@ -19,6 +109,22 @@
     <![CDATA[
       <div><p><b>Anmeldelse:</b> 3 / 6 stjerner.</p>
           <p>Louis Tomlinson - Forum Black Box, København</p><img src="https://static.gaffa.dk/images/2022/03/29/9b03a/369425-w1000.JPG" alt="Dæmoniske skrig skræmte ikke træt Louis Tomlinson" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Næsten 10 års albumspause forløst med sikker hånd</title>
+    <link href="https://gaffa.dk/anmeldelse/156116/naesten-10-ars-albumspause-forlost-med-sikker-hand/"/>
+    <updated>2022-03-29T12:30:00Z</updated>
+    <published>2022-03-29T12:30:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/156116/naesten-10-ars-albumspause-forlost-med-sikker-hand/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/156116/naesten-10-ars-albumspause-forlost-med-sikker-hand/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
+          <p>Placebo - Never Let Me Go</p><img src="https://static.gaffa.dk/images/2022/03/28/fa7f1/369406-w1000.jpeg" alt="Næsten 10 års albumspause forløst med sikker hånd" />
       </div>
     ]]>
     </content>
@@ -49,6 +155,67 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/156120/mira-calix-er-dod/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/29/36958/369438-w1000.jpg" alt="Mira Calix er død" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Mick Jagger klar med ny solosang</title>
+    <link href="https://gaffa.dk/nyhed/156131/mick-jagger-klar-med-ny-solosang/"/>
+    <updated>2022-03-29T12:35:00Z</updated>
+    <published>2022-03-29T12:35:00Z</published>
+    <id>https://gaffa.dk/nyhed/156131/mick-jagger-klar-med-ny-solosang/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156131/mick-jagger-klar-med-ny-solosang/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2017/10/13/3edf7/279505-w1000.jpg" alt="Mick Jagger klar med ny solosang" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Dyrevelfærd - REMA 1000 i front i partnerskab med Dyrenes beskyttelse</title>
+    <link href="https://gaffa.dk/nyhed/156035/dyrevelfaerd-rema-1000-i-front-i-partnerskab-med-dyrenes-beskyttelse/"/>
+    <updated>2022-03-29T16:24:00Z</updated>
+    <published>2022-03-29T16:24:00Z</published>
+    <id>https://gaffa.dk/nyhed/156035/dyrevelfaerd-rema-1000-i-front-i-partnerskab-med-dyrenes-beskyttelse/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156035/dyrevelfaerd-rema-1000-i-front-i-partnerskab-med-dyrenes-beskyttelse/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/25/00e14/369213-w1000.jpg" alt="Dyrevelfærd - REMA 1000 i front i partnerskab med Dyrenes beskyttelse" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Spotify gør status om udbetalinger</title>
+    <link href="https://gaffa.dk/nyhed/156130/spotify-gor-status-om-udbetalinger/"/>
+    <updated>2022-03-29T14:00:00Z</updated>
+    <published>2022-03-29T14:00:00Z</published>
+    <id>https://gaffa.dk/nyhed/156130/spotify-gor-status-om-udbetalinger/</id>
+    <category term="news" label="Nyhed"/>
+    <content type="html" xml:base="https://gaffa.dk/nyhed/156130/spotify-gor-status-om-udbetalinger/">
+    <![CDATA[
+      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/29/94466/369443-w1000.jpg" alt="Spotify gør status om udbetalinger" />
+      </div>
+    ]]>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>ANMELDELSE: Tyndbenet lyd i gaming-headset</title>
+    <link href="https://gaffa.dk/anmeldelse/156127/anmeldelse-tyndbenet-lyd-i-gaming-headset/"/>
+    <updated>2022-03-29T13:00:00Z</updated>
+    <published>2022-03-29T13:00:00Z</published>
+    <id>https://gaffa.dk/anmeldelse/156127/anmeldelse-tyndbenet-lyd-i-gaming-headset/</id>
+    <category term="review" label="Anmeldelse"/>
+    <content type="html" xml:base="https://gaffa.dk/anmeldelse/156127/anmeldelse-tyndbenet-lyd-i-gaming-headset/">
+    <![CDATA[
+      <div><p><b>Anmeldelse:</b> 2 / 6 stjerner.</p>
+          <p>TECH - Roccat Syn Buds Core</p><img src="https://static.gaffa.dk/images/2022/03/29/1d8f1/369441-w1000.jpg" alt="ANMELDELSE: Tyndbenet lyd i gaming-headset" />
       </div>
     ]]>
     </content>
@@ -755,21 +922,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/156048/nyt-headset-lover-fed-lyd-i-op-til-60-timer/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/25/50d8a/369226-w1000.jpg" alt="Nyt headset lover fed lyd i op til 60 timer" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Dyrevelfærd - REMA 1000 i front i partnerskab med Dyrenes beskyttelse</title>
-    <link href="https://gaffa.dk/nyhed/156035/dyrevelfaerd-rema-1000-i-front-i-partnerskab-med-dyrenes-beskyttelse/"/>
-    <updated>2022-03-25T12:30:00Z</updated>
-    <published>2022-03-25T12:30:00Z</published>
-    <id>https://gaffa.dk/nyhed/156035/dyrevelfaerd-rema-1000-i-front-i-partnerskab-med-dyrenes-beskyttelse/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/156035/dyrevelfaerd-rema-1000-i-front-i-partnerskab-med-dyrenes-beskyttelse/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/25/00e14/369213-w1000.jpg" alt="Dyrevelfærd - REMA 1000 i front i partnerskab med Dyrenes beskyttelse" />
       </div>
     ]]>
     </content>
@@ -1643,14 +1795,14 @@
   
   <entry>
     <title>KLASSIKEREN: En togrejse gennem Europas elegance og dekadence</title>
-    <link href="https://gaffa.dk/nyhed/155908/klassikeren-en-togrejse-gennem-europas-elegance-og-dekadence/"/>
+    <link href="https://gaffa.dk/artikel/155908/klassikeren-en-togrejse-gennem-europas-elegance-og-dekadence/"/>
     <updated>2022-03-21T11:00:00Z</updated>
     <published>2022-03-21T11:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/155908/klassikeren-en-togrejse-gennem-europas-elegance-og-dekadence/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155908/klassikeren-en-togrejse-gennem-europas-elegance-og-dekadence/">
+    <id>https://gaffa.dk/artikel/155908/klassikeren-en-togrejse-gennem-europas-elegance-og-dekadence/</id>
+    <category term="article" label="Artikel"/>
+    <content type="html" xml:base="https://gaffa.dk/artikel/155908/klassikeren-en-togrejse-gennem-europas-elegance-og-dekadence/">
     <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/02/16/275c9/367444-w1000.jpg" alt="KLASSIKEREN: En togrejse gennem Europas elegance og dekadence" />
+      <div><p>Artikel</p><img src="https://static.gaffa.dk/images/2022/02/16/275c9/367444-w1000.jpg" alt="KLASSIKEREN: En togrejse gennem Europas elegance og dekadence" />
       </div>
     ]]>
     </content>
@@ -2905,162 +3057,6 @@
     <content type="html" xml:base="https://gaffa.dk/nyhed/155669/kellermensch-tager-pa-turne-med-nyt-album/">
     <![CDATA[
       <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/03/29d78/367963-w1000.jpg" alt="Kellermensch tager på turné med nyt album" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Joyce elsker 90’erne, og du kan også roligt elske deres andet album</title>
-    <link href="https://gaffa.dk/anmeldelse/155637/joyce-elsker-90erne-og-du-kan-ogsa-roligt-elske-deres-andet-album/"/>
-    <updated>2022-03-11T00:00:00Z</updated>
-    <published>2022-03-11T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155637/joyce-elsker-90erne-og-du-kan-ogsa-roligt-elske-deres-andet-album/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155637/joyce-elsker-90erne-og-du-kan-ogsa-roligt-elske-deres-andet-album/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
-          <p>Joyce - Elsk mig</p><img src="https://static.gaffa.dk/images/2022/03/10/37096/368445-w1000.jpg" alt="Joyce elsker 90’erne, og du kan også roligt elske deres andet album" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>VIDEO: Wet Leg optræder hos Jimmy Fallon</title>
-    <link href="https://gaffa.dk/nyhed/155708/video-wet-leg-optraeder-hos-jimmy-fallon/"/>
-    <updated>2022-03-11T15:07:00Z</updated>
-    <published>2022-03-11T15:07:00Z</published>
-    <id>https://gaffa.dk/nyhed/155708/video-wet-leg-optraeder-hos-jimmy-fallon/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155708/video-wet-leg-optraeder-hos-jimmy-fallon/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/11/c8e35/368520-w1000.jpg" alt="VIDEO: Wet Leg optræder hos Jimmy Fallon" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Selma Judith med høj fart over bumpene på vejen</title>
-    <link href="https://gaffa.dk/anmeldelse/155707/selma-judith-med-hoj-fart-over-bumpene-pa-vejen/"/>
-    <updated>2022-03-11T15:05:00Z</updated>
-    <published>2022-03-11T15:05:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155707/selma-judith-med-hoj-fart-over-bumpene-pa-vejen/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155707/selma-judith-med-hoj-fart-over-bumpene-pa-vejen/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 3 / 6 stjerner.</p>
-          <p>Selma Judith - Store Vega, København</p><img src="https://static.gaffa.dk/images/2022/03/11/37956/368532-w1000.jpg" alt="Selma Judith med høj fart over bumpene på vejen" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Ed Sheeran i ophavsretsstrid – synger i retssalen</title>
-    <link href="https://gaffa.dk/nyhed/155701/ed-sheeran-i-ophavsretsstrid-synger-i-retssalen/"/>
-    <updated>2022-03-11T13:00:00Z</updated>
-    <published>2022-03-11T13:00:00Z</published>
-    <id>https://gaffa.dk/nyhed/155701/ed-sheeran-i-ophavsretsstrid-synger-i-retssalen/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155701/ed-sheeran-i-ophavsretsstrid-synger-i-retssalen/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2019/08/19/e6d10/332097-w1000.jpg" alt="Ed Sheeran i ophavsretsstrid – synger i retssalen" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>SE VIDEO: Megan Thee Stallion og Dua Lipa er naturens forførende forcer</title>
-    <link href="https://gaffa.dk/nyhed/155694/se-video-megan-thee-stallion-og-dua-lipa-er-naturens-forforende-forcer/"/>
-    <updated>2022-03-11T10:54:00Z</updated>
-    <published>2022-03-11T10:54:00Z</published>
-    <id>https://gaffa.dk/nyhed/155694/se-video-megan-thee-stallion-og-dua-lipa-er-naturens-forforende-forcer/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155694/se-video-megan-thee-stallion-og-dua-lipa-er-naturens-forforende-forcer/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2022/03/11/71375/368513-w1000.jpg" alt="SE VIDEO: Megan Thee Stallion og Dua Lipa er naturens forførende forcer" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>LYT: Rebecca Lou udgiver rocket single om queer-kærlighed</title>
-    <link href="https://gaffa.dk/nyhed/155689/lyt-rebecca-lou-udgiver-rocket-single-om-queer-kaerlighed/"/>
-    <updated>2022-03-11T10:16:00Z</updated>
-    <published>2022-03-11T10:16:00Z</published>
-    <id>https://gaffa.dk/nyhed/155689/lyt-rebecca-lou-udgiver-rocket-single-om-queer-kaerlighed/</id>
-    <category term="news" label="Nyhed"/>
-    <content type="html" xml:base="https://gaffa.dk/nyhed/155689/lyt-rebecca-lou-udgiver-rocket-single-om-queer-kaerlighed/">
-    <![CDATA[
-      <div><p>Nyhed</p><img src="https://static.gaffa.dk/images/2021/10/26/1a748/362803-w1000.jpg" alt="LYT: Rebecca Lou udgiver rocket single om queer-kærlighed" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Er Sivas&#39; trilogi-finale dansk hiphops frihed?</title>
-    <link href="https://gaffa.dk/anmeldelse/155673/er-sivas-trilogi-finale-dansk-hiphops-frihed/"/>
-    <updated>2022-03-11T00:00:00Z</updated>
-    <published>2022-03-11T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155673/er-sivas-trilogi-finale-dansk-hiphops-frihed/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155673/er-sivas-trilogi-finale-dansk-hiphops-frihed/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
-          <p>Sivas - FORZA</p><img src="https://static.gaffa.dk/images/2022/03/10/28b81/368462-w1000.jpeg" alt="Er Sivas&#39; trilogi-finale dansk hiphops frihed?" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Sataniske tekster er sjældent blevet pakket så smukt ind</title>
-    <link href="https://gaffa.dk/anmeldelse/155670/sataniske-tekster-er-sjaeldent-blevet-pakket-sa-smukt-ind/"/>
-    <updated>2022-03-11T00:00:00Z</updated>
-    <published>2022-03-11T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155670/sataniske-tekster-er-sjaeldent-blevet-pakket-sa-smukt-ind/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155670/sataniske-tekster-er-sjaeldent-blevet-pakket-sa-smukt-ind/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
-          <p>Ghost - Impera</p><img src="https://static.gaffa.dk/images/2022/03/09/dbb51/368345-w1000.jpg" alt="Sataniske tekster er sjældent blevet pakket så smukt ind" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Postmoderne sexhymner om internet og psykofarmaka</title>
-    <link href="https://gaffa.dk/anmeldelse/155654/postmoderne-sexhymner-om-internet-og-psykofarmaka/"/>
-    <updated>2022-03-11T00:00:00Z</updated>
-    <published>2022-03-11T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/155654/postmoderne-sexhymner-om-internet-og-psykofarmaka/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/155654/postmoderne-sexhymner-om-internet-og-psykofarmaka/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 5 / 6 stjerner.</p>
-          <p>Alex Cameron - Oxy Music</p><img src="https://static.gaffa.dk/images/2022/03/10/be367/368453-w1000.jpg" alt="Postmoderne sexhymner om internet og psykofarmaka" />
-      </div>
-    ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Det synger langsomt ud fra landet nu i år</title>
-    <link href="https://gaffa.dk/anmeldelse/154680/det-synger-langsomt-ud-fra-landet-nu-i-ar/"/>
-    <updated>2022-03-11T00:00:00Z</updated>
-    <published>2022-03-11T00:00:00Z</published>
-    <id>https://gaffa.dk/anmeldelse/154680/det-synger-langsomt-ud-fra-landet-nu-i-ar/</id>
-    <category term="review" label="Anmeldelse"/>
-    <content type="html" xml:base="https://gaffa.dk/anmeldelse/154680/det-synger-langsomt-ud-fra-landet-nu-i-ar/">
-    <![CDATA[
-      <div><p><b>Anmeldelse:</b> 4 / 6 stjerner.</p>
-          <p>Lasse Storm - Holmegaårdsvej og andre historier</p><img src="https://static.gaffa.dk/images/2022/01/13/13f27/366349-w1000.png" alt="Det synger langsomt ud fra landet nu i år" />
       </div>
     ]]>
     </content>
